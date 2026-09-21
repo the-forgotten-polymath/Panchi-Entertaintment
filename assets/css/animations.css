@@ -1,0 +1,98 @@
+/* ==========================================================================
+   PANCHI ENTERTAINMENT - LUXURY ANIMATIONS & EFFECTS
+   ========================================================================== */
+
+/* Shimmer on Gold Elements */
+.pe-shimmer {
+  position: relative;
+  overflow: hidden;
+}
+
+.pe-shimmer::after {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(
+    60deg,
+    transparent 30%,
+    rgba(255, 255, 255, 0.2) 50%,
+    transparent 70%
+  );
+  transform: rotate(30deg) translateX(-100%);
+  animation: peShimmerFlow 6s infinite ease-in-out;
+}
+
+@keyframes peShimmerFlow {
+  0% { transform: rotate(30deg) translateX(-100%); }
+  25%, 100% { transform: rotate(30deg) translateX(100%); }
+}
+
+/* WhatsApp Pulse Ring */
+.pe-pulse-ring:not(.pe-floating-whatsapp) {
+  position: relative;
+}
+
+.pe-floating-whatsapp.pe-pulse-ring {
+  position: fixed !important;
+}
+
+.pe-pulse-ring::before {
+  content: '';
+  position: absolute;
+  top: -4px;
+  left: -4px;
+  right: -4px;
+  bottom: -4px;
+  border-radius: inherit;
+  border: 2px solid #25D366;
+  opacity: 0.8;
+  animation: pePulseAnimation 2.2s infinite cubic-bezier(0.24, 0, 0.38, 1);
+  pointer-events: none;
+  box-sizing: border-box;
+}
+
+@keyframes pePulseAnimation {
+  0% {
+    transform: scale(0.95);
+    opacity: 0.8;
+  }
+  50% {
+    transform: scale(1.15);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(0.95);
+    opacity: 0;
+  }
+}
+
+/* Subtle Scroll Reveal Classes */
+.pe-reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: opacity, transform;
+}
+
+.pe-reveal.pe-revealed {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.pe-delay-1 { transition-delay: 0.1s; }
+.pe-delay-2 { transition-delay: 0.2s; }
+.pe-delay-3 { transition-delay: 0.3s; }
+.pe-delay-4 { transition-delay: 0.4s; }
+
+/* Subtle Gold Border Glow on Hover */
+.pe-glow-hover {
+  transition: box-shadow 0.4s ease, border-color 0.4s ease;
+}
+
+.pe-glow-hover:hover {
+  box-shadow: 0 0 25px rgba(197, 160, 89, 0.25);
+  border-color: rgba(197, 160, 89, 0.6);
+}

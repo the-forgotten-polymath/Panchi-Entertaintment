@@ -1,0 +1,2647 @@
+{
+  "total_assets": 292,
+  "downloaded": 290,
+  "failed": 2,
+  "total_size_bytes": 266541895,
+  "total_size_mb": 254.19,
+  "assets": {
+    "assets/css/animations.css": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/css/animations.css",
+      "local_path": "assets/css/animations.css",
+      "type": "stylesheet",
+      "size_bytes": 2174,
+      "size_formatted": "2.1 KB",
+      "sha256": "8a66adb94ed1aeab523f02f940bca33a2d7487aa25cf5078b1eed765dcef0c3f",
+      "status": "downloaded"
+    },
+    "assets/css/responsive.css": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/css/responsive.css",
+      "local_path": "assets/css/responsive.css",
+      "type": "stylesheet",
+      "size_bytes": 66700,
+      "size_formatted": "65.1 KB",
+      "sha256": "0ec1582bf1554803e736212993f282e9eef6fe671d180f14174b59740d0d3259",
+      "status": "downloaded"
+    },
+    "assets/img/LOGO-HEADER.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/LOGO-HEADER.jpeg",
+      "local_path": "assets/img/LOGO-HEADER.jpeg",
+      "type": "image",
+      "size_bytes": 64947,
+      "size_formatted": "63.4 KB",
+      "sha256": "3d5f3b386d1eb8d2467181429c7c3ad13cb621fcae8254b77ae55522413d1abd",
+      "status": "downloaded"
+    },
+    "assets/img/catering/Where flavors meet celebration \ud83c\udf74\ud83d\udcab At Baraat & Beyond, we craft culinary experiences that not only delight the palate but also create memories for a lifetime_ From lavish spreads to personalized menus, we serve more than food, we serv.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/catering/Where%20flavors%20meet%20celebration%20%F0%9F%8D%B4%F0%9F%92%AB%20At%20Baraat%20%26%20Beyond%2C%20we%20craft%20culinary%20experiences%20that%20not%20only%20delight%20the%20palate%20but%20also%20create%20memories%20for%20a%20lifetime_%20From%20lavish%20spreads%20to%20personalized%20menus%2C%20we%20serve%20more%20than%20food%2C%20we%20serv.jpeg",
+      "local_path": "assets/img/catering/Where flavors meet celebration \ud83c\udf74\ud83d\udcab At Baraat & Beyond, we craft culinary experiences that not only delight the palate but also create memories for a lifetime_ From lavish spreads to personalized menus, we serve more than food, we serv.jpeg",
+      "type": "image",
+      "size_bytes": 119587,
+      "size_formatted": "116.8 KB",
+      "sha256": "7bec1d6352a5dc1f2afda5c85ea0cc542c367cc4d4dba644e6ad183eb0c37208",
+      "status": "downloaded"
+    },
+    "assets/img/CAREMOENY/A New Journey Begins \u2728 _ Traditional Indian Wedding Ceremony Chakshu Photography and Films.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/CAREMOENY/A%20New%20Journey%20Begins%20%E2%9C%A8%20_%20Traditional%20Indian%20Wedding%20Ceremony%20Chakshu%20Photography%20and%20Films.jpeg",
+      "local_path": "assets/img/CAREMOENY/A New Journey Begins \u2728 _ Traditional Indian Wedding Ceremony Chakshu Photography and Films.jpeg",
+      "type": "image",
+      "size_bytes": 177730,
+      "size_formatted": "173.6 KB",
+      "sha256": "366d29c140967ff965fe4d0c398db9f898d0caa4892655f6b53f18f30bbaf37c",
+      "status": "downloaded"
+    },
+    "assets/css/style.css": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/css/style.css",
+      "local_path": "assets/css/style.css",
+      "type": "stylesheet",
+      "size_bytes": 174314,
+      "size_formatted": "170.2 KB",
+      "sha256": "c4e0d82b249cdd6426ee1edcedcf965be4b8e77b66894cfd54755d6f42d07dc4",
+      "status": "downloaded"
+    },
+    "assets/img/header-logo.png": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/header-logo.png",
+      "local_path": "assets/img/header-logo.png",
+      "type": "image",
+      "size_bytes": 58915,
+      "size_formatted": "57.5 KB",
+      "sha256": "4990e01870007c1d3bdeec2c350e822528f371129c88d81d9410ebbaea7cab08",
+      "status": "downloaded"
+    },
+    "assets/img/hospitality/Attentive waiter serving drinks in an upscale restaurant cocktails wine.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/hospitality/Attentive%20waiter%20serving%20drinks%20in%20an%20upscale%20restaurant%20cocktails%20wine.jpeg",
+      "local_path": "assets/img/hospitality/Attentive waiter serving drinks in an upscale restaurant cocktails wine.jpeg",
+      "type": "image",
+      "size_bytes": 62642,
+      "size_formatted": "61.2 KB",
+      "sha256": "acef522a4adde7241c386ebaa1d4776acdef7fe393625b7b47c8aecce56292f9",
+      "status": "downloaded"
+    },
+    "assets/img/Corporate events/Corporate Event Ideas.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Corporate%20events/Corporate%20Event%20Ideas.jpeg",
+      "local_path": "assets/img/Corporate events/Corporate Event Ideas.jpeg",
+      "type": "image",
+      "size_bytes": 171062,
+      "size_formatted": "167.1 KB",
+      "sha256": "b77f90bcafdea9ad40c9e0a182786da3a24147fe49b468ee5b8003c785f7dafc",
+      "status": "downloaded"
+    },
+    "assets/img/hero/hero-wedding.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/hero/hero-wedding.jpg",
+      "local_path": "assets/img/hero/hero-wedding.jpg",
+      "type": "image",
+      "size_bytes": 265251,
+      "size_formatted": "259.0 KB",
+      "sha256": "e1877425163211b179020773147a812a94ceef4d62d6473197c46de870099296",
+      "status": "downloaded"
+    },
+    "assets/img/Bright Night SFX & Fireworks/Spectacular Golden Fireworks Night Scene for Celebrations.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Bright%20Night%20SFX%20%26%20Fireworks/Spectacular%20Golden%20Fireworks%20Night%20Scene%20for%20Celebrations.jpeg",
+      "local_path": "assets/img/Bright Night SFX & Fireworks/Spectacular Golden Fireworks Night Scene for Celebrations.jpeg",
+      "type": "image",
+      "size_bytes": 90594,
+      "size_formatted": "88.5 KB",
+      "sha256": "7199f5c652632b24c6ef81fd5aa25af222e73bcf8dcf7af4083e8e9373f4d5b9",
+      "status": "downloaded"
+    },
+    "assets/img/Royal Baraat & Bespoke Decor/Royal vibes only \ud83d\udc51 \u2014 This breathtaking palace setting adds the perfect touch of grandeur to their wedding portraits, where heritage meets romance in every frame_ \ud83d\udcab __Planner_ @studioeventz_Photo_Video_ @magicmotionmedia_Venue_ @hya.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Royal%20Baraat%20%26%20Bespoke%20Decor/Royal%20vibes%20only%20%F0%9F%91%91%20%E2%80%94%20This%20breathtaking%20palace%20setting%20adds%20the%20perfect%20touch%20of%20grandeur%20to%20their%20wedding%20portraits%2C%20where%20heritage%20meets%20romance%20in%20every%20frame_%20%F0%9F%92%AB%20__Planner_%20%40studioeventz_Photo_Video_%20%40magicmotionmedia_Venue_%20%40hya.jpeg",
+      "local_path": "assets/img/Royal Baraat & Bespoke Decor/Royal vibes only \ud83d\udc51 \u2014 This breathtaking palace setting adds the perfect touch of grandeur to their wedding portraits, where heritage meets romance in every frame_ \ud83d\udcab __Planner_ @studioeventz_Photo_Video_ @magicmotionmedia_Venue_ @hya.jpeg",
+      "type": "image",
+      "size_bytes": 149245,
+      "size_formatted": "145.7 KB",
+      "sha256": "a6e9ce6e1d0114c4f2613546f9fb9fbbc411806f80b68d2fa31cac5f0be2ae7b",
+      "status": "downloaded"
+    },
+    "assets/img/Bright Night SFX & Fireworks/From Klickpin.com- 11 Spa Night Ideas That Make Life Easier-pin-id-815714551299942287.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Bright%20Night%20SFX%20%26%20Fireworks/From%20Klickpin.com-%2011%20Spa%20Night%20Ideas%20That%20Make%20Life%20Easier-pin-id-815714551299942287.mp4",
+      "local_path": "assets/img/Bright Night SFX & Fireworks/From Klickpin.com- 11 Spa Night Ideas That Make Life Easier-pin-id-815714551299942287.mp4",
+      "type": "video",
+      "size_bytes": 2861644,
+      "size_formatted": "2.73 MB",
+      "sha256": "cb18b589ba445b45cb16dab246a8e20824332a38532ba93d43bdc974881fad81",
+      "status": "downloaded"
+    },
+    "assets/img/artists/Diljit Dosanjh/Diljit Dosanjh (1).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/Diljit%20Dosanjh/Diljit%20Dosanjh%20%281%29.jpeg",
+      "local_path": "assets/img/artists/Diljit Dosanjh/Diljit Dosanjh (1).jpeg",
+      "type": "image",
+      "size_bytes": 77534,
+      "size_formatted": "75.7 KB",
+      "sha256": "bcadb078337ab00b2dd2613262810882bc63c7ac61ea143eeef10c609beb5b56",
+      "status": "downloaded"
+    },
+    "assets/img/Photography & Wedding Films/Joyful Destination Wedding Celebration Filled with Love & Traditions.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Photography%20%26%20Wedding%20Films/Joyful%20Destination%20Wedding%20Celebration%20Filled%20with%20Love%20%26%20Traditions.jpeg",
+      "local_path": "assets/img/Photography & Wedding Films/Joyful Destination Wedding Celebration Filled with Love & Traditions.jpeg",
+      "type": "image",
+      "size_bytes": 188282,
+      "size_formatted": "183.9 KB",
+      "sha256": "fe4b7c330fce2a9d235a4e41b2aa16b3bcf930f63f64805665d396deaab9914d",
+      "status": "downloaded"
+    },
+    "assets/img/services/service-photography.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/services/service-photography.jpg",
+      "local_path": "assets/img/services/service-photography.jpg",
+      "type": "image",
+      "size_bytes": 275055,
+      "size_formatted": "268.6 KB",
+      "sha256": "0ced35d66848932c546fd0e2f16ee8295b35b64ed959ff3e5c3de4e8e90f7574",
+      "status": "downloaded"
+    },
+    "assets/img/Photography & Wedding Films/photo-prewedding.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Photography%20%26%20Wedding%20Films/photo-prewedding.jpg",
+      "local_path": "assets/img/Photography & Wedding Films/photo-prewedding.jpg",
+      "type": "image",
+      "size_bytes": 179792,
+      "size_formatted": "175.6 KB",
+      "sha256": "c3f42f133804e3987760388b1831498e2dde138a729c7db920393dcb02f6dd14",
+      "status": "downloaded"
+    },
+    "assets/img/hero/A Timeless Wedding Moment_ Love in Every Detail.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/hero/A%20Timeless%20Wedding%20Moment_%20Love%20in%20Every%20Detail.jpeg",
+      "local_path": "assets/img/hero/A Timeless Wedding Moment_ Love in Every Detail.jpeg",
+      "type": "image",
+      "size_bytes": 146218,
+      "size_formatted": "142.8 KB",
+      "sha256": "0a9660a3ce78f5c3c3d599ff5cedbcf0c927b56e2e99ac29b3dac718299ceade",
+      "status": "downloaded"
+    },
+    "assets/img/CAREMOENY/From Klickpin.com- Try Fresh wedding hair ideas that make your next project look polished and expensive with simple details that elevate the final.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/CAREMOENY/From%20Klickpin.com-%20Try%20Fresh%20wedding%20hair%20ideas%20that%20make%20your%20next%20project%20look%20polished%20and%20expensive%20with%20simple%20details%20that%20elevate%20the%20final.mp4",
+      "local_path": "assets/img/CAREMOENY/From Klickpin.com- Try Fresh wedding hair ideas that make your next project look polished and expensive with simple details that elevate the final.mp4",
+      "type": "video",
+      "size_bytes": 3488102,
+      "size_formatted": "3.33 MB",
+      "sha256": "30fd38f36cf6198556b6844e434ad273e4a0d1488f05122c8f4b6a86bc2bc644",
+      "status": "downloaded"
+    },
+    "assets/img/CAREMOENY/Discover the Finest Styles of Wedding Photography.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/CAREMOENY/Discover%20the%20Finest%20Styles%20of%20Wedding%20Photography.jpeg",
+      "local_path": "assets/img/CAREMOENY/Discover the Finest Styles of Wedding Photography.jpeg",
+      "type": "image",
+      "size_bytes": 76622,
+      "size_formatted": "74.8 KB",
+      "sha256": "e5748676311e2a663de192a365d376f879ffbd4306a09f2bfdf65d3e8f5bce68",
+      "status": "downloaded"
+    },
+    "assets/img/events/sangeet.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/sangeet.jpg",
+      "local_path": "assets/img/events/sangeet.jpg",
+      "type": "image",
+      "size_bytes": 149934,
+      "size_formatted": "146.4 KB",
+      "sha256": "ce07286793b90d26a73cfd22a9d027c94a21bab05088190add93956cda3c98cf",
+      "status": "downloaded"
+    },
+    "assets/img/Photography & Wedding Films/From Klickpin.com- Dreamy boho home decor ideas that are worth saving if you love elegant details and creative inspiration for beginners who want.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Photography%20%26%20Wedding%20Films/From%20Klickpin.com-%20Dreamy%20boho%20home%20decor%20ideas%20that%20are%20worth%20saving%20if%20you%20love%20elegant%20details%20and%20creative%20inspiration%20for%20beginners%20who%20want.mp4",
+      "local_path": "assets/img/Photography & Wedding Films/From Klickpin.com- Dreamy boho home decor ideas that are worth saving if you love elegant details and creative inspiration for beginners who want.mp4",
+      "type": "video",
+      "size_bytes": 3285828,
+      "size_formatted": "3.13 MB",
+      "sha256": "1b6e6860bc5581e5bee7512f44874514171534d08f2d18975d88ffe32fa600b5",
+      "status": "downloaded"
+    },
+    "assets/img/events/engagement-1.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/engagement-1.jpg",
+      "local_path": "assets/img/events/engagement-1.jpg",
+      "type": "image",
+      "size_bytes": 82864,
+      "size_formatted": "80.9 KB",
+      "sha256": "a9b10af141e268c4142911f2b32aa700fe1a9f46df9702709c84d957bd14d1c8",
+      "status": "downloaded"
+    },
+    "assets/img/sfx/sfx-2.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/sfx/sfx-2.jpg",
+      "local_path": "assets/img/sfx/sfx-2.jpg",
+      "type": "image",
+      "size_bytes": 114053,
+      "size_formatted": "111.4 KB",
+      "sha256": "6c5d97f2711595ebb0895a73b3b387e1d16d7f587376dfbe027fe0eaa52c37b5",
+      "status": "downloaded"
+    },
+    "assets/img/events/reception-2.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/reception-2.jpg",
+      "local_path": "assets/img/events/reception-2.jpg",
+      "type": "image",
+      "size_bytes": 156172,
+      "size_formatted": "152.5 KB",
+      "sha256": "be4a511738bb6866c413c952cb90d07c2ae45a407a267bd89d37f5cdff55e092",
+      "status": "downloaded"
+    },
+    "assets/img/barat-decor/sangeet-stage-decor.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/barat-decor/sangeet-stage-decor.jpg",
+      "local_path": "assets/img/barat-decor/sangeet-stage-decor.jpg",
+      "type": "image",
+      "size_bytes": 345172,
+      "size_formatted": "337.1 KB",
+      "sha256": "077ed6beaf398e3d6328e4ddb3d4c9939ec8fb16ef5e5d1adfc1ab310b493255",
+      "status": "downloaded"
+    },
+    "assets/img/events/mehendi-1.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/mehendi-1.jpg",
+      "local_path": "assets/img/events/mehendi-1.jpg",
+      "type": "image",
+      "size_bytes": 142847,
+      "size_formatted": "139.5 KB",
+      "sha256": "1f25bcb85b5f44c54df796f0b0aa0137023237706670eb514ff6f5f1313b8fa7",
+      "status": "downloaded"
+    },
+    "assets/img/events/wedding-ceremony-2.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/wedding-ceremony-2.jpg",
+      "local_path": "assets/img/events/wedding-ceremony-2.jpg",
+      "type": "image",
+      "size_bytes": 208063,
+      "size_formatted": "203.2 KB",
+      "sha256": "968699b6820f21fd9800414e786591e831be6ce3a56e9d084a0d5d7e1654e377",
+      "status": "downloaded"
+    },
+    "assets/img/events/vidaai-1.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/vidaai-1.jpg",
+      "local_path": "assets/img/events/vidaai-1.jpg",
+      "type": "image",
+      "size_bytes": 129247,
+      "size_formatted": "126.2 KB",
+      "sha256": "cf5c7bd41b043efa14900d2d0f137ce7335d6312b2b2f9c2f3405ae150f36fc5",
+      "status": "downloaded"
+    },
+    "assets/img/events/haldi.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/haldi.jpg",
+      "local_path": "assets/img/events/haldi.jpg",
+      "type": "image",
+      "size_bytes": 163443,
+      "size_formatted": "159.6 KB",
+      "sha256": "59675f10ac2b2fc18204876e40740bef549f226209d927669e2321bb38f0b524",
+      "status": "downloaded"
+    },
+    "assets/img/Grand Lavish Baraat/crazy-barat-candid.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Grand%20Lavish%20Baraat/crazy-barat-candid.jpeg",
+      "local_path": "assets/img/Grand Lavish Baraat/crazy-barat-candid.jpeg",
+      "type": "image",
+      "size_bytes": 118372,
+      "size_formatted": "115.6 KB",
+      "sha256": "e6231e86a334cb13319f3b62c2d3e221ca7423095f7c5252cf9efa132bc1fbd0",
+      "status": "downloaded"
+    },
+    "assets/img/catering/catering-1.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/catering/catering-1.jpg",
+      "local_path": "assets/img/catering/catering-1.jpg",
+      "type": "image",
+      "size_bytes": 86317,
+      "size_formatted": "84.3 KB",
+      "sha256": "19e8a6c6a6be47c2e1bed5d452fb5a9ae5ec2cf38f6bfa93dbb5c85aef83e011",
+      "status": "downloaded"
+    },
+    "assets/img/catering/catering-2.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/catering/catering-2.jpg",
+      "local_path": "assets/img/catering/catering-2.jpg",
+      "type": "image",
+      "size_bytes": 107776,
+      "size_formatted": "105.2 KB",
+      "sha256": "09c4b4f748312e896e0d75b2716d5414a672f2f5b14020fd24b5d21ef05e728b",
+      "status": "downloaded"
+    },
+    "assets/img/catering/catering-3.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/catering/catering-3.jpg",
+      "local_path": "assets/img/catering/catering-3.jpg",
+      "type": "image",
+      "size_bytes": 106606,
+      "size_formatted": "104.1 KB",
+      "sha256": "d8fa7df901a96db91600abced6995c7fc08cf12d41d4479d9d42b9c9c52d401b",
+      "status": "downloaded"
+    },
+    "assets/img/barat-decor/entrance-decor.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/barat-decor/entrance-decor.jpg",
+      "local_path": "assets/img/barat-decor/entrance-decor.jpg",
+      "type": "image",
+      "size_bytes": 405829,
+      "size_formatted": "396.3 KB",
+      "sha256": "e088c39190e0bd617a6a08319810a629c625ec8c313f10b6355522ddce31e7c4",
+      "status": "downloaded"
+    },
+    "assets/img/artists/diljit-dosanjh.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/diljit-dosanjh.jpg",
+      "local_path": "assets/img/artists/diljit-dosanjh.jpg",
+      "type": "image",
+      "size_bytes": 77534,
+      "size_formatted": "75.7 KB",
+      "sha256": "bcadb078337ab00b2dd2613262810882bc63c7ac61ea143eeef10c609beb5b56",
+      "status": "downloaded"
+    },
+    "assets/img/artists/ap-dhillon.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/ap-dhillon.jpg",
+      "local_path": "assets/img/artists/ap-dhillon.jpg",
+      "type": "image",
+      "size_bytes": 85456,
+      "size_formatted": "83.5 KB",
+      "sha256": "de60ae6a9b05810a0cc02b4703bfa2040d80a319420eb2dbfda94a904abc1c76",
+      "status": "downloaded"
+    },
+    "assets/img/artists/karan-aujla.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/karan-aujla.jpg",
+      "local_path": "assets/img/artists/karan-aujla.jpg",
+      "type": "image",
+      "size_bytes": 63312,
+      "size_formatted": "61.8 KB",
+      "sha256": "dbce3eaaaa2cf4b812c10162ce876622c6ad36c8a1ad23caae28eca0869ad8e3",
+      "status": "downloaded"
+    },
+    "assets/img/artists/jasmine-sandlas.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/jasmine-sandlas.jpg",
+      "local_path": "assets/img/artists/jasmine-sandlas.jpg",
+      "type": "image",
+      "size_bytes": 71656,
+      "size_formatted": "70.0 KB",
+      "sha256": "2212b5b230dd7e7b2369ab3b398d56b3b200d587d4d2c69d616800c3bf31c3cb",
+      "status": "downloaded"
+    },
+    "assets/img/patners/images (1).png": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/patners/images%20%281%29.png",
+      "local_path": "assets/img/patners/images (1).png",
+      "type": "image",
+      "size_bytes": 9829,
+      "size_formatted": "9.6 KB",
+      "sha256": "33a0088a7ca7f300cfe8add897c31c5d38d907e5cf113c85174927a50737248d",
+      "status": "downloaded"
+    },
+    "assets/img/patners/meridien.png": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/patners/meridien.png",
+      "local_path": "assets/img/patners/meridien.png",
+      "type": "image",
+      "size_bytes": 31032,
+      "size_formatted": "30.3 KB",
+      "sha256": "2dbf23a8791cbd174ddd60701ae70517dd0c1788eb9bdb047badaae9090785dd",
+      "status": "downloaded"
+    },
+    "assets/img/artists/sunanda-sharma.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/sunanda-sharma.jpg",
+      "local_path": "assets/img/artists/sunanda-sharma.jpg",
+      "type": "image",
+      "size_bytes": 52808,
+      "size_formatted": "51.6 KB",
+      "sha256": "c0db6128704245ee51ce981bccd8e72801596e08b470eae0a8cd89ede54a3f89",
+      "status": "downloaded"
+    },
+    "assets/img/patners/images (2).png": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/patners/images%20%282%29.png",
+      "local_path": "assets/img/patners/images (2).png",
+      "type": "image",
+      "size_bytes": 14025,
+      "size_formatted": "13.7 KB",
+      "sha256": "9ebd59e215639e6a1225909642a0e8c1a68a6abe884410ff2179664e5fe78d37",
+      "status": "downloaded"
+    },
+    "assets/img/artists/b-praak.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/b-praak.jpg",
+      "local_path": "assets/img/artists/b-praak.jpg",
+      "type": "image",
+      "size_bytes": 89745,
+      "size_formatted": "87.6 KB",
+      "sha256": "00699c4f450617a6a1ee809ef0bbbe065021e3548b02361e63b9e8ff29c33452",
+      "status": "downloaded"
+    },
+    "assets/img/patners/images.png": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/patners/images.png",
+      "local_path": "assets/img/patners/images.png",
+      "type": "image",
+      "size_bytes": 12942,
+      "size_formatted": "12.6 KB",
+      "sha256": "9446a6f792b0b0442c857587ddf59f955ec0972b696377bce544eb740837657e",
+      "status": "downloaded"
+    },
+    "assets/img/artists/harshdeep-kaur.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/harshdeep-kaur.jpg",
+      "local_path": "assets/img/artists/harshdeep-kaur.jpg",
+      "type": "image",
+      "size_bytes": 45584,
+      "size_formatted": "44.5 KB",
+      "sha256": "4a69019a5084af8d6aac7c684df7d74acdef5433b4d0cb69dfb3d9cf501ad4f8",
+      "status": "downloaded"
+    },
+    "assets/img/patners/Fairfield_by_Marriott_logo.png": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/patners/Fairfield_by_Marriott_logo.png",
+      "local_path": "assets/img/patners/Fairfield_by_Marriott_logo.png",
+      "type": "image",
+      "size_bytes": 10435,
+      "size_formatted": "10.2 KB",
+      "sha256": "09a13c37596de0c738e3274f83ede87545d454533254db0929c9b30dddf4fcec",
+      "status": "downloaded"
+    },
+    "assets/img/patners/redfox.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/patners/redfox.jpg",
+      "local_path": "assets/img/patners/redfox.jpg",
+      "type": "image",
+      "size_bytes": 13728,
+      "size_formatted": "13.4 KB",
+      "sha256": "9458d6b9acd475969a4c66b0df20770261e8f41ebbade18d279c327879a433c9",
+      "status": "downloaded"
+    },
+    "assets/js/main.js": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/js/main.js",
+      "local_path": "assets/js/main.js",
+      "type": "script",
+      "size_bytes": 22660,
+      "size_formatted": "22.1 KB",
+      "sha256": "eff498be5615db001773fe3517636d08060079cb1d825439201cec1688b43e57",
+      "status": "downloaded"
+    },
+    "assets/img/patners/7bba7e538789e510d69f4cf107cf84dc096f65eb-165x57.svg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/patners/7bba7e538789e510d69f4cf107cf84dc096f65eb-165x57.svg",
+      "local_path": "assets/img/patners/7bba7e538789e510d69f4cf107cf84dc096f65eb-165x57.svg",
+      "type": "image",
+      "size_bytes": 11607,
+      "size_formatted": "11.3 KB",
+      "sha256": "74aabc0ab3613724a7a035aafac6e69f0a8dee0ba921d50e71bf72465dbd1e23",
+      "status": "downloaded"
+    },
+    "assets/img/patners/Lemon-Tree-Premier-Rishikesh-logo.png": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/patners/Lemon-Tree-Premier-Rishikesh-logo.png",
+      "local_path": "assets/img/patners/Lemon-Tree-Premier-Rishikesh-logo.png",
+      "type": "image",
+      "size_bytes": 16907,
+      "size_formatted": "16.5 KB",
+      "sha256": "b94ccd5bb925bfcdcbbea251e878fc21cb75105178b1c4fcbc59f64d84519c09",
+      "status": "downloaded"
+    },
+    "assets/img/events/wedding-ceremony-1.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/wedding-ceremony-1.jpg",
+      "local_path": "assets/img/events/wedding-ceremony-1.jpg",
+      "type": "image",
+      "size_bytes": 114111,
+      "size_formatted": "111.4 KB",
+      "sha256": "922c0c19b9b2a3f4e166726ae7656b41e8ac7d700ded41953b4b8a224e1a1184",
+      "status": "downloaded"
+    },
+    "assets/img/CAREMOENY/Hindu Wedding Traditions Explained_ Every Ritual, Its Meaning & What Guests Need to Know.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/CAREMOENY/Hindu%20Wedding%20Traditions%20Explained_%20Every%20Ritual%2C%20Its%20Meaning%20%26%20What%20Guests%20Need%20to%20Know.jpeg",
+      "local_path": "assets/img/CAREMOENY/Hindu Wedding Traditions Explained_ Every Ritual, Its Meaning & What Guests Need to Know.jpeg",
+      "type": "image",
+      "size_bytes": 84714,
+      "size_formatted": "82.7 KB",
+      "sha256": "6996e32d298d6f115e75d108af5f24174abad44a77ab8af7f2cc5db9db787fcc",
+      "status": "downloaded"
+    },
+    "assets/js/sliders.js": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/js/sliders.js",
+      "local_path": "assets/js/sliders.js",
+      "type": "script",
+      "size_bytes": 60551,
+      "size_formatted": "59.1 KB",
+      "sha256": "e8dba27d88789ca0691ec40dcb5a65b93b35af7e1cdcaacca9088cd720038139",
+      "status": "downloaded"
+    },
+    "assets/img/CAREMOENY/Nikkah\u2764\ufe0f__For inquiries_ info@brilliantfilms_ca __Location @therubymanor.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/CAREMOENY/Nikkah%E2%9D%A4%EF%B8%8F__For%20inquiries_%20info%40brilliantfilms_ca%20__Location%20%40therubymanor.jpeg",
+      "local_path": "assets/img/CAREMOENY/Nikkah\u2764\ufe0f__For inquiries_ info@brilliantfilms_ca __Location @therubymanor.jpeg",
+      "type": "image",
+      "size_bytes": 125223,
+      "size_formatted": "122.3 KB",
+      "sha256": "542854e3115ebbc22c7d1137c324b471be784f4af1d71f58ad1abfee96fa4a2f",
+      "status": "downloaded"
+    },
+    "assets/img/CAREMOENY/Best Wedding Poses.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/CAREMOENY/Best%20Wedding%20Poses.jpeg",
+      "local_path": "assets/img/CAREMOENY/Best Wedding Poses.jpeg",
+      "type": "image",
+      "size_bytes": 200868,
+      "size_formatted": "196.2 KB",
+      "sha256": "31d330cff3b616eb6e26d6dbcacc965f434ca9ccb984388e1faab35844da83da",
+      "status": "downloaded"
+    },
+    "assets/img/catering/Best Catering Services in Chennai _ Wedding & Event Catering Experts.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/catering/Best%20Catering%20Services%20in%20Chennai%20_%20Wedding%20%26%20Event%20Catering%20Experts.jpeg",
+      "local_path": "assets/img/catering/Best Catering Services in Chennai _ Wedding & Event Catering Experts.jpeg",
+      "type": "image",
+      "size_bytes": 86317,
+      "size_formatted": "84.3 KB",
+      "sha256": "19e8a6c6a6be47c2e1bed5d452fb5a9ae5ec2cf38f6bfa93dbb5c85aef83e011",
+      "status": "downloaded"
+    },
+    "assets/img/CAREMOENY/Weddings, Indian Wedding Planning Online.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/CAREMOENY/Weddings%2C%20Indian%20Wedding%20Planning%20Online.jpeg",
+      "local_path": "assets/img/CAREMOENY/Weddings, Indian Wedding Planning Online.jpeg",
+      "type": "image",
+      "size_bytes": 208063,
+      "size_formatted": "203.2 KB",
+      "sha256": "968699b6820f21fd9800414e786591e831be6ce3a56e9d084a0d5d7e1654e377",
+      "status": "downloaded"
+    },
+    "assets/img/catering/Flavour is our signature.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/catering/Flavour%20is%20our%20signature.jpeg",
+      "local_path": "assets/img/catering/Flavour is our signature.jpeg",
+      "type": "image",
+      "size_bytes": 100239,
+      "size_formatted": "97.9 KB",
+      "sha256": "07a657b5c2741fd9ef5c65648c320b22c4446adb6d19ee67d2eab5f9992bf429",
+      "status": "downloaded"
+    },
+    "assets/img/CAREMOENY/Couple Wedding Photo Inspo.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/CAREMOENY/Couple%20Wedding%20Photo%20Inspo.jpeg",
+      "local_path": "assets/img/CAREMOENY/Couple Wedding Photo Inspo.jpeg",
+      "type": "image",
+      "size_bytes": 86345,
+      "size_formatted": "84.3 KB",
+      "sha256": "cbf66689453a3c18d89967226cd999e3f1824088b5a9c0ec4046502beca18ffd",
+      "status": "downloaded"
+    },
+    "assets/img/From Klickpin.com- Discover these 33 Elegant travel packing tips that are trending right now and still timeless enough to save for later for anyon.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/From%20Klickpin.com-%20Discover%20these%2033%20Elegant%20travel%20packing%20tips%20that%20are%20trending%20right%20now%20and%20still%20timeless%20enough%20to%20save%20for%20later%20for%20anyon.mp4",
+      "local_path": "assets/img/From Klickpin.com- Discover these 33 Elegant travel packing tips that are trending right now and still timeless enough to save for later for anyon.mp4",
+      "type": "video",
+      "size_bytes": 4186750,
+      "size_formatted": "3.99 MB",
+      "sha256": "2ea256541afa40eab024af197518b9ec99326940552d808caf51b7d8a61c2958",
+      "status": "downloaded"
+    },
+    "assets/img/catering/Photo By Ashirwad Caterers - Catering Services.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/catering/Photo%20By%20Ashirwad%20Caterers%20-%20Catering%20Services.jpeg",
+      "local_path": "assets/img/catering/Photo By Ashirwad Caterers - Catering Services.jpeg",
+      "type": "image",
+      "size_bytes": 136628,
+      "size_formatted": "133.4 KB",
+      "sha256": "d99bd60482c2b5e87cedba414548a6f90021b5ed51cba936c731a516ef4e892d",
+      "status": "downloaded"
+    },
+    "assets/img/catering/Brahmin Catering Services in Chennai _ Sai Marriage Catering \u2013 Pure Veg Wedding Experts.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/catering/Brahmin%20Catering%20Services%20in%20Chennai%20_%20Sai%20Marriage%20Catering%20%E2%80%93%20Pure%20Veg%20Wedding%20Experts.jpeg",
+      "local_path": "assets/img/catering/Brahmin Catering Services in Chennai _ Sai Marriage Catering \u2013 Pure Veg Wedding Experts.jpeg",
+      "type": "image",
+      "size_bytes": 106606,
+      "size_formatted": "104.1 KB",
+      "sha256": "d8fa7df901a96db91600abced6995c7fc08cf12d41d4479d9d42b9c9c52d401b",
+      "status": "downloaded"
+    },
+    "assets/img/catering/Vegan and Vegetarian Wedding Catering Options in India.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/catering/Vegan%20and%20Vegetarian%20Wedding%20Catering%20Options%20in%20India.jpeg",
+      "local_path": "assets/img/catering/Vegan and Vegetarian Wedding Catering Options in India.jpeg",
+      "type": "image",
+      "size_bytes": 123932,
+      "size_formatted": "121.0 KB",
+      "sha256": "28b9c37e1c59924911c2153237210dd30c5dccf2e356764134c0b74cde81a0ee",
+      "status": "downloaded"
+    },
+    "assets/img/Bright Night SFX & Fireworks/Your Sangeet Deserves This Stage Energy.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Bright%20Night%20SFX%20%26%20Fireworks/Your%20Sangeet%20Deserves%20This%20Stage%20Energy.jpeg",
+      "local_path": "assets/img/Bright Night SFX & Fireworks/Your Sangeet Deserves This Stage Energy.jpeg",
+      "type": "image",
+      "size_bytes": 114053,
+      "size_formatted": "111.4 KB",
+      "sha256": "6c5d97f2711595ebb0895a73b3b387e1d16d7f587376dfbe027fe0eaa52c37b5",
+      "status": "downloaded"
+    },
+    "assets/img/catering/Photo By Vojonrasik Catering Service - Catering Services.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/catering/Photo%20By%20Vojonrasik%20Catering%20Service%20-%20Catering%20Services.jpeg",
+      "local_path": "assets/img/catering/Photo By Vojonrasik Catering Service - Catering Services.jpeg",
+      "type": "image",
+      "size_bytes": 93090,
+      "size_formatted": "90.9 KB",
+      "sha256": "b5f78a076a86054a84bca3d74e1d502a86c0e795152c19a7e8de7b921f702915",
+      "status": "downloaded"
+    },
+    "assets/img/Bright Night SFX & Fireworks/Blue-ish firework.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Bright%20Night%20SFX%20%26%20Fireworks/Blue-ish%20firework.jpeg",
+      "local_path": "assets/img/Bright Night SFX & Fireworks/Blue-ish firework.jpeg",
+      "type": "image",
+      "size_bytes": 57497,
+      "size_formatted": "56.1 KB",
+      "sha256": "e9b8944883ea4c56926655385a3886740e759ac093c915520dd79dad2cbc8f1f",
+      "status": "downloaded"
+    },
+    "assets/img/Bright Night SFX & Fireworks/KUN.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Bright%20Night%20SFX%20%26%20Fireworks/KUN.jpeg",
+      "local_path": "assets/img/Bright Night SFX & Fireworks/KUN.jpeg",
+      "type": "image",
+      "size_bytes": 198789,
+      "size_formatted": "194.1 KB",
+      "sha256": "f7f497c0de1bb266ea6fabf83150bd016110c424fa659c78c82c7fb6c774a900",
+      "status": "downloaded"
+    },
+    "assets/img/Bright Night SFX & Fireworks/SANDEEP NAINA.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Bright%20Night%20SFX%20%26%20Fireworks/SANDEEP%20NAINA.jpeg",
+      "local_path": "assets/img/Bright Night SFX & Fireworks/SANDEEP NAINA.jpeg",
+      "type": "image",
+      "size_bytes": 88861,
+      "size_formatted": "86.8 KB",
+      "sha256": "5d2aa9d6870f25031329b4d3d5aab42fba0b665c609a01c20a365e5245c141b1",
+      "status": "downloaded"
+    },
+    "assets/img/Royal Baraat & Bespoke Decor/Barat photos Save _ Indian Baraat _ Barati _ Crazy Baraat _ The Wedding Netra Photography &Film.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Royal%20Baraat%20%26%20Bespoke%20Decor/Barat%20photos%20Save%20_%20Indian%20Baraat%20_%20Barati%20_%20Crazy%20Baraat%20_%20The%20Wedding%20Netra%20Photography%20%26Film.jpeg",
+      "local_path": "assets/img/Royal Baraat & Bespoke Decor/Barat photos Save _ Indian Baraat _ Barati _ Crazy Baraat _ The Wedding Netra Photography &Film.jpeg",
+      "type": "image",
+      "size_bytes": 153987,
+      "size_formatted": "150.4 KB",
+      "sha256": "1ce671bf64f140c755ca136be3cb394fa17022e39df5f63b0fd850222ad8203a",
+      "status": "downloaded"
+    },
+    "assets/img/Royal Baraat & Bespoke Decor/A Contemporary Indian Wedding in Orlando Blending Love, Tradition, and Celebration - Wedding Style Magazine.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Royal%20Baraat%20%26%20Bespoke%20Decor/A%20Contemporary%20Indian%20Wedding%20in%20Orlando%20Blending%20Love%2C%20Tradition%2C%20and%20Celebration%20-%20Wedding%20Style%20Magazine.jpeg",
+      "local_path": "assets/img/Royal Baraat & Bespoke Decor/A Contemporary Indian Wedding in Orlando Blending Love, Tradition, and Celebration - Wedding Style Magazine.jpeg",
+      "type": "image",
+      "size_bytes": 248497,
+      "size_formatted": "242.7 KB",
+      "sha256": "532889532845f8b2591e7a600cb884027b9204ae110d2703362154afd357e722",
+      "status": "downloaded"
+    },
+    "assets/img/Royal Baraat & Bespoke Decor/The Most Awesome Bride & Groom Entries Together!.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Royal%20Baraat%20%26%20Bespoke%20Decor/The%20Most%20Awesome%20Bride%20%26%20Groom%20Entries%20Together%21.jpeg",
+      "local_path": "assets/img/Royal Baraat & Bespoke Decor/The Most Awesome Bride & Groom Entries Together!.jpeg",
+      "type": "image",
+      "size_bytes": 116288,
+      "size_formatted": "113.6 KB",
+      "sha256": "bbdf570bffff7c6e3f044d5941b9c9897e0feecb602be26e324172f57bc798df",
+      "status": "downloaded"
+    },
+    "assets/img/hospitality/The Jasmine Lounge at Fairmont Peace Hotel is Shanghai\u2019s most fashionable and original location for traditional high tea indulgence_.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/hospitality/The%20Jasmine%20Lounge%20at%20Fairmont%20Peace%20Hotel%20is%20Shanghai%E2%80%99s%20most%20fashionable%20and%20original%20location%20for%20traditional%20high%20tea%20indulgence_.jpeg",
+      "local_path": "assets/img/hospitality/The Jasmine Lounge at Fairmont Peace Hotel is Shanghai\u2019s most fashionable and original location for traditional high tea indulgence_.jpeg",
+      "type": "image",
+      "size_bytes": 117759,
+      "size_formatted": "115.0 KB",
+      "sha256": "9f81843b45e14f621c6bf22ab24347ca643cbb486fa6dc06fd269f2a7cb4f6bb",
+      "status": "downloaded"
+    },
+    "assets/img/Bright Night SFX & Fireworks/my view of turning 20.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Bright%20Night%20SFX%20%26%20Fireworks/my%20view%20of%20turning%2020.jpeg",
+      "local_path": "assets/img/Bright Night SFX & Fireworks/my view of turning 20.jpeg",
+      "type": "image",
+      "size_bytes": 252208,
+      "size_formatted": "246.3 KB",
+      "sha256": "16f05b647958056c99b8209e6ca3f19c72ea6c81e831dd1d940ef977b7fd5303",
+      "status": "downloaded"
+    },
+    "assets/img/Bright Night SFX & Fireworks/TomorrowWorld \\'14.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Bright%20Night%20SFX%20%26%20Fireworks/TomorrowWorld%20%5C%2714.jpeg",
+      "local_path": "assets/img/Bright Night SFX & Fireworks/TomorrowWorld \\'14.jpeg",
+      "type": "image",
+      "size_bytes": 0,
+      "status": "failed: Failed to download"
+    },
+    "assets/img/hospitality/Professional Waitstaff Services for Seamless Events.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/hospitality/Professional%20Waitstaff%20Services%20for%20Seamless%20Events.jpeg",
+      "local_path": "assets/img/hospitality/Professional Waitstaff Services for Seamless Events.jpeg",
+      "type": "image",
+      "size_bytes": 67060,
+      "size_formatted": "65.5 KB",
+      "sha256": "03549dc055039307768f4005216ca1acb57df5271c1119e807645abe8eac1ce1",
+      "status": "downloaded"
+    },
+    "assets/img/hospitality/Afternoon Tea at Raffles Dubai.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/hospitality/Afternoon%20Tea%20at%20Raffles%20Dubai.jpeg",
+      "local_path": "assets/img/hospitality/Afternoon Tea at Raffles Dubai.jpeg",
+      "type": "image",
+      "size_bytes": 95375,
+      "size_formatted": "93.1 KB",
+      "sha256": "15d7ddd8e923ddb4a7d5a8c52cd9c4d5ce934f036c5eb4b14ff1ead76df2c341",
+      "status": "downloaded"
+    },
+    "assets/img/hospitality/Asian young hotel bellboy pushing luggage cart in luxury hotel lobby, premium service and hospitality industry Stock-Foto.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/hospitality/Asian%20young%20hotel%20bellboy%20pushing%20luggage%20cart%20in%20luxury%20hotel%20lobby%2C%20premium%20service%20and%20hospitality%20industry%20Stock-Foto.jpeg",
+      "local_path": "assets/img/hospitality/Asian young hotel bellboy pushing luggage cart in luxury hotel lobby, premium service and hospitality industry Stock-Foto.jpeg",
+      "type": "image",
+      "size_bytes": 49183,
+      "size_formatted": "48.0 KB",
+      "sha256": "ac7a3288da5a43ecde20a7d11f98b989b35e070239d6a3747d97a2d9a013ef8b",
+      "status": "downloaded"
+    },
+    "assets/img/Royal Baraat & Bespoke Decor/Pre wedding shoot in jaipur _Wedding photographers in jaipur _l Suyash & Snehal __pre wedding shoot in jaipur _pre wedding shoot locations in jaipur_ Patrika gate Pre Wedding Shoot_ Filmcity pre wedding shoot _ Amer fort pre pre shoot _pre.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Royal%20Baraat%20%26%20Bespoke%20Decor/Pre%20wedding%20shoot%20in%20jaipur%20_Wedding%20photographers%20in%20jaipur%20_l%20Suyash%20%26%20Snehal%20__pre%20wedding%20shoot%20in%20jaipur%20_pre%20wedding%20shoot%20locations%20in%20jaipur_%20Patrika%20gate%20Pre%20Wedding%20Shoot_%20Filmcity%20pre%20wedding%20shoot%20_%20Amer%20fort%20pre%20pre%20shoot%20_pre.jpeg",
+      "local_path": "assets/img/Royal Baraat & Bespoke Decor/Pre wedding shoot in jaipur _Wedding photographers in jaipur _l Suyash & Snehal __pre wedding shoot in jaipur _pre wedding shoot locations in jaipur_ Patrika gate Pre Wedding Shoot_ Filmcity pre wedding shoot _ Amer fort pre pre shoot _pre.jpeg",
+      "type": "image",
+      "size_bytes": 89867,
+      "size_formatted": "87.8 KB",
+      "sha256": "cf8348d9bde9e3c09ec7b66a7606a0b049fe35419ed750180b1c27e22d1b2941",
+      "status": "downloaded"
+    },
+    "assets/img/barat-decor/mandap-decor.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/barat-decor/mandap-decor.jpg",
+      "local_path": "assets/img/barat-decor/mandap-decor.jpg",
+      "type": "image",
+      "size_bytes": 345993,
+      "size_formatted": "337.9 KB",
+      "sha256": "27474b9c5c8e09377aace013c29f50f6741035fd9690a06374cfe0a805dac2d6",
+      "status": "downloaded"
+    },
+    "assets/img/hospitality/Jojobet - Jojobet G\u00fcncel Giri\u015f \u2013 Jojobet Giri\u015f Adresi, G\u00fcncel Link ve Platform Bilgileri.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/hospitality/Jojobet%20-%20Jojobet%20G%C3%BCncel%20Giri%C5%9F%20%E2%80%93%20Jojobet%20Giri%C5%9F%20Adresi%2C%20G%C3%BCncel%20Link%20ve%20Platform%20Bilgileri.jpeg",
+      "local_path": "assets/img/hospitality/Jojobet - Jojobet G\u00fcncel Giri\u015f \u2013 Jojobet Giri\u015f Adresi, G\u00fcncel Link ve Platform Bilgileri.jpeg",
+      "type": "image",
+      "size_bytes": 84534,
+      "size_formatted": "82.6 KB",
+      "sha256": "d022802f35c06e79edfa6ff380bfd65c6ed5be602b2c068e4e9d1ad575c078cc",
+      "status": "downloaded"
+    },
+    "assets/img/Corporate events/Magical Party Ambiance_ Set the Scene for Unforgettable Nights.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Corporate%20events/Magical%20Party%20Ambiance_%20Set%20the%20Scene%20for%20Unforgettable%20Nights.jpeg",
+      "local_path": "assets/img/Corporate events/Magical Party Ambiance_ Set the Scene for Unforgettable Nights.jpeg",
+      "type": "image",
+      "size_bytes": 150968,
+      "size_formatted": "147.4 KB",
+      "sha256": "c6d7f005d0d7c0728cbcaef6441c0282e7c6313290c06fa7b1151e6fe8ffa5b9",
+      "status": "downloaded"
+    },
+    "assets/img/hospitality/Bellhop pushing luggage cart in luxury hotel.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/hospitality/Bellhop%20pushing%20luggage%20cart%20in%20luxury%20hotel.jpeg",
+      "local_path": "assets/img/hospitality/Bellhop pushing luggage cart in luxury hotel.jpeg",
+      "type": "image",
+      "size_bytes": 87236,
+      "size_formatted": "85.2 KB",
+      "sha256": "9c4bb92e98f34efbb0de60365f319e63463444d597d88aa8ba52caf67935cfa4",
+      "status": "downloaded"
+    },
+    "assets/img/Corporate events/ULTRA 2025\ud83d\udd25 Se que este evento es solo un impulso de ir por ese resultado que muchos anhelan pero el miedo los detiene, en este evento no s\u00f3lo se habl\u00f3 de Negocios, sino de sue\u00f1os, de personas que estuvieron incluso peor que tu ahora.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Corporate%20events/ULTRA%202025%F0%9F%94%A5%20Se%20que%20este%20evento%20es%20solo%20un%20impulso%20de%20ir%20por%20ese%20resultado%20que%20muchos%20anhelan%20pero%20el%20miedo%20los%20detiene%2C%20en%20este%20evento%20no%20s%C3%B3lo%20se%20habl%C3%B3%20de%20Negocios%2C%20sino%20de%20sue%C3%B1os%2C%20de%20personas%20que%20estuvieron%20incluso%20peor%20que%20tu%20ahora.jpeg",
+      "local_path": "assets/img/Corporate events/ULTRA 2025\ud83d\udd25 Se que este evento es solo un impulso de ir por ese resultado que muchos anhelan pero el miedo los detiene, en este evento no s\u00f3lo se habl\u00f3 de Negocios, sino de sue\u00f1os, de personas que estuvieron incluso peor que tu ahora.jpeg",
+      "type": "image",
+      "size_bytes": 126716,
+      "size_formatted": "123.7 KB",
+      "sha256": "c8c6c4f837ba95a66a0716f7c8e857b4f4efdd2f10b6143e2bf5e91ded999668",
+      "status": "downloaded"
+    },
+    "assets/img/Corporate events/Mysterious Night Party Ambiance_ Dimly Lit Conference Room Turned Exclusive Soiree.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Corporate%20events/Mysterious%20Night%20Party%20Ambiance_%20Dimly%20Lit%20Conference%20Room%20Turned%20Exclusive%20Soiree.jpeg",
+      "local_path": "assets/img/Corporate events/Mysterious Night Party Ambiance_ Dimly Lit Conference Room Turned Exclusive Soiree.jpeg",
+      "type": "image",
+      "size_bytes": 138832,
+      "size_formatted": "135.6 KB",
+      "sha256": "6349ae970b2b7157abd161597616ab520c2d20b25b41e52e8ccdece622333092",
+      "status": "downloaded"
+    },
+    "assets/img/Corporate events/img-3.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Corporate%20events/img-3.jpeg",
+      "local_path": "assets/img/Corporate events/img-3.jpeg",
+      "type": "image",
+      "size_bytes": 72888,
+      "size_formatted": "71.2 KB",
+      "sha256": "bdbecf416e58b941511a3e7053d8501e5bac80d5bfe13f2a66f73881b9383c01",
+      "status": "downloaded"
+    },
+    "assets/img/Corporate events/All Employee Meeting for a local Los Angeles company_.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Corporate%20events/All%20Employee%20Meeting%20for%20a%20local%20Los%20Angeles%20company_.jpeg",
+      "local_path": "assets/img/Corporate events/All Employee Meeting for a local Los Angeles company_.jpeg",
+      "type": "image",
+      "size_bytes": 89682,
+      "size_formatted": "87.6 KB",
+      "sha256": "039ec0fe9a773546e331a6838a56c15de44bf8b5dad1946b2c469a14950d0071",
+      "status": "downloaded"
+    },
+    "assets/img/Corporate events/Dream Showz Leading Corporate Event Organizers in Delhi & Conference Organizers in India_.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Corporate%20events/Dream%20Showz%20Leading%20Corporate%20Event%20Organizers%20in%20Delhi%20%26%20Conference%20Organizers%20in%20India_.jpeg",
+      "local_path": "assets/img/Corporate events/Dream Showz Leading Corporate Event Organizers in Delhi & Conference Organizers in India_.jpeg",
+      "type": "image",
+      "size_bytes": 120170,
+      "size_formatted": "117.4 KB",
+      "sha256": "96cb7444f8326c13ddbc02085821b0afee7f3ea9e281252765bfd4d74b55b234",
+      "status": "downloaded"
+    },
+    "assets/img/Photography & Wedding Films/Mouni Roy Wedding Images.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Photography%20%26%20Wedding%20Films/Mouni%20Roy%20Wedding%20Images.jpeg",
+      "local_path": "assets/img/Photography & Wedding Films/Mouni Roy Wedding Images.jpeg",
+      "type": "image",
+      "size_bytes": 135788,
+      "size_formatted": "132.6 KB",
+      "sha256": "eadb3f0fd9321313d1edf975a8d17476624443fce1fda4fcfac912005d6fd653",
+      "status": "downloaded"
+    },
+    "assets/img/Photography & Wedding Films/Wedding Photographer in Jaipur \u2013 Capturing the Magic of Jaymala Moments.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Photography%20%26%20Wedding%20Films/Wedding%20Photographer%20in%20Jaipur%20%E2%80%93%20Capturing%20the%20Magic%20of%20Jaymala%20Moments.jpeg",
+      "local_path": "assets/img/Photography & Wedding Films/Wedding Photographer in Jaipur \u2013 Capturing the Magic of Jaymala Moments.jpeg",
+      "type": "image",
+      "size_bytes": 189285,
+      "size_formatted": "184.8 KB",
+      "sha256": "3a8fed3abdba838e824cb2eba92fa3593aad131c4b30b1f1274e626a864005a5",
+      "status": "downloaded"
+    },
+    "assets/img/Corporate events/Modern Party Conference Room Decor Inspiration for Your Next Corporate Bash.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Corporate%20events/Modern%20Party%20Conference%20Room%20Decor%20Inspiration%20for%20Your%20Next%20Corporate%20Bash.jpeg",
+      "local_path": "assets/img/Corporate events/Modern Party Conference Room Decor Inspiration for Your Next Corporate Bash.jpeg",
+      "type": "image",
+      "size_bytes": 164510,
+      "size_formatted": "160.7 KB",
+      "sha256": "b1af6bb5f4845861989783f57c339e0d401f21dcdd9d1a132b70d0fa5dc7448d",
+      "status": "downloaded"
+    },
+    "assets/img/Photography & Wedding Films/Under a sky of fireworks and a shower of blooms, their forever found its throne___Groom - @devaangsibal _Bride - @tanyapanicker _Venue - @thefortrajwada _Planned & Conceptualised by - @dexterity_events __Jai Mala _ Wedding _ Destination We.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Photography%20%26%20Wedding%20Films/Under%20a%20sky%20of%20fireworks%20and%20a%20shower%20of%20blooms%2C%20their%20forever%20found%20its%20throne___Groom%20-%20%40devaangsibal%20_Bride%20-%20%40tanyapanicker%20_Venue%20-%20%40thefortrajwada%20_Planned%20%26%20Conceptualised%20by%20-%20%40dexterity_events%20__Jai%20Mala%20_%20Wedding%20_%20Destination%20We.jpeg",
+      "local_path": "assets/img/Photography & Wedding Films/Under a sky of fireworks and a shower of blooms, their forever found its throne___Groom - @devaangsibal _Bride - @tanyapanicker _Venue - @thefortrajwada _Planned & Conceptualised by - @dexterity_events __Jai Mala _ Wedding _ Destination We.jpeg",
+      "type": "image",
+      "size_bytes": 163539,
+      "size_formatted": "159.7 KB",
+      "sha256": "b8d43487f208cfb4f18147f6209644231ee290a68d5e08b7ac84a1701bde7538",
+      "status": "downloaded"
+    },
+    "assets/img/artists/gurdas-maan.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/gurdas-maan.jpg",
+      "local_path": "assets/img/artists/gurdas-maan.jpg",
+      "type": "image",
+      "size_bytes": 101135,
+      "size_formatted": "98.8 KB",
+      "sha256": "e8e64f8f290dcf70930b1ed832e2204d17dd3d09f18f319af40012f4cbc9413c",
+      "status": "downloaded"
+    },
+    "assets/img/hospitality/From Klickpin.com- Upgrade this guide to cozy cat enrichment ideas that bring style function and personality together for a stylish result that st.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/hospitality/From%20Klickpin.com-%20Upgrade%20this%20guide%20to%20cozy%20cat%20enrichment%20ideas%20that%20bring%20style%20function%20and%20personality%20together%20for%20a%20stylish%20result%20that%20st.mp4",
+      "local_path": "assets/img/hospitality/From Klickpin.com- Upgrade this guide to cozy cat enrichment ideas that bring style function and personality together for a stylish result that st.mp4",
+      "type": "video",
+      "size_bytes": 6283257,
+      "size_formatted": "5.99 MB",
+      "sha256": "144a78bb4d9e124aab2bc8ecdefeb5775fb713c1be11804dda2bd6e24828e9a8",
+      "status": "downloaded"
+    },
+    "assets/img/Pre-Wedding Shoots & Films/luxury outdoor candle night dinner setup for couple\u2763\ufe0f.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Pre-Wedding%20Shoots%20%26%20Films/luxury%20outdoor%20candle%20night%20dinner%20setup%20for%20couple%E2%9D%A3%EF%B8%8F.jpeg",
+      "local_path": "assets/img/Pre-Wedding Shoots & Films/luxury outdoor candle night dinner setup for couple\u2763\ufe0f.jpeg",
+      "type": "image",
+      "size_bytes": 108582,
+      "size_formatted": "106.0 KB",
+      "sha256": "8268f5f091a86caa0fc80400383f7643b61d7aafba081d7ad5455096cc3df411",
+      "status": "downloaded"
+    },
+    "assets/img/artists/Diljit Dosanjh/Diljit Dosanjh.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/Diljit%20Dosanjh/Diljit%20Dosanjh.jpeg",
+      "local_path": "assets/img/artists/Diljit Dosanjh/Diljit Dosanjh.jpeg",
+      "type": "image",
+      "size_bytes": 64450,
+      "size_formatted": "62.9 KB",
+      "sha256": "c5c71b36aa7150d993514b9e7ef201db4b1dd4d5eba12ec719cc3018ed0b6435",
+      "status": "downloaded"
+    },
+    "assets/img/services/On-Site Hospitality Service for Premium Guest Care.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/services/On-Site%20Hospitality%20Service%20for%20Premium%20Guest%20Care.jpeg",
+      "local_path": "assets/img/services/On-Site Hospitality Service for Premium Guest Care.jpeg",
+      "type": "image",
+      "size_bytes": 58602,
+      "size_formatted": "57.2 KB",
+      "sha256": "1ec02a5f8e34a36cc1af7b6493f511c9019637c28b3975003639b289f9557067",
+      "status": "downloaded"
+    },
+    "assets/img/Pre-Wedding Shoots & Films/Pre wedding shoot.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Pre-Wedding%20Shoots%20%26%20Films/Pre%20wedding%20shoot.jpeg",
+      "local_path": "assets/img/Pre-Wedding Shoots & Films/Pre wedding shoot.jpeg",
+      "type": "image",
+      "size_bytes": 164734,
+      "size_formatted": "160.9 KB",
+      "sha256": "c335a699dc7fab02056cd36a375a2ae40ceb1f3993b166bbe48513d67ffa97d5",
+      "status": "downloaded"
+    },
+    "assets/img/Photography & Wedding Films/PERFECT WEDDING DAY OUTFIT IDEA.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Photography%20%26%20Wedding%20Films/PERFECT%20WEDDING%20DAY%20OUTFIT%20IDEA.jpeg",
+      "local_path": "assets/img/Photography & Wedding Films/PERFECT WEDDING DAY OUTFIT IDEA.jpeg",
+      "type": "image",
+      "size_bytes": 71759,
+      "size_formatted": "70.1 KB",
+      "sha256": "ccfeebaf2fd40d1007921522fa9f5e20a51a611fc0c7f98351eb93997ab0186c",
+      "status": "downloaded"
+    },
+    "assets/img/Pre-Wedding Shoots & Films/Night Romantic Pre Wedding Shoot _ Candlelight Dinner Love Story at Pixocity.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Pre-Wedding%20Shoots%20%26%20Films/Night%20Romantic%20Pre%20Wedding%20Shoot%20_%20Candlelight%20Dinner%20Love%20Story%20at%20Pixocity.jpeg",
+      "local_path": "assets/img/Pre-Wedding Shoots & Films/Night Romantic Pre Wedding Shoot _ Candlelight Dinner Love Story at Pixocity.jpeg",
+      "type": "image",
+      "size_bytes": 135217,
+      "size_formatted": "132.0 KB",
+      "sha256": "cabcc9fa60b667379f0b9d56fd5819d00f010c30899f2710b55b24c52763fd53",
+      "status": "downloaded"
+    },
+    "assets/img/hero/hero-catering.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/hero/hero-catering.jpg",
+      "local_path": "assets/img/hero/hero-catering.jpg",
+      "type": "image",
+      "size_bytes": 293951,
+      "size_formatted": "287.1 KB",
+      "sha256": "2af6cfe1eed3b3e0e5bb0e9c3c8c6e83e6dfdfe35f4763f707122bd845bf1f70",
+      "status": "downloaded"
+    },
+    "assets/img/hero/hero-entertainment.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/hero/hero-entertainment.jpg",
+      "local_path": "assets/img/hero/hero-entertainment.jpg",
+      "type": "image",
+      "size_bytes": 290083,
+      "size_formatted": "283.3 KB",
+      "sha256": "d459f011dbb2083a25ddd1241b0b4ccbd55a5805ba3b4e89b79f6f931d67e5bd",
+      "status": "downloaded"
+    },
+    "assets/img/barat-decor/Barat_ Groom Enjoying_ Night Wedding_ Chakshu Photography.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/barat-decor/Barat_%20Groom%20Enjoying_%20Night%20Wedding_%20Chakshu%20Photography.jpeg",
+      "local_path": "assets/img/barat-decor/Barat_ Groom Enjoying_ Night Wedding_ Chakshu Photography.jpeg",
+      "type": "image",
+      "size_bytes": 92102,
+      "size_formatted": "89.9 KB",
+      "sha256": "0733aeacbaa715e0a267cd5219f242ae8dc319a150a3a6e74391e2ca891099e9",
+      "status": "downloaded"
+    },
+    "assets/img/services/destination-caters.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/services/destination-caters.jpeg",
+      "local_path": "assets/img/services/destination-caters.jpeg",
+      "type": "image",
+      "size_bytes": 140554,
+      "size_formatted": "137.3 KB",
+      "sha256": "2a7249e3d03eae1611075d787f16ea01f8c8a86353433605e98572b3aead6589",
+      "status": "downloaded"
+    },
+    "assets/img/Pre-Wedding Shoots & Films/Romantic Wedding Proposal Moment.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Pre-Wedding%20Shoots%20%26%20Films/Romantic%20Wedding%20Proposal%20Moment.jpg",
+      "local_path": "assets/img/Pre-Wedding Shoots & Films/Romantic Wedding Proposal Moment.jpg",
+      "type": "image",
+      "size_bytes": 83216,
+      "size_formatted": "81.3 KB",
+      "sha256": "633e4d39b558594c006e8d290e420f7de51a60d69093468cdf8d95e068bc4dca",
+      "status": "downloaded"
+    },
+    "assets/img/catering/From Klickpin.com- Fresh cozy car essentials and clever inspiration with timeless style for calm daily routines-pin-id-968977676068065869.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/catering/From%20Klickpin.com-%20Fresh%20cozy%20car%20essentials%20and%20clever%20inspiration%20with%20timeless%20style%20for%20calm%20daily%20routines-pin-id-968977676068065869.mp4",
+      "local_path": "assets/img/catering/From Klickpin.com- Fresh cozy car essentials and clever inspiration with timeless style for calm daily routines-pin-id-968977676068065869.mp4",
+      "type": "video",
+      "size_bytes": 846629,
+      "size_formatted": "826.8 KB",
+      "sha256": "61315deec7e2fe4638944d9e9e7e4d0f44213daac061b817af1367f040be1ffa",
+      "status": "downloaded"
+    },
+    "assets/img/artists/Diljit Dosanjh/From Klickpin.com- Bedroom Decor Ideas Ideas Youll Keep Coming Back To 49685-pin-id-832462312402752375.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/Diljit%20Dosanjh/From%20Klickpin.com-%20Bedroom%20Decor%20Ideas%20Ideas%20Youll%20Keep%20Coming%20Back%20To%2049685-pin-id-832462312402752375.mp4",
+      "local_path": "assets/img/artists/Diljit Dosanjh/From Klickpin.com- Bedroom Decor Ideas Ideas Youll Keep Coming Back To 49685-pin-id-832462312402752375.mp4",
+      "type": "video",
+      "size_bytes": 7536443,
+      "size_formatted": "7.19 MB",
+      "sha256": "6d8fa0b6312bfb21a57b41e39bfc22d8e10010375be01de9731439439f690765",
+      "status": "downloaded"
+    },
+    "assets/img/services/wedding-caters.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/services/wedding-caters.jpeg",
+      "local_path": "assets/img/services/wedding-caters.jpeg",
+      "type": "image",
+      "size_bytes": 194923,
+      "size_formatted": "190.4 KB",
+      "sha256": "8e631d473ff3d3bc8110e16a5ebe02f52052bc76f0d354acb51b962c6e80c57e",
+      "status": "downloaded"
+    },
+    "assets/img/services/anivarsay-caters.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/services/anivarsay-caters.jpeg",
+      "local_path": "assets/img/services/anivarsay-caters.jpeg",
+      "type": "image",
+      "size_bytes": 167644,
+      "size_formatted": "163.7 KB",
+      "sha256": "1d25b8555eb39e719985240bd205b2a59266d54aa4a526962255b37a270a3107",
+      "status": "downloaded"
+    },
+    "assets/img/events/cocktail.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/cocktail.jpg",
+      "local_path": "assets/img/events/cocktail.jpg",
+      "type": "image",
+      "size_bytes": 328329,
+      "size_formatted": "320.6 KB",
+      "sha256": "7c7dd423b7c2c42839dfc2ee57f483496f1077c6b8988838975e3626758339a0",
+      "status": "downloaded"
+    },
+    "assets/img/catering/Best Wedding Catering Services in Chennai _ Delicious & Memorable Feasts.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/catering/Best%20Wedding%20Catering%20Services%20in%20Chennai%20_%20Delicious%20%26%20Memorable%20Feasts.jpeg",
+      "local_path": "assets/img/catering/Best Wedding Catering Services in Chennai _ Delicious & Memorable Feasts.jpeg",
+      "type": "image",
+      "size_bytes": 107776,
+      "size_formatted": "105.2 KB",
+      "sha256": "09c4b4f748312e896e0d75b2716d5414a672f2f5b14020fd24b5d21ef05e728b",
+      "status": "downloaded"
+    },
+    "assets/img/catering/Orange County Corporate Catering \u2014 TMC.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/catering/Orange%20County%20Corporate%20Catering%20%E2%80%94%20TMC.jpeg",
+      "local_path": "assets/img/catering/Orange County Corporate Catering \u2014 TMC.jpeg",
+      "type": "image",
+      "size_bytes": 108108,
+      "size_formatted": "105.6 KB",
+      "sha256": "5b1bb9058f529ef196670df62a2069adab549521a1bfb219f9f1a7b516d46ac8",
+      "status": "downloaded"
+    },
+    "assets/img/services/service-hospitality.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/services/service-hospitality.jpg",
+      "local_path": "assets/img/services/service-hospitality.jpg",
+      "type": "image",
+      "size_bytes": 286149,
+      "size_formatted": "279.4 KB",
+      "sha256": "b96515cad2017f92eb4fd12bcf0ba4ec369027f84daa7373fb46ccfdbe19a86c",
+      "status": "downloaded"
+    },
+    "assets/img/events/vidaai.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/vidaai.jpg",
+      "local_path": "assets/img/events/vidaai.jpg",
+      "type": "image",
+      "size_bytes": 129247,
+      "size_formatted": "126.2 KB",
+      "sha256": "cf5c7bd41b043efa14900d2d0f137ce7335d6312b2b2f9c2f3405ae150f36fc5",
+      "status": "downloaded"
+    },
+    "assets/img/Vidaai Farewell/_ (1).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Vidaai%20Farewell/_%20%281%29.jpeg",
+      "local_path": "assets/img/Vidaai Farewell/_ (1).jpeg",
+      "type": "image",
+      "size_bytes": 92199,
+      "size_formatted": "90.0 KB",
+      "sha256": "4506a18dc8da0f4e5fa49087399df23aaade6fff48bb5559261c645527372639",
+      "status": "downloaded"
+    },
+    "assets/img/hero/HERO-VIDEO.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/hero/HERO-VIDEO.mp4",
+      "local_path": "assets/img/hero/HERO-VIDEO.mp4",
+      "type": "video",
+      "size_bytes": 7197544,
+      "size_formatted": "6.86 MB",
+      "sha256": "a7bb08fd6f9b74489686928ce5437123e01fb4d91e86636dce4017e0223d0bc0",
+      "status": "downloaded"
+    },
+    "assets/img/events/sangeet-2.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/sangeet-2.jpg",
+      "local_path": "assets/img/events/sangeet-2.jpg",
+      "type": "image",
+      "size_bytes": 149564,
+      "size_formatted": "146.1 KB",
+      "sha256": "412416f91e74d534fe291a5c28ca8b57f327d01626e4b109a4043937af001fde",
+      "status": "downloaded"
+    },
+    "assets/img/events/reception-1.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/reception-1.jpg",
+      "local_path": "assets/img/events/reception-1.jpg",
+      "type": "image",
+      "size_bytes": 95676,
+      "size_formatted": "93.4 KB",
+      "sha256": "7e7c5546dfaaf868749cc58bab5bebfa632aec4fdbe7712df053968b8aa94c51",
+      "status": "downloaded"
+    },
+    "assets/img/Corporate events/Corporate Meetings Summit 2012.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Corporate%20events/Corporate%20Meetings%20Summit%202012.jpeg",
+      "local_path": "assets/img/Corporate events/Corporate Meetings Summit 2012.jpeg",
+      "type": "image",
+      "size_bytes": 88211,
+      "size_formatted": "86.1 KB",
+      "sha256": "ec1c426875f7d62cc228d04c8f17fe0e1501ceffb8e22ad6f1dcfcadb468c583",
+      "status": "downloaded"
+    },
+    "assets/img/Corporate events/Client event seminar room.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Corporate%20events/Client%20event%20seminar%20room.jpeg",
+      "local_path": "assets/img/Corporate events/Client event seminar room.jpeg",
+      "type": "image",
+      "size_bytes": 100491,
+      "size_formatted": "98.1 KB",
+      "sha256": "84be5750ef15cd55227904a5f59894403a01e967206e2b02a155f0c6dfd75152",
+      "status": "downloaded"
+    },
+    "assets/img/events/jaggo.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/jaggo.jpg",
+      "local_path": "assets/img/events/jaggo.jpg",
+      "type": "image",
+      "size_bytes": 285085,
+      "size_formatted": "278.4 KB",
+      "sha256": "8447bbab6c3a35c3bb068517184154ea275fc587efee123cf6408d45dc5fdd47",
+      "status": "downloaded"
+    },
+    "assets/img/Corporate events/Trusted Corporate Event Management and Meeting Planner.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Corporate%20events/Trusted%20Corporate%20Event%20Management%20and%20Meeting%20Planner.jpeg",
+      "local_path": "assets/img/Corporate events/Trusted Corporate Event Management and Meeting Planner.jpeg",
+      "type": "image",
+      "size_bytes": 67066,
+      "size_formatted": "65.5 KB",
+      "sha256": "0033491dff23c29268efc07af20fe3f9b26b65a654786d74692958b543efafa5",
+      "status": "downloaded"
+    },
+    "assets/img/Corporate events/Event management companies Dubai.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Corporate%20events/Event%20management%20companies%20Dubai.jpeg",
+      "local_path": "assets/img/Corporate events/Event management companies Dubai.jpeg",
+      "type": "image",
+      "size_bytes": 92763,
+      "size_formatted": "90.6 KB",
+      "sha256": "1bac91a52b99904dc94ce5b2694cbe193f67e2c67aa867307bd42046f5ac2467",
+      "status": "downloaded"
+    },
+    "assets/css/barat-decor-cinematic.css": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/css/barat-decor-cinematic.css",
+      "local_path": "assets/css/barat-decor-cinematic.css",
+      "type": "stylesheet",
+      "size_bytes": 42749,
+      "size_formatted": "41.7 KB",
+      "sha256": "49d3916aba05d8614b1a253ca0984e865a5d1b72149b8d0889b2408378d704c0",
+      "status": "downloaded"
+    },
+    "assets/img/services/birthday-party.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/services/birthday-party.jpeg",
+      "local_path": "assets/img/services/birthday-party.jpeg",
+      "type": "image",
+      "size_bytes": 225540,
+      "size_formatted": "220.3 KB",
+      "sha256": "3fc5e70d06b0239b635f609392dcb2be85835a89752a6fac6a7664ec5458e73d",
+      "status": "downloaded"
+    },
+    "assets/img/From Klickpin.com- Fresh cozy car essentials and clever inspiration with timeless style for calm daily routines-pin-id-968977676068065869.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/From%20Klickpin.com-%20Fresh%20cozy%20car%20essentials%20and%20clever%20inspiration%20with%20timeless%20style%20for%20calm%20daily%20routines-pin-id-968977676068065869.mp4",
+      "local_path": "assets/img/From Klickpin.com- Fresh cozy car essentials and clever inspiration with timeless style for calm daily routines-pin-id-968977676068065869.mp4",
+      "type": "video",
+      "size_bytes": 0,
+      "status": "failed: Failed to download"
+    },
+    "assets/img/Vintage Car Groom Entry/Look at groom dance and entering in a vintage car.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Vintage%20Car%20Groom%20Entry/Look%20at%20groom%20dance%20and%20entering%20in%20a%20vintage%20car.jpeg",
+      "local_path": "assets/img/Vintage Car Groom Entry/Look at groom dance and entering in a vintage car.jpeg",
+      "type": "image",
+      "size_bytes": 112521,
+      "size_formatted": "109.9 KB",
+      "sha256": "5da736cc638b966d17da72835b46469222857da28dded3e52339be9f19b6254a",
+      "status": "downloaded"
+    },
+    "assets/img/venues/venue-palace.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/venues/venue-palace.jpg",
+      "local_path": "assets/img/venues/venue-palace.jpg",
+      "type": "image",
+      "size_bytes": 283058,
+      "size_formatted": "276.4 KB",
+      "sha256": "be2e281ed8578c24af0160c8299e846e3783eb8f2763c2c27439f151826d0e2b",
+      "status": "downloaded"
+    },
+    "assets/img/events/mehendi.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/mehendi.jpg",
+      "local_path": "assets/img/events/mehendi.jpg",
+      "type": "image",
+      "size_bytes": 142847,
+      "size_formatted": "139.5 KB",
+      "sha256": "1f25bcb85b5f44c54df796f0b0aa0137023237706670eb514ff6f5f1313b8fa7",
+      "status": "downloaded"
+    },
+    "assets/img/Grand Lavish Baraat/Horse.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Grand%20Lavish%20Baraat/Horse.jpeg",
+      "local_path": "assets/img/Grand Lavish Baraat/Horse.jpeg",
+      "type": "image",
+      "size_bytes": 215826,
+      "size_formatted": "210.8 KB",
+      "sha256": "90bf69f744a9bce73b7a282b73304abdd6ce37c5a8539efb9b13b47ac8618f60",
+      "status": "downloaded"
+    },
+    "assets/img/Baraat on Wheels/Baraat on Wheels.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Baraat%20on%20Wheels/Baraat%20on%20Wheels.jpeg",
+      "local_path": "assets/img/Baraat on Wheels/Baraat on Wheels.jpeg",
+      "type": "image",
+      "size_bytes": 120755,
+      "size_formatted": "117.9 KB",
+      "sha256": "42fc0cabad2dba4c7b029f1331240a4d8ab8ca7205a2c7a47050c9d34d232234",
+      "status": "downloaded"
+    },
+    "assets/img/catering/From Klickpin.com- Try these fresh wedding decor ideas perfect for saving sharing and recreating later with practical inspiration you can use righ.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/catering/From%20Klickpin.com-%20Try%20these%20fresh%20wedding%20decor%20ideas%20perfect%20for%20saving%20sharing%20and%20recreating%20later%20with%20practical%20inspiration%20you%20can%20use%20righ.mp4",
+      "local_path": "assets/img/catering/From Klickpin.com- Try these fresh wedding decor ideas perfect for saving sharing and recreating later with practical inspiration you can use righ.mp4",
+      "type": "video",
+      "size_bytes": 6283257,
+      "size_formatted": "5.99 MB",
+      "sha256": "144a78bb4d9e124aab2bc8ecdefeb5775fb713c1be11804dda2bd6e24828e9a8",
+      "status": "downloaded"
+    },
+    "assets/img/Vintage Car Groom Entry/Couple Entry On A Antique Car _ Bride And Groom Entry Photography _ Grand Entry Photography.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Vintage%20Car%20Groom%20Entry/Couple%20Entry%20On%20A%20Antique%20Car%20_%20Bride%20And%20Groom%20Entry%20Photography%20_%20Grand%20Entry%20Photography.jpeg",
+      "local_path": "assets/img/Vintage Car Groom Entry/Couple Entry On A Antique Car _ Bride And Groom Entry Photography _ Grand Entry Photography.jpeg",
+      "type": "image",
+      "size_bytes": 132356,
+      "size_formatted": "129.3 KB",
+      "sha256": "7a2fd117ee892923130e3f705109c06a1aa8708416ac52f8b90e329b5e4da39d",
+      "status": "downloaded"
+    },
+    "assets/img/Royal Baraat & Bespoke Decor/From Klickpin.com- Style these viral one-pan recipe ideas youll want to recreate this weekend with beginner-friendly tips and easy details pin thi.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Royal%20Baraat%20%26%20Bespoke%20Decor/From%20Klickpin.com-%20Style%20these%20viral%20one-pan%20recipe%20ideas%20youll%20want%20to%20recreate%20this%20weekend%20with%20beginner-friendly%20tips%20and%20easy%20details%20pin%20thi.mp4",
+      "local_path": "assets/img/Royal Baraat & Bespoke Decor/From Klickpin.com- Style these viral one-pan recipe ideas youll want to recreate this weekend with beginner-friendly tips and easy details pin thi.mp4",
+      "type": "video",
+      "size_bytes": 7087829,
+      "size_formatted": "6.76 MB",
+      "sha256": "9e5d833fe38a9dec56f62417557755e57f877005bfee6fed5edc5542665598e4",
+      "status": "downloaded"
+    },
+    "assets/img/Baraat on Wheels/baraat-energy-dancing.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Baraat%20on%20Wheels/baraat-energy-dancing.jpeg",
+      "local_path": "assets/img/Baraat on Wheels/baraat-energy-dancing.jpeg",
+      "type": "image",
+      "size_bytes": 162563,
+      "size_formatted": "158.8 KB",
+      "sha256": "910e0f5873c325c9078333d8cafcae40e7c81d880a7349e49a1c9608e88d4342",
+      "status": "downloaded"
+    },
+    "assets/img/Corporate events/From Klickpin.com- Motivating hopeful notes for modern homes that fit modern everyday life for daily inspiration-pin-id-865535622124232208.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Corporate%20events/From%20Klickpin.com-%20Motivating%20hopeful%20notes%20for%20modern%20homes%20that%20fit%20modern%20everyday%20life%20for%20daily%20inspiration-pin-id-865535622124232208.mp4",
+      "local_path": "assets/img/Corporate events/From Klickpin.com- Motivating hopeful notes for modern homes that fit modern everyday life for daily inspiration-pin-id-865535622124232208.mp4",
+      "type": "video",
+      "size_bytes": 5067787,
+      "size_formatted": "4.83 MB",
+      "sha256": "f6932e002cf7bf0f10838a01f453d8a3c1106f8375b874fdc00e2e0682e326ff",
+      "status": "downloaded"
+    },
+    "assets/img/barat-decor/Vintage Wedding Car _9845225654.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/barat-decor/Vintage%20Wedding%20Car%20_9845225654.jpeg",
+      "local_path": "assets/img/barat-decor/Vintage Wedding Car _9845225654.jpeg",
+      "type": "image",
+      "size_bytes": 123071,
+      "size_formatted": "120.2 KB",
+      "sha256": "65a9e41e6554c2c19019927220b23920f302e38ed691e535a4d44a7d540ac73a",
+      "status": "downloaded"
+    },
+    "assets/img/Royal Groom Entrance/royal-groom-aesthetic.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Royal%20Groom%20Entrance/royal-groom-aesthetic.jpeg",
+      "local_path": "assets/img/Royal Groom Entrance/royal-groom-aesthetic.jpeg",
+      "type": "image",
+      "size_bytes": 194434,
+      "size_formatted": "189.9 KB",
+      "sha256": "a02656dd0cf0b71c7cffba98d47bbcc8569ca7658efdbc27128d1f0bf2e0d29c",
+      "status": "downloaded"
+    },
+    "assets/img/Grand Lavish Baraat/Indian Wedding Baraat.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Grand%20Lavish%20Baraat/Indian%20Wedding%20Baraat.jpeg",
+      "local_path": "assets/img/Grand Lavish Baraat/Indian Wedding Baraat.jpeg",
+      "type": "image",
+      "size_bytes": 64815,
+      "size_formatted": "63.3 KB",
+      "sha256": "fb183c41ff1d8e960df059abb1b6b29f5da0876e371093499be17592ad70e1b2",
+      "status": "downloaded"
+    },
+    "assets/img/barat-decor/reception-dining-decor.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/barat-decor/reception-dining-decor.jpg",
+      "local_path": "assets/img/barat-decor/reception-dining-decor.jpg",
+      "type": "image",
+      "size_bytes": 383775,
+      "size_formatted": "374.8 KB",
+      "sha256": "6a23d12e11e39133baac0db3f32dd83bcf3ea4ba419e2e7a75b7058261debb87",
+      "status": "downloaded"
+    },
+    "assets/img/Royal Groom Entrance/Pleasant Groom entry on ATV decor flowers.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Royal%20Groom%20Entrance/Pleasant%20Groom%20entry%20on%20ATV%20decor%20flowers.jpeg",
+      "local_path": "assets/img/Royal Groom Entrance/Pleasant Groom entry on ATV decor flowers.jpeg",
+      "type": "image",
+      "size_bytes": 91850,
+      "size_formatted": "89.7 KB",
+      "sha256": "b4e5095f8416f99b47af9587922806db4c9ded1eec54d824364ac3c42d86a25b",
+      "status": "downloaded"
+    },
+    "assets/img/Royal Groom Entrance/Beautiful Kerala Destination Wedding.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Royal%20Groom%20Entrance/Beautiful%20Kerala%20Destination%20Wedding.jpeg",
+      "local_path": "assets/img/Royal Groom Entrance/Beautiful Kerala Destination Wedding.jpeg",
+      "type": "image",
+      "size_bytes": 254591,
+      "size_formatted": "248.6 KB",
+      "sha256": "49879f4fc1d5e98eff5c2c33892edad6e2fa5a47e081d855925fe563728befb4",
+      "status": "downloaded"
+    },
+    "assets/img/barat-decor/_ (6).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/barat-decor/_%20%286%29.jpeg",
+      "local_path": "assets/img/barat-decor/_ (6).jpeg",
+      "type": "image",
+      "size_bytes": 96112,
+      "size_formatted": "93.9 KB",
+      "sha256": "5598c60e9c7341ccbf992ed091374e905c6bf6fae2802db9970314b18872772d",
+      "status": "downloaded"
+    },
+    "assets/img/hero/hero-baraat-decor.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/hero/hero-baraat-decor.jpeg",
+      "local_path": "assets/img/hero/hero-baraat-decor.jpeg",
+      "type": "image",
+      "size_bytes": 149245,
+      "size_formatted": "145.7 KB",
+      "sha256": "a6e9ce6e1d0114c4f2613546f9fb9fbbc411806f80b68d2fa31cac5f0be2ae7b",
+      "status": "downloaded"
+    },
+    "assets/img/Grand Lavish Baraat/royal-vows-regal-frames.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Grand%20Lavish%20Baraat/royal-vows-regal-frames.jpeg",
+      "local_path": "assets/img/Grand Lavish Baraat/royal-vows-regal-frames.jpeg",
+      "type": "image",
+      "size_bytes": 172675,
+      "size_formatted": "168.6 KB",
+      "sha256": "a48c3b8445138cfd621948e729f3d0fe0eb677f5a7c540db5c31ba43acbfc9bf",
+      "status": "downloaded"
+    },
+    "assets/img/Royal Groom Entrance/Cool New Baraat Ideas to Make Your Wedding Procession Unique.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Royal%20Groom%20Entrance/Cool%20New%20Baraat%20Ideas%20to%20Make%20Your%20Wedding%20Procession%20Unique.jpeg",
+      "local_path": "assets/img/Royal Groom Entrance/Cool New Baraat Ideas to Make Your Wedding Procession Unique.jpeg",
+      "type": "image",
+      "size_bytes": 192756,
+      "size_formatted": "188.2 KB",
+      "sha256": "e56783bd4dd74fab7ad8e4cd7bcea6acd1f50a507bc9cf519ea0cf7ec88639ff",
+      "status": "downloaded"
+    },
+    "assets/js/barat-cinematic.js": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/js/barat-cinematic.js",
+      "local_path": "assets/js/barat-cinematic.js",
+      "type": "script",
+      "size_bytes": 12555,
+      "size_formatted": "12.3 KB",
+      "sha256": "56752c4476e27bcac09c4d1dc70387eebd68ba4de207d50cde4f1dd6cc367556",
+      "status": "downloaded"
+    },
+    "assets/img/Baraat on Wheels/Garima Arora and Karan Lalchandani, Taj Aravali_.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Baraat%20on%20Wheels/Garima%20Arora%20and%20Karan%20Lalchandani%2C%20Taj%20Aravali_.jpeg",
+      "local_path": "assets/img/Baraat on Wheels/Garima Arora and Karan Lalchandani, Taj Aravali_.jpeg",
+      "type": "image",
+      "size_bytes": 24765,
+      "size_formatted": "24.2 KB",
+      "sha256": "b81ef736a56d6c7805306dc51b755cec4251e3026a0ea04bcd1b81bcdd04b656",
+      "status": "downloaded"
+    },
+    "assets/img/Baraat on Wheels/The king has arrived_ Baraat mode_ ON.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Baraat%20on%20Wheels/The%20king%20has%20arrived_%20Baraat%20mode_%20ON.jpeg",
+      "local_path": "assets/img/Baraat on Wheels/The king has arrived_ Baraat mode_ ON.jpeg",
+      "type": "image",
+      "size_bytes": 116798,
+      "size_formatted": "114.1 KB",
+      "sha256": "9dd56f864c481bc011cb091ccb5b87b3f567085c2e85d66e1dce4f87a9b2d65f",
+      "status": "downloaded"
+    },
+    "assets/img/Bright Night SFX & Fireworks/_ (5).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Bright%20Night%20SFX%20%26%20Fireworks/_%20%285%29.jpeg",
+      "local_path": "assets/img/Bright Night SFX & Fireworks/_ (5).jpeg",
+      "type": "image",
+      "size_bytes": 73737,
+      "size_formatted": "72.0 KB",
+      "sha256": "f31e729882466da811ff35674384fc44040dccfdf64533fda6d5707651f2dc7d",
+      "status": "downloaded"
+    },
+    "assets/img/Vintage Car Groom Entry/Craziest Groom Entries That Are Bound To Make An Impact!.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Vintage%20Car%20Groom%20Entry/Craziest%20Groom%20Entries%20That%20Are%20Bound%20To%20Make%20An%20Impact%21.jpeg",
+      "local_path": "assets/img/Vintage Car Groom Entry/Craziest Groom Entries That Are Bound To Make An Impact!.jpeg",
+      "type": "image",
+      "size_bytes": 132240,
+      "size_formatted": "129.1 KB",
+      "sha256": "55d2069f0825f80895d306d20cdaa8a67283947e8a610c660ecb0d80324c6713",
+      "status": "downloaded"
+    },
+    "assets/img/Bright Night SFX & Fireworks/fireworks.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Bright%20Night%20SFX%20%26%20Fireworks/fireworks.jpeg",
+      "local_path": "assets/img/Bright Night SFX & Fireworks/fireworks.jpeg",
+      "type": "image",
+      "size_bytes": 62868,
+      "size_formatted": "61.4 KB",
+      "sha256": "bf74b4bfc6282154a099520d17eb7ee3c67598f90ea7af77c598f85b19366c98",
+      "status": "downloaded"
+    },
+    "assets/img/Baraat on Wheels/coolness.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Baraat%20on%20Wheels/coolness.jpeg",
+      "local_path": "assets/img/Baraat on Wheels/coolness.jpeg",
+      "type": "image",
+      "size_bytes": 143186,
+      "size_formatted": "139.8 KB",
+      "sha256": "3cef23b75e881f120a1ba15386588b6e5742d1f5e756093f0a3fb3bddfd635c8",
+      "status": "downloaded"
+    },
+    "assets/img/Bright Night SFX & Fireworks/fireworks (1).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Bright%20Night%20SFX%20%26%20Fireworks/fireworks%20%281%29.jpeg",
+      "local_path": "assets/img/Bright Night SFX & Fireworks/fireworks (1).jpeg",
+      "type": "image",
+      "size_bytes": 77092,
+      "size_formatted": "75.3 KB",
+      "sha256": "9f70c49296b27c77643eca8990783d169a3a83e87bc6f749a478614d9e953a69",
+      "status": "downloaded"
+    },
+    "assets/img/Royal Groom Entrance/From Klickpin.com- Bookmark these budget-friendly ways to style your bridesmaid gift perfect for saving sharing and recreating later with practica.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Royal%20Groom%20Entrance/From%20Klickpin.com-%20Bookmark%20these%20budget-friendly%20ways%20to%20style%20your%20bridesmaid%20gift%20perfect%20for%20saving%20sharing%20and%20recreating%20later%20with%20practica.mp4",
+      "local_path": "assets/img/Royal Groom Entrance/From Klickpin.com- Bookmark these budget-friendly ways to style your bridesmaid gift perfect for saving sharing and recreating later with practica.mp4",
+      "type": "video",
+      "size_bytes": 4663913,
+      "size_formatted": "4.45 MB",
+      "sha256": "6083fe41de63f5dbe8841497d8d364d7745b8313e8dd478616c4b495df7c7df7",
+      "status": "downloaded"
+    },
+    "assets/img/Vintage Car Groom Entry/Couple Grand Entry _ Grand Entry Photography _ Couple Entry Pictures.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Vintage%20Car%20Groom%20Entry/Couple%20Grand%20Entry%20_%20Grand%20Entry%20Photography%20_%20Couple%20Entry%20Pictures.jpeg",
+      "local_path": "assets/img/Vintage Car Groom Entry/Couple Grand Entry _ Grand Entry Photography _ Couple Entry Pictures.jpeg",
+      "type": "image",
+      "size_bytes": 172978,
+      "size_formatted": "168.9 KB",
+      "sha256": "1203ac6c878aa3f9997c98c9b08afce92d2bff8998862fc62686d1033a604edd",
+      "status": "downloaded"
+    },
+    "assets/img/Vintage Car Groom Entry/wedding car.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Vintage%20Car%20Groom%20Entry/wedding%20car.jpeg",
+      "local_path": "assets/img/Vintage Car Groom Entry/wedding car.jpeg",
+      "type": "image",
+      "size_bytes": 159331,
+      "size_formatted": "155.6 KB",
+      "sha256": "c321fbb347d933666732fac09da9cd0441e9e9db2c3c68bd6bed8b3600b5b7f3",
+      "status": "downloaded"
+    },
+    "assets/img/artists/ap-dhillon-2.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/ap-dhillon-2.jpg",
+      "local_path": "assets/img/artists/ap-dhillon-2.jpg",
+      "type": "image",
+      "size_bytes": 64732,
+      "size_formatted": "63.2 KB",
+      "sha256": "247917c2cba1fa01116354769698d9efce54f292822be0a243be866c3452e5fd",
+      "status": "downloaded"
+    },
+    "assets/img/artists/b-praak-3.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/b-praak-3.jpg",
+      "local_path": "assets/img/artists/b-praak-3.jpg",
+      "type": "image",
+      "size_bytes": 33542,
+      "size_formatted": "32.8 KB",
+      "sha256": "cc5da436c698c57ff6688e497186d84e269e0d5ff00acc9f7350f1722697e4b1",
+      "status": "downloaded"
+    },
+    "assets/img/artists/ap-dhillon-1.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/ap-dhillon-1.jpg",
+      "local_path": "assets/img/artists/ap-dhillon-1.jpg",
+      "type": "image",
+      "size_bytes": 85456,
+      "size_formatted": "83.5 KB",
+      "sha256": "de60ae6a9b05810a0cc02b4703bfa2040d80a319420eb2dbfda94a904abc1c76",
+      "status": "downloaded"
+    },
+    "assets/img/artists/b-praak-1.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/b-praak-1.jpg",
+      "local_path": "assets/img/artists/b-praak-1.jpg",
+      "type": "image",
+      "size_bytes": 89745,
+      "size_formatted": "87.6 KB",
+      "sha256": "00699c4f450617a6a1ee809ef0bbbe065021e3548b02361e63b9e8ff29c33452",
+      "status": "downloaded"
+    },
+    "assets/img/artists/b-praak-2.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/b-praak-2.jpg",
+      "local_path": "assets/img/artists/b-praak-2.jpg",
+      "type": "image",
+      "size_bytes": 72334,
+      "size_formatted": "70.6 KB",
+      "sha256": "d0271180ec63ff1d5002acc5f808f93e551d126c648a0cf660aff0545449fe4d",
+      "status": "downloaded"
+    },
+    "assets/img/artists/diljit-dosanjh-2.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/diljit-dosanjh-2.jpg",
+      "local_path": "assets/img/artists/diljit-dosanjh-2.jpg",
+      "type": "image",
+      "size_bytes": 64450,
+      "size_formatted": "62.9 KB",
+      "sha256": "c5c71b36aa7150d993514b9e7ef201db4b1dd4d5eba12ec719cc3018ed0b6435",
+      "status": "downloaded"
+    },
+    "assets/img/Vintage Car Groom Entry/Groom Baarat Photoshoot.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Vintage%20Car%20Groom%20Entry/Groom%20Baarat%20Photoshoot.jpeg",
+      "local_path": "assets/img/Vintage Car Groom Entry/Groom Baarat Photoshoot.jpeg",
+      "type": "image",
+      "size_bytes": 98210,
+      "size_formatted": "95.9 KB",
+      "sha256": "9effdb077184a670ebc8cbd90ba74fbbd8be23ededa8dd58b0ce97ace7b0a336",
+      "status": "downloaded"
+    },
+    "assets/img/artists/diljit-dosanjh-3.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/diljit-dosanjh-3.jpg",
+      "local_path": "assets/img/artists/diljit-dosanjh-3.jpg",
+      "type": "image",
+      "size_bytes": 32186,
+      "size_formatted": "31.4 KB",
+      "sha256": "32b5f2c8ddb60e144b884cbeb9114524181d26a981ec79f5c009202b457fb624",
+      "status": "downloaded"
+    },
+    "assets/img/artists/gurdas-maan-2.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/gurdas-maan-2.jpg",
+      "local_path": "assets/img/artists/gurdas-maan-2.jpg",
+      "type": "image",
+      "size_bytes": 99987,
+      "size_formatted": "97.6 KB",
+      "sha256": "0596520db8950c4fd512dd5c3aa61eec0ce996718631fdaac224fa00860e6584",
+      "status": "downloaded"
+    },
+    "assets/img/artists/diljit-dosanjh-1.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/diljit-dosanjh-1.jpg",
+      "local_path": "assets/img/artists/diljit-dosanjh-1.jpg",
+      "type": "image",
+      "size_bytes": 77534,
+      "size_formatted": "75.7 KB",
+      "sha256": "bcadb078337ab00b2dd2613262810882bc63c7ac61ea143eeef10c609beb5b56",
+      "status": "downloaded"
+    },
+    "assets/img/artists/gurdas-maan-1.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/gurdas-maan-1.jpg",
+      "local_path": "assets/img/artists/gurdas-maan-1.jpg",
+      "type": "image",
+      "size_bytes": 101135,
+      "size_formatted": "98.8 KB",
+      "sha256": "e8e64f8f290dcf70930b1ed832e2204d17dd3d09f18f319af40012f4cbc9413c",
+      "status": "downloaded"
+    },
+    "assets/img/artists/harshdeep-kaur-1.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/harshdeep-kaur-1.jpg",
+      "local_path": "assets/img/artists/harshdeep-kaur-1.jpg",
+      "type": "image",
+      "size_bytes": 45584,
+      "size_formatted": "44.5 KB",
+      "sha256": "4a69019a5084af8d6aac7c684df7d74acdef5433b4d0cb69dfb3d9cf501ad4f8",
+      "status": "downloaded"
+    },
+    "assets/img/artists/harshdeep-kaur-2.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/harshdeep-kaur-2.jpg",
+      "local_path": "assets/img/artists/harshdeep-kaur-2.jpg",
+      "type": "image",
+      "size_bytes": 98657,
+      "size_formatted": "96.3 KB",
+      "sha256": "f38f37c9c6a4c691facd203e0067f842ec3b27229c00ab76ec168c36edfb58fb",
+      "status": "downloaded"
+    },
+    "assets/img/artists/gurdas-maan-3.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/gurdas-maan-3.jpg",
+      "local_path": "assets/img/artists/gurdas-maan-3.jpg",
+      "type": "image",
+      "size_bytes": 90587,
+      "size_formatted": "88.5 KB",
+      "sha256": "e9d52d46ad90958c3f841cf7fe0ddcd73d5fa1ad00546b9071d8b60b1b234d53",
+      "status": "downloaded"
+    },
+    "assets/img/artists/harshdeep-kaur-3.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/harshdeep-kaur-3.jpg",
+      "local_path": "assets/img/artists/harshdeep-kaur-3.jpg",
+      "type": "image",
+      "size_bytes": 91752,
+      "size_formatted": "89.6 KB",
+      "sha256": "48e58b0b74cd4d5d39a0de7a987b8a9b1791758aead032655f3da0cf682e4dc0",
+      "status": "downloaded"
+    },
+    "assets/img/artists/karan-aujla-2.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/karan-aujla-2.jpg",
+      "local_path": "assets/img/artists/karan-aujla-2.jpg",
+      "type": "image",
+      "size_bytes": 84336,
+      "size_formatted": "82.4 KB",
+      "sha256": "7002f5375c7314ca6fbddf6bc5aad6776d99e23f86553343319212810cac3952",
+      "status": "downloaded"
+    },
+    "assets/img/artists/jasmine-sandlas-1.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/jasmine-sandlas-1.jpg",
+      "local_path": "assets/img/artists/jasmine-sandlas-1.jpg",
+      "type": "image",
+      "size_bytes": 71656,
+      "size_formatted": "70.0 KB",
+      "sha256": "2212b5b230dd7e7b2369ab3b398d56b3b200d587d4d2c69d616800c3bf31c3cb",
+      "status": "downloaded"
+    },
+    "assets/img/artists/jasmine-sandlas-2.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/jasmine-sandlas-2.jpg",
+      "local_path": "assets/img/artists/jasmine-sandlas-2.jpg",
+      "type": "image",
+      "size_bytes": 104146,
+      "size_formatted": "101.7 KB",
+      "sha256": "7a200151f34dad6a32212d92ef24a663a7411e1c4b9d94325bb2aa513163238d",
+      "status": "downloaded"
+    },
+    "assets/img/artists/karan-aujla-3.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/karan-aujla-3.jpg",
+      "local_path": "assets/img/artists/karan-aujla-3.jpg",
+      "type": "image",
+      "size_bytes": 47654,
+      "size_formatted": "46.5 KB",
+      "sha256": "cacb2fd99201023e96648eac89fdedb4e204cedb9bec9412f4407326f7a350ee",
+      "status": "downloaded"
+    },
+    "assets/img/artists/karan-aujla-1.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/karan-aujla-1.jpg",
+      "local_path": "assets/img/artists/karan-aujla-1.jpg",
+      "type": "image",
+      "size_bytes": 63312,
+      "size_formatted": "61.8 KB",
+      "sha256": "dbce3eaaaa2cf4b812c10162ce876622c6ad36c8a1ad23caae28eca0869ad8e3",
+      "status": "downloaded"
+    },
+    "assets/img/artists/B Praak/From Klickpin.com- Save Modern party appetizer ideas for a polished look people will notice with simple details that elevate the final look-pin-id.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/B%20Praak/From%20Klickpin.com-%20Save%20Modern%20party%20appetizer%20ideas%20for%20a%20polished%20look%20people%20will%20notice%20with%20simple%20details%20that%20elevate%20the%20final%20look-pin-id.mp4",
+      "local_path": "assets/img/artists/B Praak/From Klickpin.com- Save Modern party appetizer ideas for a polished look people will notice with simple details that elevate the final look-pin-id.mp4",
+      "type": "video",
+      "size_bytes": 9251153,
+      "size_formatted": "8.82 MB",
+      "sha256": "e7d1c766cbfc9081862ba748f950fd4f5c764558b8d516d30564bce99261fd3b",
+      "status": "downloaded"
+    },
+    "assets/img/Vintage Car Groom Entry/VIDEO-6.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Vintage%20Car%20Groom%20Entry/VIDEO-6.mp4",
+      "local_path": "assets/img/Vintage Car Groom Entry/VIDEO-6.mp4",
+      "type": "video",
+      "size_bytes": 6069014,
+      "size_formatted": "5.79 MB",
+      "sha256": "d55f6da4db1c990b902364a0aeb729fe5d88195f317d72038feb4c5405e689d3",
+      "status": "downloaded"
+    },
+    "assets/img/artists/sunanda-sharma-1.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/sunanda-sharma-1.jpg",
+      "local_path": "assets/img/artists/sunanda-sharma-1.jpg",
+      "type": "image",
+      "size_bytes": 52808,
+      "size_formatted": "51.6 KB",
+      "sha256": "c0db6128704245ee51ce981bccd8e72801596e08b470eae0a8cd89ede54a3f89",
+      "status": "downloaded"
+    },
+    "assets/img/artists/sunanda-sharma-2.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/sunanda-sharma-2.jpg",
+      "local_path": "assets/img/artists/sunanda-sharma-2.jpg",
+      "type": "image",
+      "size_bytes": 61209,
+      "size_formatted": "59.8 KB",
+      "sha256": "65bea3322924070e69679a1d37186c040ae11c029503120ee7d20e05e3c6df7d",
+      "status": "downloaded"
+    },
+    "assets/img/artists/sunanda-sharma-3.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/sunanda-sharma-3.jpg",
+      "local_path": "assets/img/artists/sunanda-sharma-3.jpg",
+      "type": "image",
+      "size_bytes": 115516,
+      "size_formatted": "112.8 KB",
+      "sha256": "cbe1b3d3b08da83528106ca79980350a2c7c204b447bbe1e013b1e6791fc21f2",
+      "status": "downloaded"
+    },
+    "assets/img/artists/ap-dhillon-3.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/ap-dhillon-3.jpg",
+      "local_path": "assets/img/artists/ap-dhillon-3.jpg",
+      "type": "image",
+      "size_bytes": 69653,
+      "size_formatted": "68.0 KB",
+      "sha256": "83ba3348fd9bb347a1c2ba112feb0b8ee5590f34fc165656e2ca4e5e4253e821",
+      "status": "downloaded"
+    },
+    "assets/img/HALDI/Haldi \ud83c\udf19\ud83e\udd6d\ud83d\udefa.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/HALDI/Haldi%20%F0%9F%8C%99%F0%9F%A5%AD%F0%9F%9B%BA.jpeg",
+      "local_path": "assets/img/HALDI/Haldi \ud83c\udf19\ud83e\udd6d\ud83d\udefa.jpeg",
+      "type": "image",
+      "size_bytes": 245112,
+      "size_formatted": "239.4 KB",
+      "sha256": "98a7e43661382242b9d51fcbecec68a41bd06899d2706e8812a1ff244fb97860",
+      "status": "downloaded"
+    },
+    "assets/img/artists/Karan Aujla/From Klickpin.com- 35 Luxury cozy apartment decor ideas that make everyday moments look more intentional memorable and beautifully styled for crea.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/Karan%20Aujla/From%20Klickpin.com-%2035%20Luxury%20cozy%20apartment%20decor%20ideas%20that%20make%20everyday%20moments%20look%20more%20intentional%20memorable%20and%20beautifully%20styled%20for%20crea.mp4",
+      "local_path": "assets/img/artists/Karan Aujla/From Klickpin.com- 35 Luxury cozy apartment decor ideas that make everyday moments look more intentional memorable and beautifully styled for crea.mp4",
+      "type": "video",
+      "size_bytes": 6766827,
+      "size_formatted": "6.45 MB",
+      "sha256": "1bc7f75469dac5a7006e9518774b598e18619069fde1532576adfae6af1a9c75",
+      "status": "downloaded"
+    },
+    "assets/img/artists/Sunanda Sharma/From Klickpin.com- Easy morning rhythm ideas and clever inspiration this season that feel easy to keep up-pin-id-775674735864082293.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/Sunanda%20Sharma/From%20Klickpin.com-%20Easy%20morning%20rhythm%20ideas%20and%20clever%20inspiration%20this%20season%20that%20feel%20easy%20to%20keep%20up-pin-id-775674735864082293.mp4",
+      "local_path": "assets/img/artists/Sunanda Sharma/From Klickpin.com- Easy morning rhythm ideas and clever inspiration this season that feel easy to keep up-pin-id-775674735864082293.mp4",
+      "type": "video",
+      "size_bytes": 10414411,
+      "size_formatted": "9.93 MB",
+      "sha256": "be17b51dccc66e9214d94611a0cddfde36db6c64d02d47d1fa9053a43cef99be",
+      "status": "downloaded"
+    },
+    "assets/img/Grand Reception/Gala Dinner Venues Sydney _ Navarra Venues.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Grand%20Reception/Gala%20Dinner%20Venues%20Sydney%20_%20Navarra%20Venues.jpeg",
+      "local_path": "assets/img/Grand Reception/Gala Dinner Venues Sydney _ Navarra Venues.jpeg",
+      "type": "image",
+      "size_bytes": 158238,
+      "size_formatted": "154.5 KB",
+      "sha256": "793394efd9cea8d33dc3c96c72828fe5ac1867d41984db78d848b0442da8c7a7",
+      "status": "downloaded"
+    },
+    "assets/img/artists/Jasmine Sandlas/From Klickpin.com- Beautiful party appetizer ideas for practical inspiration you can actually use today with simple details that elevate the final.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/Jasmine%20Sandlas/From%20Klickpin.com-%20Beautiful%20party%20appetizer%20ideas%20for%20practical%20inspiration%20you%20can%20actually%20use%20today%20with%20simple%20details%20that%20elevate%20the%20final.mp4",
+      "local_path": "assets/img/artists/Jasmine Sandlas/From Klickpin.com- Beautiful party appetizer ideas for practical inspiration you can actually use today with simple details that elevate the final.mp4",
+      "type": "video",
+      "size_bytes": 3635835,
+      "size_formatted": "3.47 MB",
+      "sha256": "996ffd2673bf10bc0899685965f7d7b9dcb62f504ed3b37bb2c88caa999aaa18",
+      "status": "downloaded"
+    },
+    "assets/img/Grand Reception/From Klickpin.com- 39 Office Decor Inspiration for Minimalists-pin-id-1111404014305193451.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Grand%20Reception/From%20Klickpin.com-%2039%20Office%20Decor%20Inspiration%20for%20Minimalists-pin-id-1111404014305193451.mp4",
+      "local_path": "assets/img/Grand Reception/From Klickpin.com- 39 Office Decor Inspiration for Minimalists-pin-id-1111404014305193451.mp4",
+      "type": "video",
+      "size_bytes": 1321066,
+      "size_formatted": "1.26 MB",
+      "sha256": "ff51ea1ed2d7dc34b851648924685d67caca55a3c37b77b7b514aa2624d94269",
+      "status": "downloaded"
+    },
+    "assets/img/mehendi/Mehndi design.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/mehendi/Mehndi%20design.jpeg",
+      "local_path": "assets/img/mehendi/Mehndi design.jpeg",
+      "type": "image",
+      "size_bytes": 117583,
+      "size_formatted": "114.8 KB",
+      "sha256": "88ff2d30521c14a581dc1244836145f152dd606c5e80ea7bc98aed0457720e67",
+      "status": "downloaded"
+    },
+    "assets/img/Jaggo Celebration/Punjabi Jaago Night Energy_ Sunglasses, Mehndi, and Full Dance Floor Mode.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Jaggo%20Celebration/Punjabi%20Jaago%20Night%20Energy_%20Sunglasses%2C%20Mehndi%2C%20and%20Full%20Dance%20Floor%20Mode.jpeg",
+      "local_path": "assets/img/Jaggo Celebration/Punjabi Jaago Night Energy_ Sunglasses, Mehndi, and Full Dance Floor Mode.jpeg",
+      "type": "image",
+      "size_bytes": 126055,
+      "size_formatted": "123.1 KB",
+      "sha256": "179b443552d7f74f5bb196e9d098dac4d0a9d58aa4f6903b37923374c7fc8259",
+      "status": "downloaded"
+    },
+    "assets/img/Cocktail Night & After-Party/From Klickpin.com- Coastal beach picnic thoughts for people who love beauty for modern homes with saltwater magic-pin-id-331507222595891993.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Cocktail%20Night%20%26%20After-Party/From%20Klickpin.com-%20Coastal%20beach%20picnic%20thoughts%20for%20people%20who%20love%20beauty%20for%20modern%20homes%20with%20saltwater%20magic-pin-id-331507222595891993.mp4",
+      "local_path": "assets/img/Cocktail Night & After-Party/From Klickpin.com- Coastal beach picnic thoughts for people who love beauty for modern homes with saltwater magic-pin-id-331507222595891993.mp4",
+      "type": "video",
+      "size_bytes": 7266228,
+      "size_formatted": "6.93 MB",
+      "sha256": "3f3a7be395ed1f461f0b56e1b9176ef464ef0d796733102e5066fbdee9fdf658",
+      "status": "downloaded"
+    },
+    "assets/img/Pre-Wedding Shoots & Films/From Klickpin.com- Need fresh inspiration Refresh these easy budget makeover ideas that make everything look instantly polished for a stylish resu.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Pre-Wedding%20Shoots%20%26%20Films/From%20Klickpin.com-%20Need%20fresh%20inspiration%20Refresh%20these%20easy%20budget%20makeover%20ideas%20that%20make%20everything%20look%20instantly%20polished%20for%20a%20stylish%20resu.mp4",
+      "local_path": "assets/img/Pre-Wedding Shoots & Films/From Klickpin.com- Need fresh inspiration Refresh these easy budget makeover ideas that make everything look instantly polished for a stylish resu.mp4",
+      "type": "video",
+      "size_bytes": 4677077,
+      "size_formatted": "4.46 MB",
+      "sha256": "3e35b3321b1b7e2ee1799e09781001c5ee9965fb421258ddcd4ddaa3d4aac94b",
+      "status": "downloaded"
+    },
+    "assets/img/Chooda & Kaleerein Ceremony/Beautiful Bride poses.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Chooda%20%26%20Kaleerein%20Ceremony/Beautiful%20Bride%20poses.jpeg",
+      "local_path": "assets/img/Chooda & Kaleerein Ceremony/Beautiful Bride poses.jpeg",
+      "type": "image",
+      "size_bytes": 130517,
+      "size_formatted": "127.5 KB",
+      "sha256": "ae1fa762e0d9276f9a2718ef13320a5909fed6439cb4b1468c9e6f19dd168fef",
+      "status": "downloaded"
+    },
+    "assets/img/SANGEET NIGHT/From Klickpin.com- Try Simple self-care Sunday ideas that are trending right now across Pinterest boards for a polished look people will notice-pi.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/SANGEET%20NIGHT/From%20Klickpin.com-%20Try%20Simple%20self-care%20Sunday%20ideas%20that%20are%20trending%20right%20now%20across%20Pinterest%20boards%20for%20a%20polished%20look%20people%20will%20notice-pi.mp4",
+      "local_path": "assets/img/SANGEET NIGHT/From Klickpin.com- Try Simple self-care Sunday ideas that are trending right now across Pinterest boards for a polished look people will notice-pi.mp4",
+      "type": "video",
+      "size_bytes": 8221531,
+      "size_formatted": "7.84 MB",
+      "sha256": "a74aa3b6434500372f96d02d87a27c25cc04d8afc74953371cee5b387b2e31a2",
+      "status": "downloaded"
+    },
+    "assets/img/From Klickpin.com- 27 Stunning fall outfit ideas for women that are worth saving if you love elegant details and creative inspiration for women wh.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/From%20Klickpin.com-%2027%20Stunning%20fall%20outfit%20ideas%20for%20women%20that%20are%20worth%20saving%20if%20you%20love%20elegant%20details%20and%20creative%20inspiration%20for%20women%20wh.mp4",
+      "local_path": "assets/img/From Klickpin.com- 27 Stunning fall outfit ideas for women that are worth saving if you love elegant details and creative inspiration for women wh.mp4",
+      "type": "video",
+      "size_bytes": 4345934,
+      "size_formatted": "4.14 MB",
+      "sha256": "94b0542865622573dd1a72b5bcbd4d61d26ab13fdcb2793322be22b8533e8f8d",
+      "status": "downloaded"
+    },
+    "assets/img/Roka & Shagun Ceremony/Chunni Ceremony - Kulveer & Preet \u2014 STEFANIEMPHOTO (1).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Roka%20%26%20Shagun%20Ceremony/Chunni%20Ceremony%20-%20Kulveer%20%26%20Preet%20%E2%80%94%20STEFANIEMPHOTO%20%281%29.jpeg",
+      "local_path": "assets/img/Roka & Shagun Ceremony/Chunni Ceremony - Kulveer & Preet \u2014 STEFANIEMPHOTO (1).jpeg",
+      "type": "image",
+      "size_bytes": 192816,
+      "size_formatted": "188.3 KB",
+      "sha256": "15255ccb119949e2e4843bb877a02e9361a965a334014b1da77717317e9ca811",
+      "status": "downloaded"
+    },
+    "assets/img/engagement/Best Ring ceremony shoot.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/engagement/Best%20Ring%20ceremony%20shoot.jpeg",
+      "local_path": "assets/img/engagement/Best Ring ceremony shoot.jpeg",
+      "type": "image",
+      "size_bytes": 121706,
+      "size_formatted": "118.9 KB",
+      "sha256": "caa7dac5605b0cf7cf54bd7f400b603c06b115ec8e7f141237fbc28c74f3a02c",
+      "status": "downloaded"
+    },
+    "assets/img/From Klickpin.com- Try Aesthetic air fryer recipes that can instantly upgrade your look room party or daily routine for ideas worth saving right n.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/From%20Klickpin.com-%20Try%20Aesthetic%20air%20fryer%20recipes%20that%20can%20instantly%20upgrade%20your%20look%20room%20party%20or%20daily%20routine%20for%20ideas%20worth%20saving%20right%20n.mp4",
+      "local_path": "assets/img/From Klickpin.com- Try Aesthetic air fryer recipes that can instantly upgrade your look room party or daily routine for ideas worth saving right n.mp4",
+      "type": "video",
+      "size_bytes": 8036000,
+      "size_formatted": "7.66 MB",
+      "sha256": "4b848fe43f738512f0d2738e9f4e9d74b6b72b64d7e8315e5edd79f52e6443d6",
+      "status": "downloaded"
+    },
+    "assets/img/Grand Lavish Baraat/From Klickpin.com- Love these easy ways to style your weekend getaway everyone will ask you about with beginner-friendly tips and easy details and.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Grand%20Lavish%20Baraat/From%20Klickpin.com-%20Love%20these%20easy%20ways%20to%20style%20your%20weekend%20getaway%20everyone%20will%20ask%20you%20about%20with%20beginner-friendly%20tips%20and%20easy%20details%20and.mp4",
+      "local_path": "assets/img/Grand Lavish Baraat/From Klickpin.com- Love these easy ways to style your weekend getaway everyone will ask you about with beginner-friendly tips and easy details and.mp4",
+      "type": "video",
+      "size_bytes": 10026796,
+      "size_formatted": "9.56 MB",
+      "sha256": "d39280d6717468cec31ef00798e95992527f3954c361a1023fc4ca4483b661a0",
+      "status": "downloaded"
+    },
+    "assets/img/Vidaai Farewell/A Compromise Transformed In Love.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Vidaai%20Farewell/A%20Compromise%20Transformed%20In%20Love.jpeg",
+      "local_path": "assets/img/Vidaai Farewell/A Compromise Transformed In Love.jpeg",
+      "type": "image",
+      "size_bytes": 136518,
+      "size_formatted": "133.3 KB",
+      "sha256": "056c53536ec1b66f3f504cbbefd23fb59e496dafbde6a6fc5327cf28b148fca1",
+      "status": "downloaded"
+    },
+    "assets/img/HALDI/Haldi ceremony style.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/HALDI/Haldi%20ceremony%20style.jpeg",
+      "local_path": "assets/img/HALDI/Haldi ceremony style.jpeg",
+      "type": "image",
+      "size_bytes": 108936,
+      "size_formatted": "106.4 KB",
+      "sha256": "ca9c0efd587a405bdf67e56e7fd6c7357c687252cdf6cebc7cc0738320e87f21",
+      "status": "downloaded"
+    },
+    "assets/img/Jaggo Celebration/From Klickpin.com- Simple seasonal outdoor scenes for cozy moods for boards that feel current and to refresh your mood-pin-id-198088083606839220.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Jaggo%20Celebration/From%20Klickpin.com-%20Simple%20seasonal%20outdoor%20scenes%20for%20cozy%20moods%20for%20boards%20that%20feel%20current%20and%20to%20refresh%20your%20mood-pin-id-198088083606839220.mp4",
+      "local_path": "assets/img/Jaggo Celebration/From Klickpin.com- Simple seasonal outdoor scenes for cozy moods for boards that feel current and to refresh your mood-pin-id-198088083606839220.mp4",
+      "type": "video",
+      "size_bytes": 7084204,
+      "size_formatted": "6.76 MB",
+      "sha256": "473923dbd412af3c091ed073214772bb04a209fff4910455330c00380fd2c9a6",
+      "status": "downloaded"
+    },
+    "assets/img/HALDI/Haldi hath.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/HALDI/Haldi%20hath.jpeg",
+      "local_path": "assets/img/HALDI/Haldi hath.jpeg",
+      "type": "image",
+      "size_bytes": 123384,
+      "size_formatted": "120.5 KB",
+      "sha256": "bee40955579cefc40304d5c402efe7cb22ed0d27475610fa78e2e90eaa7eb2e9",
+      "status": "downloaded"
+    },
+    "assets/img/HALDI/Haldi Inspo.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/HALDI/Haldi%20Inspo.jpeg",
+      "local_path": "assets/img/HALDI/Haldi Inspo.jpeg",
+      "type": "image",
+      "size_bytes": 205783,
+      "size_formatted": "201.0 KB",
+      "sha256": "e8f679ffefb7f98e3c57ba0434fddcccd2a4672ef32c9b0b0925cb9aca6084d1",
+      "status": "downloaded"
+    },
+    "assets/img/HALDI/Haldi _ Gaye Holud.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/HALDI/Haldi%20_%20Gaye%20Holud.jpeg",
+      "local_path": "assets/img/HALDI/Haldi _ Gaye Holud.jpeg",
+      "type": "image",
+      "size_bytes": 161658,
+      "size_formatted": "157.9 KB",
+      "sha256": "0074edbf619b55b8b70a57dae4b6ec05a829966771f70cee8c1ad00de6a430be",
+      "status": "downloaded"
+    },
+    "assets/img/mehendi/385.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/mehendi/385.jpeg",
+      "local_path": "assets/img/mehendi/385.jpeg",
+      "type": "image",
+      "size_bytes": 125266,
+      "size_formatted": "122.3 KB",
+      "sha256": "0e345cde48dfd320059da83712bc658394c41cc55f561eb0a9b7cd4f18bd69cc",
+      "status": "downloaded"
+    },
+    "assets/img/mehendi/mehndi ceremony.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/mehendi/mehndi%20ceremony.jpeg",
+      "local_path": "assets/img/mehendi/mehndi ceremony.jpeg",
+      "type": "image",
+      "size_bytes": 139583,
+      "size_formatted": "136.3 KB",
+      "sha256": "e8c444899cde08be4b8192e6bf49da86a9e62a859c3c3611a9d8c0158135ab73",
+      "status": "downloaded"
+    },
+    "assets/img/engagement/Amrit & utkarsh engegament story_.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/engagement/Amrit%20%26%20utkarsh%20engegament%20story_.jpeg",
+      "local_path": "assets/img/engagement/Amrit & utkarsh engegament story_.jpeg",
+      "type": "image",
+      "size_bytes": 233579,
+      "size_formatted": "228.1 KB",
+      "sha256": "0908d528893d61c5cb355d1bd466b8250d88de6b64fe8e3f40990f5e010ea83d",
+      "status": "downloaded"
+    },
+    "assets/img/engagement/Heartwarming Engagement Wishes & Quotes!.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/engagement/Heartwarming%20Engagement%20Wishes%20%26%20Quotes%21.jpeg",
+      "local_path": "assets/img/engagement/Heartwarming Engagement Wishes & Quotes!.jpeg",
+      "type": "image",
+      "size_bytes": 143271,
+      "size_formatted": "139.9 KB",
+      "sha256": "80a6d6c293bbedcc4aec9783eb6a9357f721a1cd125366a6d02c9712eb7e7ba5",
+      "status": "downloaded"
+    },
+    "assets/img/HALDI/From Klickpin.com- Bold car care routines and clever inspiration for busy days to try this week-pin-id-692921092683228746.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/HALDI/From%20Klickpin.com-%20Bold%20car%20care%20routines%20and%20clever%20inspiration%20for%20busy%20days%20to%20try%20this%20week-pin-id-692921092683228746.mp4",
+      "local_path": "assets/img/HALDI/From Klickpin.com- Bold car care routines and clever inspiration for busy days to try this week-pin-id-692921092683228746.mp4",
+      "type": "video",
+      "size_bytes": 7138371,
+      "size_formatted": "6.81 MB",
+      "sha256": "c350207518cacb563f6a24f37ef2ffd264cafa5496777f0997509c362c19653e",
+      "status": "downloaded"
+    },
+    "assets/img/events/sangeet-1.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/sangeet-1.jpg",
+      "local_path": "assets/img/events/sangeet-1.jpg",
+      "type": "image",
+      "size_bytes": 149934,
+      "size_formatted": "146.4 KB",
+      "sha256": "ce07286793b90d26a73cfd22a9d027c94a21bab05088190add93956cda3c98cf",
+      "status": "downloaded"
+    },
+    "assets/img/engagement/Shot for @silhouettes_studios.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/engagement/Shot%20for%20%40silhouettes_studios.jpeg",
+      "local_path": "assets/img/engagement/Shot for @silhouettes_studios.jpeg",
+      "type": "image",
+      "size_bytes": 55159,
+      "size_formatted": "53.9 KB",
+      "sha256": "09e826e95de7ac239e7b82047e35601db7b022bed13f6d688b31e41e0bf90b3c",
+      "status": "downloaded"
+    },
+    "assets/img/SANGEET NIGHT/Engagement Decor.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/SANGEET%20NIGHT/Engagement%20Decor.jpeg",
+      "local_path": "assets/img/SANGEET NIGHT/Engagement Decor.jpeg",
+      "type": "image",
+      "size_bytes": 184665,
+      "size_formatted": "180.3 KB",
+      "sha256": "04d05366ceef62945050cf3e376fcffd10d8c7c8d6ce75c4ec126c40aa2327f7",
+      "status": "downloaded"
+    },
+    "assets/img/artists/Harshdeep Kaur/From Klickpin.com- Meal Prep Ideas That Make Everyday Better 45835-pin-id-658581145555654196.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/Harshdeep%20Kaur/From%20Klickpin.com-%20Meal%20Prep%20Ideas%20That%20Make%20Everyday%20Better%2045835-pin-id-658581145555654196.mp4",
+      "local_path": "assets/img/artists/Harshdeep Kaur/From Klickpin.com- Meal Prep Ideas That Make Everyday Better 45835-pin-id-658581145555654196.mp4",
+      "type": "video",
+      "size_bytes": 12379604,
+      "size_formatted": "11.81 MB",
+      "sha256": "700004d45bde6fe0a731da319ee3c4d72796f6f14af67413aabd17ad9ede8ff9",
+      "status": "downloaded"
+    },
+    "assets/img/SANGEET NIGHT/Bride & Groom entry Ideas.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/SANGEET%20NIGHT/Bride%20%26%20Groom%20entry%20Ideas.jpeg",
+      "local_path": "assets/img/SANGEET NIGHT/Bride & Groom entry Ideas.jpeg",
+      "type": "image",
+      "size_bytes": 122125,
+      "size_formatted": "119.3 KB",
+      "sha256": "03358e8bb6740717d75381d1f952b8e46c39888ee4148082b91e116c2484fae6",
+      "status": "downloaded"
+    },
+    "assets/img/events/sangeet-3.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/sangeet-3.jpg",
+      "local_path": "assets/img/events/sangeet-3.jpg",
+      "type": "image",
+      "size_bytes": 110609,
+      "size_formatted": "108.0 KB",
+      "sha256": "0ebbafabf377570c172947dc1b81995acefd71627f6c69becfb1be1bf7cdd6d5",
+      "status": "downloaded"
+    },
+    "assets/img/CAREMOENY/our day \ud83e\udef0\ud83c\udffb\ud83c\udf38.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/CAREMOENY/our%20day%20%F0%9F%AB%B0%F0%9F%8F%BB%F0%9F%8C%B8.jpeg",
+      "local_path": "assets/img/CAREMOENY/our day \ud83e\udef0\ud83c\udffb\ud83c\udf38.jpeg",
+      "type": "image",
+      "size_bytes": 124504,
+      "size_formatted": "121.6 KB",
+      "sha256": "a3a2b330ba55cec845210e76a32532b1594f1b5ccf3e5af1c2c1bb408cdac285",
+      "status": "downloaded"
+    },
+    "assets/img/mehendi/From Klickpin.com- Nail design inspiration that can help you create a more curated classy and Pinterest-worthy result for anyone who wants easy bu.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/mehendi/From%20Klickpin.com-%20Nail%20design%20inspiration%20that%20can%20help%20you%20create%20a%20more%20curated%20classy%20and%20Pinterest-worthy%20result%20for%20anyone%20who%20wants%20easy%20bu.mp4",
+      "local_path": "assets/img/mehendi/From Klickpin.com- Nail design inspiration that can help you create a more curated classy and Pinterest-worthy result for anyone who wants easy bu.mp4",
+      "type": "video",
+      "size_bytes": 4565724,
+      "size_formatted": "4.35 MB",
+      "sha256": "d88bef9f8a9e003edae8b474852502bf183fdf67d864b45bdf6805f3faec9cea",
+      "status": "downloaded"
+    },
+    "assets/img/Grand Reception/Girls for girls brunch.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Grand%20Reception/Girls%20for%20girls%20brunch.jpeg",
+      "local_path": "assets/img/Grand Reception/Girls for girls brunch.jpeg",
+      "type": "image",
+      "size_bytes": 114970,
+      "size_formatted": "112.3 KB",
+      "sha256": "41e0ff5b4dafb32bb59fbb20a99ef43076e13781e3246d1eef35529d643e9a12",
+      "status": "downloaded"
+    },
+    "assets/img/SANGEET NIGHT/A night that shimmered with laughter, love, and sparkles\u2728_ The cocktails were just the beginning, the real celebration was in the joy that filled the room\ud83e\udd42\ud83d\udda4__Jaiti & Mahesh, _Gallops, Mumbai __Photography_ @hiraayabyaayushi _Decor_.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/SANGEET%20NIGHT/A%20night%20that%20shimmered%20with%20laughter%2C%20love%2C%20and%20sparkles%E2%9C%A8_%20The%20cocktails%20were%20just%20the%20beginning%2C%20the%20real%20celebration%20was%20in%20the%20joy%20that%20filled%20the%20room%F0%9F%A5%82%F0%9F%96%A4__Jaiti%20%26%20Mahesh%2C%20_Gallops%2C%20Mumbai%20__Photography_%20%40hiraayabyaayushi%20_Decor_.jpeg",
+      "local_path": "assets/img/SANGEET NIGHT/A night that shimmered with laughter, love, and sparkles\u2728_ The cocktails were just the beginning, the real celebration was in the joy that filled the room\ud83e\udd42\ud83d\udda4__Jaiti & Mahesh, _Gallops, Mumbai __Photography_ @hiraayabyaayushi _Decor_.jpeg",
+      "type": "image",
+      "size_bytes": 147653,
+      "size_formatted": "144.2 KB",
+      "sha256": "9b050e853348140b47eb8e639414426fa8d6a6e632bb82511de7d56319051afc",
+      "status": "downloaded"
+    },
+    "assets/img/Cocktail Night & After-Party/Follow for luxury weddings inspo.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Cocktail%20Night%20%26%20After-Party/Follow%20for%20luxury%20weddings%20inspo.jpeg",
+      "local_path": "assets/img/Cocktail Night & After-Party/Follow for luxury weddings inspo.jpeg",
+      "type": "image",
+      "size_bytes": 162898,
+      "size_formatted": "159.1 KB",
+      "sha256": "a7d47131bd8741ef561fb3762f6c77cb79c87e79cb9309ce9e8d1d62d6fc8dff",
+      "status": "downloaded"
+    },
+    "assets/img/Cocktail Night & After-Party/@toma3estudio.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Cocktail%20Night%20%26%20After-Party/%40toma3estudio.jpeg",
+      "local_path": "assets/img/Cocktail Night & After-Party/@toma3estudio.jpeg",
+      "type": "image",
+      "size_bytes": 124430,
+      "size_formatted": "121.5 KB",
+      "sha256": "a0c9cce9cdcf31bf4a206341b6a7820a6d71afe2de21aab0de1cbdb6d6df0503",
+      "status": "downloaded"
+    },
+    "assets/img/Cocktail Night & After-Party/Im\u00e1genes especiales originales.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Cocktail%20Night%20%26%20After-Party/Im%C3%A1genes%20especiales%20originales.jpeg",
+      "local_path": "assets/img/Cocktail Night & After-Party/Im\u00e1genes especiales originales.jpeg",
+      "type": "image",
+      "size_bytes": 73618,
+      "size_formatted": "71.9 KB",
+      "sha256": "d4998538962dde4ee847cae2155757cc23631858cd12af81936e493bdae93041",
+      "status": "downloaded"
+    },
+    "assets/img/Jaggo Celebration/JAGGO INSPO \u2022 Instagram.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Jaggo%20Celebration/JAGGO%20INSPO%20%E2%80%A2%20Instagram.jpeg",
+      "local_path": "assets/img/Jaggo Celebration/JAGGO INSPO \u2022 Instagram.jpeg",
+      "type": "image",
+      "size_bytes": 137340,
+      "size_formatted": "134.1 KB",
+      "sha256": "39504bf841a5fe2c1bf892e84c233cb682fc12a80c28518648d5844e23b87025",
+      "status": "downloaded"
+    },
+    "assets/img/Jaggo Celebration/Sangeet Photography \u2014 Indian Wedding Celebration Dallas Texas.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Jaggo%20Celebration/Sangeet%20Photography%20%E2%80%94%20Indian%20Wedding%20Celebration%20Dallas%20Texas.jpeg",
+      "local_path": "assets/img/Jaggo Celebration/Sangeet Photography \u2014 Indian Wedding Celebration Dallas Texas.jpeg",
+      "type": "image",
+      "size_bytes": 168860,
+      "size_formatted": "164.9 KB",
+      "sha256": "59bccb69eb0fbb1de1c62a3b69368eef9d777049e07729ea2fb205733833c901",
+      "status": "downloaded"
+    },
+    "assets/img/Jaggo Celebration/Group Dancing During a Sangeet Celebration.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Jaggo%20Celebration/Group%20Dancing%20During%20a%20Sangeet%20Celebration.jpeg",
+      "local_path": "assets/img/Jaggo Celebration/Group Dancing During a Sangeet Celebration.jpeg",
+      "type": "image",
+      "size_bytes": 131716,
+      "size_formatted": "128.6 KB",
+      "sha256": "c22055c1e89655663be59726cd6c9394c42bfbd08f6da09fda8351ce9b272c63",
+      "status": "downloaded"
+    },
+    "assets/img/Jaggo Celebration/Traditional Sangeet Dance Ritual.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Jaggo%20Celebration/Traditional%20Sangeet%20Dance%20Ritual.jpeg",
+      "local_path": "assets/img/Jaggo Celebration/Traditional Sangeet Dance Ritual.jpeg",
+      "type": "image",
+      "size_bytes": 126871,
+      "size_formatted": "123.9 KB",
+      "sha256": "b9fe108231862fb74ac4d43f32f9fae796d557ab99b0a1ee72789aabcfe16359",
+      "status": "downloaded"
+    },
+    "assets/img/Grand Reception/\u041a\u043e\u043d\u0446\u0435\u043f\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0439 \u0434\u0435\u043d\u044c \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Grand%20Reception/%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%20%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F.jpeg",
+      "local_path": "assets/img/Grand Reception/\u041a\u043e\u043d\u0446\u0435\u043f\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0439 \u0434\u0435\u043d\u044c \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f.jpeg",
+      "type": "image",
+      "size_bytes": 121730,
+      "size_formatted": "118.9 KB",
+      "sha256": "a7669fe22f7a71e1f24ab83efa2023f2d8df0794fd9bc8c1ec5ce64961707a41",
+      "status": "downloaded"
+    },
+    "assets/img/Jaggo Celebration/\u208a\u02da\u22b9\u2661Panjabi asthetics\u208a\u02da\u22b9\u2661.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Jaggo%20Celebration/%E2%82%8A%CB%9A%E2%8A%B9%E2%99%A1Panjabi%20asthetics%E2%82%8A%CB%9A%E2%8A%B9%E2%99%A1.jpeg",
+      "local_path": "assets/img/Jaggo Celebration/\u208a\u02da\u22b9\u2661Panjabi asthetics\u208a\u02da\u22b9\u2661.jpeg",
+      "type": "image",
+      "size_bytes": 192102,
+      "size_formatted": "187.6 KB",
+      "sha256": "94ca4cdce8f3c448c2d0b97dd343d83c379806b33fc409c1809ab13acf554347",
+      "status": "downloaded"
+    },
+    "assets/img/engagement/From Klickpin.com- Heartfelt crush quotes that fit modern everyday life for creative people for cozy hearts-pin-id-599119556708116546.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/engagement/From%20Klickpin.com-%20Heartfelt%20crush%20quotes%20that%20fit%20modern%20everyday%20life%20for%20creative%20people%20for%20cozy%20hearts-pin-id-599119556708116546.mp4",
+      "local_path": "assets/img/engagement/From Klickpin.com- Heartfelt crush quotes that fit modern everyday life for creative people for cozy hearts-pin-id-599119556708116546.mp4",
+      "type": "video",
+      "size_bytes": 4363566,
+      "size_formatted": "4.16 MB",
+      "sha256": "733917de08135655ca0bf76e6baeb9a3d322a9a6e9405ef4d05eb9628705dd3d",
+      "status": "downloaded"
+    },
+    "assets/img/Chooda & Kaleerein Ceremony/Colors of Rituals.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Chooda%20%26%20Kaleerein%20Ceremony/Colors%20of%20Rituals.jpeg",
+      "local_path": "assets/img/Chooda & Kaleerein Ceremony/Colors of Rituals.jpeg",
+      "type": "image",
+      "size_bytes": 180611,
+      "size_formatted": "176.4 KB",
+      "sha256": "d319018abb123d97c40c78251f712c10a5685bd8b3e4b69868622dc0dfa3ecea",
+      "status": "downloaded"
+    },
+    "assets/img/Jaggo Celebration/jaggo.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Jaggo%20Celebration/jaggo.jpeg",
+      "local_path": "assets/img/Jaggo Celebration/jaggo.jpeg",
+      "type": "image",
+      "size_bytes": 139352,
+      "size_formatted": "136.1 KB",
+      "sha256": "e77406e2f33a348b3f7630d12e8905141329ff1a527d8b6a1d1ad834256c9ea8",
+      "status": "downloaded"
+    },
+    "assets/img/Roka & Shagun Ceremony/Chunni Ceremony.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Roka%20%26%20Shagun%20Ceremony/Chunni%20Ceremony.jpeg",
+      "local_path": "assets/img/Roka & Shagun Ceremony/Chunni Ceremony.jpeg",
+      "type": "image",
+      "size_bytes": 123175,
+      "size_formatted": "120.3 KB",
+      "sha256": "e2e92eeaff0da9b3f6731fd37b392f3bd332851b8e30f6c1cbc91e3d59e2aca2",
+      "status": "downloaded"
+    },
+    "assets/img/Jaggo Celebration/\ud83e\ude77.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Jaggo%20Celebration/%F0%9F%A9%B7.jpeg",
+      "local_path": "assets/img/Jaggo Celebration/\ud83e\ude77.jpeg",
+      "type": "image",
+      "size_bytes": 149288,
+      "size_formatted": "145.8 KB",
+      "sha256": "11b6f178143f1436a8db3cb99bd15f47109f1927c4c881ac39bee16b57603015",
+      "status": "downloaded"
+    },
+    "assets/img/Roka & Shagun Ceremony/Roka Ceramony.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Roka%20%26%20Shagun%20Ceremony/Roka%20Ceramony.jpeg",
+      "local_path": "assets/img/Roka & Shagun Ceremony/Roka Ceramony.jpeg",
+      "type": "image",
+      "size_bytes": 150208,
+      "size_formatted": "146.7 KB",
+      "sha256": "28319979b8965c3ad0dc15f7b0e74792df1a433dda73a0e8fa1756ddb64818c2",
+      "status": "downloaded"
+    },
+    "assets/img/Roka & Shagun Ceremony/Chunni Ceremony - Kulveer & Preet \u2014 STEFANIEMPHOTO.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Roka%20%26%20Shagun%20Ceremony/Chunni%20Ceremony%20-%20Kulveer%20%26%20Preet%20%E2%80%94%20STEFANIEMPHOTO.jpeg",
+      "local_path": "assets/img/Roka & Shagun Ceremony/Chunni Ceremony - Kulveer & Preet \u2014 STEFANIEMPHOTO.jpeg",
+      "type": "image",
+      "size_bytes": 195807,
+      "size_formatted": "191.2 KB",
+      "sha256": "6b68a25bf33f0e9ec4db0a9b694c258616b5118691db05ad6876632adc6787aa",
+      "status": "downloaded"
+    },
+    "assets/img/Chooda & Kaleerein Ceremony/Kalira.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Chooda%20%26%20Kaleerein%20Ceremony/Kalira.jpeg",
+      "local_path": "assets/img/Chooda & Kaleerein Ceremony/Kalira.jpeg",
+      "type": "image",
+      "size_bytes": 69881,
+      "size_formatted": "68.2 KB",
+      "sha256": "217e0f618998b6d5d4cf64b16cecdcb95f6a41d3a7cc1503cd5019563275c5df",
+      "status": "downloaded"
+    },
+    "assets/img/Vidaai Farewell/From Klickpin.com- 27 Genius Weekend Getaway Ideas-pin-id-640988959474478686.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Vidaai%20Farewell/From%20Klickpin.com-%2027%20Genius%20Weekend%20Getaway%20Ideas-pin-id-640988959474478686.mp4",
+      "local_path": "assets/img/Vidaai Farewell/From Klickpin.com- 27 Genius Weekend Getaway Ideas-pin-id-640988959474478686.mp4",
+      "type": "video",
+      "size_bytes": 4132931,
+      "size_formatted": "3.94 MB",
+      "sha256": "0b50cd653239cc56d613f99542f8ed6a7d28bb9d1447c4137ef42bca79673e05",
+      "status": "downloaded"
+    },
+    "assets/img/Pre-Wedding Shoots & Films/Enchanting Pre Wedding Shoot at Filmcity for Rs_ 6,000 - Unique Story Concepts and Dreamy Backdrops.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Pre-Wedding%20Shoots%20%26%20Films/Enchanting%20Pre%20Wedding%20Shoot%20at%20Filmcity%20for%20Rs_%206%2C000%20-%20Unique%20Story%20Concepts%20and%20Dreamy%20Backdrops.jpeg",
+      "local_path": "assets/img/Pre-Wedding Shoots & Films/Enchanting Pre Wedding Shoot at Filmcity for Rs_ 6,000 - Unique Story Concepts and Dreamy Backdrops.jpeg",
+      "type": "image",
+      "size_bytes": 121431,
+      "size_formatted": "118.6 KB",
+      "sha256": "effb0f113401a3b234dd22df37099784efe8be45d936e320063c808f20601506",
+      "status": "downloaded"
+    },
+    "assets/img/Chooda & Kaleerein Ceremony/Rituals - Chooda Ceremony 327 - 11160 _ Weddingplz.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Chooda%20%26%20Kaleerein%20Ceremony/Rituals%20-%20Chooda%20Ceremony%20327%20-%2011160%20_%20Weddingplz.jpeg",
+      "local_path": "assets/img/Chooda & Kaleerein Ceremony/Rituals - Chooda Ceremony 327 - 11160 _ Weddingplz.jpeg",
+      "type": "image",
+      "size_bytes": 127306,
+      "size_formatted": "124.3 KB",
+      "sha256": "fd35ceeaf25c491a17ca4f9b7316edbafd774af62591cefaf1ec02faf938af09",
+      "status": "downloaded"
+    },
+    "assets/img/Roka & Shagun Ceremony/just waiting for the ring now \ud83d\udc8d\ud83e\udd0d.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Roka%20%26%20Shagun%20Ceremony/just%20waiting%20for%20the%20ring%20now%20%F0%9F%92%8D%F0%9F%A4%8D.jpeg",
+      "local_path": "assets/img/Roka & Shagun Ceremony/just waiting for the ring now \ud83d\udc8d\ud83e\udd0d.jpeg",
+      "type": "image",
+      "size_bytes": 186130,
+      "size_formatted": "181.8 KB",
+      "sha256": "0d7823dcbb022b7baf9c95d529d6b2dd226d13657ff54a9f44eaa2baede15e34",
+      "status": "downloaded"
+    },
+    "assets/img/Pre-Wedding Shoots & Films/Proposal by BH.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Pre-Wedding%20Shoots%20%26%20Films/Proposal%20by%20BH.jpeg",
+      "local_path": "assets/img/Pre-Wedding Shoots & Films/Proposal by BH.jpeg",
+      "type": "image",
+      "size_bytes": 77720,
+      "size_formatted": "75.9 KB",
+      "sha256": "f5ca2d41bfd995a5e26615cab6995f3d9fdcd29b685c8f6e8ea2d0aeb3eeb72e",
+      "status": "downloaded"
+    },
+    "assets/img/Vidaai Farewell/Vidaai Moment_.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Vidaai%20Farewell/Vidaai%20Moment_.jpeg",
+      "local_path": "assets/img/Vidaai Farewell/Vidaai Moment_.jpeg",
+      "type": "image",
+      "size_bytes": 222774,
+      "size_formatted": "217.6 KB",
+      "sha256": "fc0406d556c1d65ae4ee0d4f33d36d85929132a4d2cbad0ba11f492b0731d5cb",
+      "status": "downloaded"
+    },
+    "assets/img/Pre-Wedding Shoots & Films/marry me!  proposal shoot.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Pre-Wedding%20Shoots%20%26%20Films/marry%20me%21%20%20proposal%20shoot.jpeg",
+      "local_path": "assets/img/Pre-Wedding Shoots & Films/marry me!  proposal shoot.jpeg",
+      "type": "image",
+      "size_bytes": 96729,
+      "size_formatted": "94.5 KB",
+      "sha256": "02514c5926d9349faa8ed4f810edf81b88645e7725683d25e1a069d6429182ce",
+      "status": "downloaded"
+    },
+    "assets/img/Roka & Shagun Ceremony/Chunni Ceremony - Kulveer & Preet \u2014 STEFANIEMPHOTO (2).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Roka%20%26%20Shagun%20Ceremony/Chunni%20Ceremony%20-%20Kulveer%20%26%20Preet%20%E2%80%94%20STEFANIEMPHOTO%20%282%29.jpeg",
+      "local_path": "assets/img/Roka & Shagun Ceremony/Chunni Ceremony - Kulveer & Preet \u2014 STEFANIEMPHOTO (2).jpeg",
+      "type": "image",
+      "size_bytes": 200470,
+      "size_formatted": "195.8 KB",
+      "sha256": "35000bf4718914784f38997c92ec85ee8007184902c9803b5fc77e0678b6d930",
+      "status": "downloaded"
+    },
+    "assets/img/events/roka.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/roka.jpg",
+      "local_path": "assets/img/events/roka.jpg",
+      "type": "image",
+      "size_bytes": 338822,
+      "size_formatted": "330.9 KB",
+      "sha256": "699c5779ab7df33811ebdc92ba5d7c3e891aba28d1fa360bab44be68ffb77fc7",
+      "status": "downloaded"
+    },
+    "assets/img/Pre-Wedding Shoots & Films/she said yes proposal shoot.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Pre-Wedding%20Shoots%20%26%20Films/she%20said%20yes%20proposal%20shoot.jpeg",
+      "local_path": "assets/img/Pre-Wedding Shoots & Films/she said yes proposal shoot.jpeg",
+      "type": "image",
+      "size_bytes": 73753,
+      "size_formatted": "72.0 KB",
+      "sha256": "2122db0c10c6a24a2c4e4cb770378ae5b4552cbefb8bdab5032e65bff0a6d293",
+      "status": "downloaded"
+    },
+    "assets/img/Roka & Shagun Ceremony/just waiting for the ring now \ud83d\udc8d\ud83e\udd0d (1).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Roka%20%26%20Shagun%20Ceremony/just%20waiting%20for%20the%20ring%20now%20%F0%9F%92%8D%F0%9F%A4%8D%20%281%29.jpeg",
+      "local_path": "assets/img/Roka & Shagun Ceremony/just waiting for the ring now \ud83d\udc8d\ud83e\udd0d (1).jpeg",
+      "type": "image",
+      "size_bytes": 145435,
+      "size_formatted": "142.0 KB",
+      "sha256": "0e757d4f917b4997f300ba56f470f3c688d9627e88622205c1f84107aba1add4",
+      "status": "downloaded"
+    },
+    "assets/img/engagement/Beautiful red Wedding_setup.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/engagement/Beautiful%20red%20Wedding_setup.jpeg",
+      "local_path": "assets/img/engagement/Beautiful red Wedding_setup.jpeg",
+      "type": "image",
+      "size_bytes": 82864,
+      "size_formatted": "80.9 KB",
+      "sha256": "a9b10af141e268c4142911f2b32aa700fe1a9f46df9702709c84d957bd14d1c8",
+      "status": "downloaded"
+    },
+    "assets/img/events/engagement-2.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/engagement-2.jpg",
+      "local_path": "assets/img/events/engagement-2.jpg",
+      "type": "image",
+      "size_bytes": 107391,
+      "size_formatted": "104.9 KB",
+      "sha256": "9d3f7eddaa43fba70d5a0af512e076190000129f796ed0a6af5406540ab871e0",
+      "status": "downloaded"
+    },
+    "assets/img/Roka & Shagun Ceremony/_ (1).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Roka%20%26%20Shagun%20Ceremony/_%20%281%29.jpeg",
+      "local_path": "assets/img/Roka & Shagun Ceremony/_ (1).jpeg",
+      "type": "image",
+      "size_bytes": 144008,
+      "size_formatted": "140.6 KB",
+      "sha256": "e13d5444e6356c059453e40791b614bd3b422b54aaab6f35230ab35af127c728",
+      "status": "downloaded"
+    },
+    "assets/img/engagement/_ (4).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/engagement/_%20%284%29.jpeg",
+      "local_path": "assets/img/engagement/_ (4).jpeg",
+      "type": "image",
+      "size_bytes": 107391,
+      "size_formatted": "104.9 KB",
+      "sha256": "9d3f7eddaa43fba70d5a0af512e076190000129f796ed0a6af5406540ab871e0",
+      "status": "downloaded"
+    },
+    "assets/img/Vidaai Farewell/The Rich Customs Of An Indian Wedding - Weddingplz Blog.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Vidaai%20Farewell/The%20Rich%20Customs%20Of%20An%20Indian%20Wedding%20-%20Weddingplz%20Blog.jpeg",
+      "local_path": "assets/img/Vidaai Farewell/The Rich Customs Of An Indian Wedding - Weddingplz Blog.jpeg",
+      "type": "image",
+      "size_bytes": 180351,
+      "size_formatted": "176.1 KB",
+      "sha256": "2d1483df9cb9bb6351d6f800d6847c670f386b082055e9e3928074ef0843d1f3",
+      "status": "downloaded"
+    },
+    "assets/img/engagement/_ (1).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/engagement/_%20%281%29.jpeg",
+      "local_path": "assets/img/engagement/_ (1).jpeg",
+      "type": "image",
+      "size_bytes": 146610,
+      "size_formatted": "143.2 KB",
+      "sha256": "9f58e671fe7c5e7816b163b411858b513a254992019080468289bb7abde10abe",
+      "status": "downloaded"
+    },
+    "assets/img/HALDI/Birrage of flowers thrown at couple during Haldi ceremony.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/HALDI/Birrage%20of%20flowers%20thrown%20at%20couple%20during%20Haldi%20ceremony.jpeg",
+      "local_path": "assets/img/HALDI/Birrage of flowers thrown at couple during Haldi ceremony.jpeg",
+      "type": "image",
+      "size_bytes": 110802,
+      "size_formatted": "108.2 KB",
+      "sha256": "8113714208a4de1d0b6e5bff5ef4824fcc56439cde237da77f4404f73300815a",
+      "status": "downloaded"
+    },
+    "assets/img/Chooda & Kaleerein Ceremony/From Klickpin.com- Bookmark these 13 Polished small bedroom decor ideas that can help you create a more curated classy and Pinterest-worthy result.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Chooda%20%26%20Kaleerein%20Ceremony/From%20Klickpin.com-%20Bookmark%20these%2013%20Polished%20small%20bedroom%20decor%20ideas%20that%20can%20help%20you%20create%20a%20more%20curated%20classy%20and%20Pinterest-worthy%20result.mp4",
+      "local_path": "assets/img/Chooda & Kaleerein Ceremony/From Klickpin.com- Bookmark these 13 Polished small bedroom decor ideas that can help you create a more curated classy and Pinterest-worthy result.mp4",
+      "type": "video",
+      "size_bytes": 2414976,
+      "size_formatted": "2.30 MB",
+      "sha256": "d9c965685fc67d2b4dd1f7f78c2efccf6a3f7abe66aed8dabd9c4cb062e49294",
+      "status": "downloaded"
+    },
+    "\"assets/img/Vidaai Farewell/Love's Perfect Union.jpeg\"": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/%22assets/img/Vidaai%20Farewell/Love%27s%20Perfect%20Union.jpeg%22",
+      "local_path": "\"assets/img/Vidaai Farewell/Love's Perfect Union.jpeg\"",
+      "type": "other",
+      "size_bytes": 0,
+      "status": "failed: Failed to download"
+    },
+    "assets/img/events/engagement.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/engagement.jpg",
+      "local_path": "assets/img/events/engagement.jpg",
+      "type": "image",
+      "size_bytes": 82864,
+      "size_formatted": "80.9 KB",
+      "sha256": "a9b10af141e268c4142911f2b32aa700fe1a9f46df9702709c84d957bd14d1c8",
+      "status": "downloaded"
+    },
+    "assets/img/From Klickpin.com- Branding Tips That Make Everyday Better 26766-pin-id-71424344080289763.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/From%20Klickpin.com-%20Branding%20Tips%20That%20Make%20Everyday%20Better%2026766-pin-id-71424344080289763.mp4",
+      "local_path": "assets/img/From Klickpin.com- Branding Tips That Make Everyday Better 26766-pin-id-71424344080289763.mp4",
+      "type": "video",
+      "size_bytes": 16623844,
+      "size_formatted": "15.85 MB",
+      "sha256": "725ecbddff72209ee8f0cbd72aa88460c0d29eaa22f21226d10c69338b25061e",
+      "status": "downloaded"
+    },
+    "assets/img/mehendi/_ (2).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/mehendi/_%20%282%29.jpeg",
+      "local_path": "assets/img/mehendi/_ (2).jpeg",
+      "type": "image",
+      "size_bytes": 131263,
+      "size_formatted": "128.2 KB",
+      "sha256": "1180e2d2b2050064ea6220ff425f0461cd7dc63af23d55dc3aa6991f3d14e2f0",
+      "status": "downloaded"
+    },
+    "assets/img/HALDI/_.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/HALDI/_.jpeg",
+      "local_path": "assets/img/HALDI/_.jpeg",
+      "type": "image",
+      "size_bytes": 102523,
+      "size_formatted": "100.1 KB",
+      "sha256": "432bd3e406878ec23e7fa46606744812f1977a48cdc2ed1415fdd20957d8111a",
+      "status": "downloaded"
+    },
+    "assets/img/mehendi/Haldi \ud83d\udc9b _ The outside sitting area.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/mehendi/Haldi%20%F0%9F%92%9B%20_%20The%20outside%20sitting%20area.jpeg",
+      "local_path": "assets/img/mehendi/Haldi \ud83d\udc9b _ The outside sitting area.jpeg",
+      "type": "image",
+      "size_bytes": 142847,
+      "size_formatted": "139.5 KB",
+      "sha256": "1f25bcb85b5f44c54df796f0b0aa0137023237706670eb514ff6f5f1313b8fa7",
+      "status": "downloaded"
+    },
+    "assets/img/mehendi/_ (3).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/mehendi/_%20%283%29.jpeg",
+      "local_path": "assets/img/mehendi/_ (3).jpeg",
+      "type": "image",
+      "size_bytes": 181131,
+      "size_formatted": "176.9 KB",
+      "sha256": "f54aa9cd9537404613127913ddcabcdbb5c9b9de8e2893c395d5a203f9ad7dbf",
+      "status": "downloaded"
+    },
+    "assets/img/HALDI/_ (1).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/HALDI/_%20%281%29.jpeg",
+      "local_path": "assets/img/HALDI/_ (1).jpeg",
+      "type": "image",
+      "size_bytes": 135965,
+      "size_formatted": "132.8 KB",
+      "sha256": "682df541cbb7f7c2622e3a0ac24b72daea06a76f06a1414bf131e2d22db7b47f",
+      "status": "downloaded"
+    },
+    "assets/img/engagement/_ (5).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/engagement/_%20%285%29.jpeg",
+      "local_path": "assets/img/engagement/_ (5).jpeg",
+      "type": "image",
+      "size_bytes": 98583,
+      "size_formatted": "96.3 KB",
+      "sha256": "bff0ab6cd8c94502da5d4352c66bce86dab5a22bd27a50a9ff1cb48a1413ef74",
+      "status": "downloaded"
+    },
+    "assets/img/HALDI/Atul & Jessie  haldi.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/HALDI/Atul%20%26%20Jessie%20%20haldi.jpeg",
+      "local_path": "assets/img/HALDI/Atul & Jessie  haldi.jpeg",
+      "type": "image",
+      "size_bytes": 163443,
+      "size_formatted": "159.6 KB",
+      "sha256": "59675f10ac2b2fc18204876e40740bef549f226209d927669e2321bb38f0b524",
+      "status": "downloaded"
+    },
+    "assets/img/SANGEET NIGHT/_ (1).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/SANGEET%20NIGHT/_%20%281%29.jpeg",
+      "local_path": "assets/img/SANGEET NIGHT/_ (1).jpeg",
+      "type": "image",
+      "size_bytes": 76084,
+      "size_formatted": "74.3 KB",
+      "sha256": "37b48a74c6563224b65fb8390bfb4d11bb627ef5674b58ef2f09a9554afd2d09",
+      "status": "downloaded"
+    },
+    "assets/img/Chooda & Kaleerein Ceremony/_ (1).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Chooda%20%26%20Kaleerein%20Ceremony/_%20%281%29.jpeg",
+      "local_path": "assets/img/Chooda & Kaleerein Ceremony/_ (1).jpeg",
+      "type": "image",
+      "size_bytes": 132877,
+      "size_formatted": "129.8 KB",
+      "sha256": "40d8dcded70bec03ec77334b07a11316aca3d31bde1f0715bd7dac9bd0c69463",
+      "status": "downloaded"
+    },
+    "assets/img/Chooda & Kaleerein Ceremony/_ (2).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Chooda%20%26%20Kaleerein%20Ceremony/_%20%282%29.jpeg",
+      "local_path": "assets/img/Chooda & Kaleerein Ceremony/_ (2).jpeg",
+      "type": "image",
+      "size_bytes": 97059,
+      "size_formatted": "94.8 KB",
+      "sha256": "ad727903c2e61e1eaab3a2c5881e530355891e44955c66f575920c36ad8c0b69",
+      "status": "downloaded"
+    },
+    "assets/img/SANGEET NIGHT/Events And Activations.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/SANGEET%20NIGHT/Events%20And%20Activations.jpeg",
+      "local_path": "assets/img/SANGEET NIGHT/Events And Activations.jpeg",
+      "type": "image",
+      "size_bytes": 149564,
+      "size_formatted": "146.1 KB",
+      "sha256": "412416f91e74d534fe291a5c28ca8b57f327d01626e4b109a4043937af001fde",
+      "status": "downloaded"
+    },
+    "assets/img/Chooda & Kaleerein Ceremony/_ (4).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Chooda%20%26%20Kaleerein%20Ceremony/_%20%284%29.jpeg",
+      "local_path": "assets/img/Chooda & Kaleerein Ceremony/_ (4).jpeg",
+      "type": "image",
+      "size_bytes": 56822,
+      "size_formatted": "55.5 KB",
+      "sha256": "86315b7afac1c323365c0f15c65396514201868d7f27a20d29e03dfdfbd63aad",
+      "status": "downloaded"
+    },
+    "assets/img/mehendi/_ (4).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/mehendi/_%20%284%29.jpeg",
+      "local_path": "assets/img/mehendi/_ (4).jpeg",
+      "type": "image",
+      "size_bytes": 218440,
+      "size_formatted": "213.3 KB",
+      "sha256": "014d7846e6e55a11667ea1a290b1c3caa4ea1a97c892a9be8f523e5ff164ac97",
+      "status": "downloaded"
+    },
+    "assets/img/events/chooda.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/chooda.jpg",
+      "local_path": "assets/img/events/chooda.jpg",
+      "type": "image",
+      "size_bytes": 266220,
+      "size_formatted": "260.0 KB",
+      "sha256": "5a3df6e89e2327f3cd72094c03f9cb625e01a7e4a2d66ff55f34d9b8f8321c3d",
+      "status": "downloaded"
+    },
+    "assets/img/events/wedding-ceremony.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/wedding-ceremony.jpg",
+      "local_path": "assets/img/events/wedding-ceremony.jpg",
+      "type": "image",
+      "size_bytes": 114111,
+      "size_formatted": "111.4 KB",
+      "sha256": "922c0c19b9b2a3f4e166726ae7656b41e8ac7d700ded41953b4b8a224e1a1184",
+      "status": "downloaded"
+    },
+    "assets/img/Cocktail Night & After-Party/_ (1).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Cocktail%20Night%20%26%20After-Party/_%20%281%29.jpeg",
+      "local_path": "assets/img/Cocktail Night & After-Party/_ (1).jpeg",
+      "type": "image",
+      "size_bytes": 133497,
+      "size_formatted": "130.4 KB",
+      "sha256": "0600623d017cb167fea2ba4859a34ff319a8f5bd59408d7a57b3034f039fec00",
+      "status": "downloaded"
+    },
+    "assets/img/mehendi/_ (5).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/mehendi/_%20%285%29.jpeg",
+      "local_path": "assets/img/mehendi/_ (5).jpeg",
+      "type": "image",
+      "size_bytes": 202732,
+      "size_formatted": "198.0 KB",
+      "sha256": "f2b4c541ae9e878d456f82a2ce98b6fa967b0e2ad8c0861789f0e178b4147d1d",
+      "status": "downloaded"
+    },
+    "assets/img/Grand Reception/_ (2).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Grand%20Reception/_%20%282%29.jpeg",
+      "local_path": "assets/img/Grand Reception/_ (2).jpeg",
+      "type": "image",
+      "size_bytes": 95676,
+      "size_formatted": "93.4 KB",
+      "sha256": "7e7c5546dfaaf868749cc58bab5bebfa632aec4fdbe7712df053968b8aa94c51",
+      "status": "downloaded"
+    },
+    "assets/img/Grand Reception/\u2728 Reception moments, wrapped in elegance! \u2728_When grand celebrations meet a royal space \u2014_Arul Arasan Palace was all lit up for this unforgettable evening \ud83d\udcab\ud83d\udc90__From the luxurious hall to the warm hospitality, every detail was cra.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Grand%20Reception/%E2%9C%A8%20Reception%20moments%2C%20wrapped%20in%20elegance%21%20%E2%9C%A8_When%20grand%20celebrations%20meet%20a%20royal%20space%20%E2%80%94_Arul%20Arasan%20Palace%20was%20all%20lit%20up%20for%20this%20unforgettable%20evening%20%F0%9F%92%AB%F0%9F%92%90__From%20the%20luxurious%20hall%20to%20the%20warm%20hospitality%2C%20every%20detail%20was%20cra.jpeg",
+      "local_path": "assets/img/Grand Reception/\u2728 Reception moments, wrapped in elegance! \u2728_When grand celebrations meet a royal space \u2014_Arul Arasan Palace was all lit up for this unforgettable evening \ud83d\udcab\ud83d\udc90__From the luxurious hall to the warm hospitality, every detail was cra.jpeg",
+      "type": "image",
+      "size_bytes": 167936,
+      "size_formatted": "164.0 KB",
+      "sha256": "7e33a39fb038777211d9150a3af56a1b2dcb26f699540ddcf0c0270ae66e84b0",
+      "status": "downloaded"
+    },
+    "assets/img/Grand Reception/_ (4).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Grand%20Reception/_%20%284%29.jpeg",
+      "local_path": "assets/img/Grand Reception/_ (4).jpeg",
+      "type": "image",
+      "size_bytes": 236512,
+      "size_formatted": "231.0 KB",
+      "sha256": "75ed3ba6ad88d99ac21be78dd126625c876ed96439f4da8c6a32bfd8b87ca629",
+      "status": "downloaded"
+    },
+    "assets/img/Grand Reception/_ (3).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Grand%20Reception/_%20%283%29.jpeg",
+      "local_path": "assets/img/Grand Reception/_ (3).jpeg",
+      "type": "image",
+      "size_bytes": 156172,
+      "size_formatted": "152.5 KB",
+      "sha256": "be4a511738bb6866c413c952cb90d07c2ae45a407a267bd89d37f5cdff55e092",
+      "status": "downloaded"
+    },
+    "assets/img/Chooda & Kaleerein Ceremony/_ (3).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Chooda%20%26%20Kaleerein%20Ceremony/_%20%283%29.jpeg",
+      "local_path": "assets/img/Chooda & Kaleerein Ceremony/_ (3).jpeg",
+      "type": "image",
+      "size_bytes": 194992,
+      "size_formatted": "190.4 KB",
+      "sha256": "0de55655e903fb99f24a14d2c1836cba10511abf8e273c32d6754bde617417c0",
+      "status": "downloaded"
+    },
+    "assets/img/Vidaai Farewell/_ (3).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Vidaai%20Farewell/_%20%283%29.jpeg",
+      "local_path": "assets/img/Vidaai Farewell/_ (3).jpeg",
+      "type": "image",
+      "size_bytes": 55354,
+      "size_formatted": "54.1 KB",
+      "sha256": "ff248f8a375c04c5f1e2a4f00af87cfc53b4a620edf7e04890bd4c2619d3f3ae",
+      "status": "downloaded"
+    },
+    "assets/img/Cocktail Night & After-Party/_ (2).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Cocktail%20Night%20%26%20After-Party/_%20%282%29.jpeg",
+      "local_path": "assets/img/Cocktail Night & After-Party/_ (2).jpeg",
+      "type": "image",
+      "size_bytes": 150972,
+      "size_formatted": "147.4 KB",
+      "sha256": "5ebd5d12e6bcddddb5bb32925df95bcd8e88f7e6d6bdcfb65c2bfe5ce5f40e21",
+      "status": "downloaded"
+    },
+    "assets/img/Vidaai Farewell/A Fun and Emotional Vidai Moment Captured in a Candid Photo.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Vidaai%20Farewell/A%20Fun%20and%20Emotional%20Vidai%20Moment%20Captured%20in%20a%20Candid%20Photo.jpeg",
+      "local_path": "assets/img/Vidaai Farewell/A Fun and Emotional Vidai Moment Captured in a Candid Photo.jpeg",
+      "type": "image",
+      "size_bytes": 129247,
+      "size_formatted": "126.2 KB",
+      "sha256": "cf5c7bd41b043efa14900d2d0f137ce7335d6312b2b2f9c2f3405ae150f36fc5",
+      "status": "downloaded"
+    },
+    "assets/img/Vidaai Farewell/_ (2).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Vidaai%20Farewell/_%20%282%29.jpeg",
+      "local_path": "assets/img/Vidaai Farewell/_ (2).jpeg",
+      "type": "image",
+      "size_bytes": 117802,
+      "size_formatted": "115.0 KB",
+      "sha256": "04528cda4c83c9d6f340d18f7d5c38cfd8e92a82e8eb8393591ab69fe80a041c",
+      "status": "downloaded"
+    },
+    "assets/img/Grand Reception/_ (1).jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Grand%20Reception/_%20%281%29.jpeg",
+      "local_path": "assets/img/Grand Reception/_ (1).jpeg",
+      "type": "image",
+      "size_bytes": 127507,
+      "size_formatted": "124.5 KB",
+      "sha256": "bf8c561e34401864e4cacac79c83e97db7d34d462ec6a57282f003555ede50c4",
+      "status": "downloaded"
+    },
+    "assets/img/events/reception.jpg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/events/reception.jpg",
+      "local_path": "assets/img/events/reception.jpg",
+      "type": "image",
+      "size_bytes": 95676,
+      "size_formatted": "93.4 KB",
+      "sha256": "7e7c5546dfaaf868749cc58bab5bebfa632aec4fdbe7712df053968b8aa94c51",
+      "status": "downloaded"
+    },
+    "assets/img/artists/artist-banner.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/artist-banner.mp4",
+      "local_path": "assets/img/artists/artist-banner.mp4",
+      "type": "video",
+      "size_bytes": 17570832,
+      "size_formatted": "16.76 MB",
+      "sha256": "1e041cb88e662395f8020ca3c8d91a251dfc2a71232c8ab3ffff88b0891f80ec",
+      "status": "downloaded"
+    },
+    "assets/img/CAREMOENY/Nikkah\u2764\ufe0f.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/CAREMOENY/Nikkah%E2%9D%A4%EF%B8%8F.jpeg",
+      "local_path": "assets/img/CAREMOENY/Nikkah\u2764\ufe0f.jpeg",
+      "type": "image",
+      "size_bytes": 0,
+      "status": "failed: Failed to download"
+    },
+    "assets/img/artists/AP Dhillon/From Klickpin.com- Relaxed sea breeze moments for people who love beauty this season for coastal mood boards-pin-id-618541330081381990.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/artists/AP%20Dhillon/From%20Klickpin.com-%20Relaxed%20sea%20breeze%20moments%20for%20people%20who%20love%20beauty%20this%20season%20for%20coastal%20mood%20boards-pin-id-618541330081381990.mp4",
+      "local_path": "assets/img/artists/AP Dhillon/From Klickpin.com- Relaxed sea breeze moments for people who love beauty this season for coastal mood boards-pin-id-618541330081381990.mp4",
+      "type": "video",
+      "size_bytes": 9313699,
+      "size_formatted": "8.88 MB",
+      "sha256": "cf563056f09190df049f3bf6f0baa289d836181496332f51dfe95d8027d0828c",
+      "status": "downloaded"
+    },
+    "assets/img/Roka & Shagun Ceremony/From Klickpin.com- Unique side hustle ideas that can help you create a more curated classy and Pinterest-worthy result for busy people who still w.mp4": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Roka%20%26%20Shagun%20Ceremony/From%20Klickpin.com-%20Unique%20side%20hustle%20ideas%20that%20can%20help%20you%20create%20a%20more%20curated%20classy%20and%20Pinterest-worthy%20result%20for%20busy%20people%20who%20still%20w.mp4",
+      "local_path": "assets/img/Roka & Shagun Ceremony/From Klickpin.com- Unique side hustle ideas that can help you create a more curated classy and Pinterest-worthy result for busy people who still w.mp4",
+      "type": "video",
+      "size_bytes": 9465962,
+      "size_formatted": "9.03 MB",
+      "sha256": "a3c2b097213bbea67292831c7056139e1d7979e19cc5fa20c1fac39ef9f68058",
+      "status": "downloaded"
+    },
+    "assets/img/Bright Night SFX & Fireworks/TomorrowWorld '14.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Bright%20Night%20SFX%20%26%20Fireworks/TomorrowWorld%20%2714.jpeg",
+      "local_path": "assets/img/Bright Night SFX & Fireworks/TomorrowWorld '14.jpeg",
+      "type": "image",
+      "size_bytes": 175181,
+      "size_formatted": "171.1 KB",
+      "sha256": "749f5ee49b19033551231a14301d1564db6e9c1e8f53bb7e80d08273dbe990d3",
+      "status": "downloaded"
+    },
+    "assets/img/Vidaai Farewell/Love's Perfect Union.jpeg": {
+      "remote_url": "https://powderblue-sheep-617190.hostingersite.com/assets/img/Vidaai%20Farewell/Love%27s%20Perfect%20Union.jpeg",
+      "local_path": "assets/img/Vidaai Farewell/Love's Perfect Union.jpeg",
+      "type": "image",
+      "size_bytes": 91020,
+      "size_formatted": "88.9 KB",
+      "sha256": "340b47b23f4eb046a3a20b8756abde6c5814d71f9d9a7df43b576f6161d69ea1",
+      "status": "downloaded"
+    }
+  }
+}

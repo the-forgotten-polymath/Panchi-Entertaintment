@@ -1,0 +1,869 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Panchi Entertainment | Modern Premium Event & Luxury Wedding Experience</title>
+  <meta name="description"
+    content="Celebrate beautifully. Experience everything. Panchi Entertainment brings wedding events, Punjabi catering, photography, hospitality, and star artists together into one modern luxury production.">
+  <meta name="keywords"
+    content="luxury event company, modern wedding experience, punjabi catering, artist booking india, wedding events delhi, panchi entertainment">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Panchi Entertainment | Modern Premium Event Experience">
+  <meta property="og:description"
+    content="Celebrate Beautifully. Experience Everything. From royal ceremonies to unforgettable artists.">
+  <meta property="og:image" content="assets/img/hero/A Timeless Wedding Moment_ Love in Every Detail.jpeg">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="assets/img/header-logo.png">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/responsive.css">
+  <link rel="stylesheet" href="assets/css/animations.css">
+
+  <style>
+    /* Option 2 Specific Modern Styles */
+    .pe-modern-bento {
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: 24px;
+    }
+
+    .bento-col-8 {
+      grid-column: span 8;
+    }
+
+    .bento-col-4 {
+      grid-column: span 4;
+    }
+
+    .bento-col-6 {
+      grid-column: span 6;
+    }
+
+    .bento-col-12 {
+      grid-column: span 12;
+    }
+
+    .pe-bento-card {
+      background: #FFFFFF;
+      border: 1px solid rgba(197, 160, 89, 0.28);
+      border-radius: var(--pe-radius-lg);
+      padding: 36px;
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      min-height: 380px;
+      box-shadow: 0 12px 35px rgba(60, 25, 40, 0.08);
+      transition: var(--pe-transition);
+    }
+
+    .pe-bento-card:hover {
+      border-color: var(--pe-magenta);
+      transform: translateY(-5px);
+      box-shadow: 0 20px 50px rgba(154, 33, 87, 0.15);
+    }
+
+    .pe-bento-bg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      opacity: 0.82;
+      transition: transform 0.6s ease, opacity 0.6s ease;
+      z-index: 1;
+    }
+
+    .pe-bento-card:hover .pe-bento-bg {
+      transform: scale(1.06);
+      opacity: 0.92;
+    }
+
+    .pe-bento-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(180deg, rgba(26, 22, 34, 0.15) 0%, rgba(26, 22, 34, 0.88) 100%);
+      z-index: 2;
+    }
+
+    .pe-bento-content {
+      position: relative;
+      z-index: 3;
+    }
+
+    .pe-bento-tag {
+      display: inline-block;
+      padding: 4px 12px;
+      background: rgba(197, 160, 89, 0.2);
+      border: 1px solid rgba(197, 160, 89, 0.35);
+      border-radius: var(--pe-radius-full);
+      color: var(--pe-primary);
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+
+    @media (max-width: 1024px) {
+
+      .bento-col-8,
+      .bento-col-4,
+      .bento-col-6 {
+        grid-column: span 12;
+      }
+
+      .pe-bento-card {
+        min-height: 300px;
+        padding: 24px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- ========================================================================
+       TOP CONTACT & NOTIFICATION BAR
+       ======================================================================== -->
+  <div class="pe-topbar">
+    <div class="pe-container pe-topbar-inner">
+      <div class="pe-topbar-contact">
+        <span class="pe-topbar-link"><i class="fa-solid fa-location-dot text-gold"></i> Pan-India &amp; Global
+          Destination Events</span>
+        <a href="tel:+917895040431" class="pe-topbar-link"><i class="fa-solid fa-phone text-gold"></i> +91
+          78950 40431</a>
+        <a href="https://wa.me/917895040431" target="_blank" rel="noopener" class="pe-topbar-link whatsapp">
+          <i class="fa-brands fa-whatsapp"></i> WhatsApp Concierge: +91 78950 40431
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========================================================================
+       HEADER & NAVIGATION
+       ======================================================================== -->
+  <header class="pe-header" id="peHeader">
+    <div class="pe-container pe-nav-inner">
+      <!-- Brand Logo -->
+      <a href="index.html" class="pe-brand-logo" aria-label="Panchi Entertainment Home">
+        <img src="assets/img/LOGO-HEADER.jpeg" alt="Panchi Entertainment Logo" class="pe-logo-img">
+        <div class="pe-brand-text">
+          <span class="pe-brand-title">Panchi</span>
+          <span class="pe-brand-subtitle">Entertainment</span>
+        </div>
+      </a>
+
+      <!-- Desktop Nav Menu -->
+      <nav aria-label="Primary Navigation">
+        <ul class="pe-nav-menu">
+          <li class="pe-nav-item pe-dropdown">
+            <a href="home-modern.html" class="pe-nav-link active">Home <i
+                class="fa-solid fa-chevron-down fa-xs text-gold"></i></a>
+            <ul class="pe-dropdown-menu">
+              <li><a href="index.html" class="pe-dropdown-link"><span>Editorial Wedding</span> <span
+                    class="pe-dropdown-badge">Option 1</span></a></li>
+              <li><a href="home-modern.html" class="pe-dropdown-link"><span>Modern Event</span> <span
+                    class="pe-dropdown-badge">Option 2</span></a></li>
+            </ul>
+          </li>
+          <li class="pe-nav-item"><a href="about.html" class="pe-nav-link">About Us</a></li>
+          <li class="pe-nav-item"><a href="wedding-events.html" class="pe-nav-link">Wedding Events</a></li>
+          <li class="pe-nav-item"><a href="catering.html" class="pe-nav-link">Catering</a></li>
+          <li class="pe-nav-item"><a href="photography.html" class="pe-nav-link">Photography</a></li>
+          <li class="pe-nav-item"><a href="hospitality.html" class="pe-nav-link">Hospitality</a></li>
+          <li class="pe-nav-item"><a href="artists.html" class="pe-nav-link">Artists</a></li>
+          <li class="pe-nav-item"><a href="contact.html" class="pe-nav-link">Contact</a></li>
+        </ul>
+      </nav>
+
+      <!-- Header Action & Mobile Toggle -->
+      <div class="pe-header-actions">
+        <button type="button" class="pe-btn pe-btn-primary pe-btn-sm pe-shimmer pe-header-cta-desktop"
+          data-open-modal="enquiry">
+          <i class="fa-solid fa-calendar-check"></i> Plan Your Event
+        </button>
+        <button type="button" class="pe-mobile-toggle" aria-label="Open Navigation Menu">
+          <i class="fa-solid fa-bars-staggered"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Mobile Offcanvas Drawer -->
+  <div class="pe-drawer-backdrop"></div>
+  <aside class="pe-mobile-drawer" aria-label="Mobile Navigation">
+    <div class="pe-drawer-header">
+      <div class="pe-brand-logo">
+        <img src="assets/img/LOGO-HEADER.jpeg" alt="Panchi Entertainment Logo" class="pe-logo-img">
+        <div class="pe-brand-text">
+          <span class="pe-brand-title">Panchi</span>
+          <span class="pe-brand-subtitle">Entertainment</span>
+        </div>
+      </div>
+      <button type="button" class="pe-drawer-close" aria-label="Close menu"><i class="fa-solid fa-xmark"></i></button>
+    </div>
+
+    <ul class="pe-drawer-nav">
+      <li><a href="index.html" class="pe-drawer-link">Home (Design 1) <i
+            class="fa-solid fa-angle-right text-gold"></i></a></li>
+      <li><a href="home-modern.html" class="pe-drawer-link active">Home (Design 2) <i
+            class="fa-solid fa-angle-right text-gold"></i></a></li>
+      <li><a href="about.html" class="pe-drawer-link">About Us <i class="fa-solid fa-angle-right text-gold"></i></a>
+      </li>
+      <li><a href="wedding-events.html" class="pe-drawer-link">Wedding Events <i
+            class="fa-solid fa-angle-right text-gold"></i></a></li>
+      <li><a href="catering.html" class="pe-drawer-link">Punjabi Catering <i
+            class="fa-solid fa-angle-right text-gold"></i></a></li>
+      <li><a href="photography.html" class="pe-drawer-link">Photography &amp; Films <i
+            class="fa-solid fa-angle-right text-gold"></i></a></li>
+      <li><a href="hospitality.html" class="pe-drawer-link">Hospitality Services <i
+            class="fa-solid fa-angle-right text-gold"></i></a></li>
+      <li><a href="artists.html" class="pe-drawer-link">Singers &amp; Artists <i
+            class="fa-solid fa-angle-right text-gold"></i></a></li>
+      <li><a href="sfx-fireworks.html" class="pe-drawer-link">Bright Night SFX &amp; Fireworks <i
+            class="fa-solid fa-angle-right text-gold"></i></a></li>
+      <li><a href="barat-and-decor.html" class="pe-drawer-link">Baraat &amp; Decor <i
+            class="fa-solid fa-angle-right text-gold"></i></a></li>
+      <li><a href="corporate-events.html" class="pe-drawer-link">Corporate Events <i
+            class="fa-solid fa-angle-right text-gold"></i></a></li>
+      <li><a href="contact.html" class="pe-drawer-link">Contact <i class="fa-solid fa-angle-right text-gold"></i></a>
+      </li>
+    </ul>
+
+    <div class="pe-drawer-footer">
+      <button type="button" class="pe-btn pe-btn-primary pe-btn-sm pe-shimmer" data-open-modal="enquiry">
+        <i class="fa-solid fa-calendar-check"></i> Plan Your Event
+      </button>
+      <a href="https://wa.me/917895040431" target="_blank" rel="noopener" class="pe-btn pe-btn-whatsapp pe-btn-sm">
+        <i class="fa-brands fa-whatsapp"></i> WhatsApp Us
+      </a>
+      <p style="font-size: 0.75rem; color: #8C8699; text-align: center; margin-top: 10px;">
+        Direct Line: +91 78950 40431
+      </p>
+    </div>
+  </aside>
+
+  <!-- ========================================================================
+       HERO SECTION (OPTION 2: CINEMATIC SPLIT / MODERN EDITORIAL)
+       ======================================================================== -->
+  <section class="pe-hero-modern" aria-label="Modern Event Showcase">
+    <div class="pe-container pe-split-grid">
+      <!-- Left: Large Typography & Brand Statement -->
+      <div class="pe-reveal">
+        <div class="pe-hero-badge" style="margin-bottom: 20px;">
+          <i class="fa-solid fa-sparkles text-gold"></i> Modern Luxury Event Production
+        </div>
+        <h1 class="pe-modern-statement">
+          Celebrate Beautifully. <br>
+          <span class="gold-gradient-text">Experience Everything.</span>
+        </h1>
+        <p style="font-size: 1.15rem; color: #D5D0DF; line-height: 1.65; max-width: 580px; margin-bottom: 26px;">
+          From the sacred rituals of Haldi and Sangeet to grand wedding galas and star artist concerts, Panchi
+          Entertainment brings every celebration vertical together seamlessly.
+        </p>
+
+        <!-- Service Tags Strip -->
+        <div class="pe-service-tags-strip">
+          <span class="pe-tag-pill"><i class="fa-solid fa-wand-magic-sparkles"></i> Wedding Events</span>
+          <span class="pe-tag-pill"><i class="fa-solid fa-utensils"></i> Punjabi Catering</span>
+          <span class="pe-tag-pill"><i class="fa-solid fa-camera"></i> Photography</span>
+          <span class="pe-tag-pill"><i class="fa-solid fa-bell-concierge"></i> Hospitality</span>
+          <span class="pe-tag-pill"><i class="fa-solid fa-microphone"></i> Star Artists</span>
+        </div>
+
+        <div style="display: flex; gap: 16px; align-items: center; flex-wrap: wrap;">
+          <a href="about.html" class="pe-btn pe-btn-primary pe-shimmer">
+            <i class="fa-solid fa-compass"></i> Discover Panchi Entertainment
+          </a>
+          <button type="button" class="pe-btn pe-btn-outline" data-open-modal="enquiry">
+            <i class="fa-solid fa-paper-plane text-gold"></i> Send Enquiry
+          </button>
+        </div>
+      </div>
+
+      <!-- Right: Cinematic Visual Area with Floating Badges & Auto-Slider -->
+      <div class="pe-visual-stage pe-reveal pe-delay-1">
+        <div class="pe-floating-badge-top">
+          <i class="fa-solid fa-star text-gold"></i> All-In-One Execution
+        </div>
+
+        <div class="pe-visual-stage-main pe-hero-modern-slider">
+          <!-- Slide 1: Grand Wedding Stage -->
+          <div class="pe-modern-slide active">
+            <img src="assets/img/hero/A Timeless Wedding Moment_ Love in Every Detail.jpeg"
+              alt="Panchi Luxury Wedding Stage">
+            <div class="pe-modern-slide-caption">
+              <span>Palatial Mandap &amp; Floral Architecture</span>
+              <span class="gold-gradient-text" style="font-size: 0.75rem; font-weight: 600;">Events</span>
+            </div>
+          </div>
+          <!-- Slide 2: Punjabi Catering -->
+          <div class="pe-modern-slide">
+            <img src="assets/img/hero/hero-catering.jpg" alt="Royal Punjabi Catering Feast">
+            <div class="pe-modern-slide-caption">
+              <span>Authentic Punjabi Feast &amp; Live Tandoors</span>
+              <span class="gold-gradient-text" style="font-size: 0.75rem; font-weight: 600;">Catering</span>
+            </div>
+          </div>
+          <!-- Slide 3: Star Singer Performance -->
+          <div class="pe-modern-slide">
+            <img src="assets/img/hero/hero-entertainment.jpg" alt="Live Artist &amp; Singer Performance">
+            <div class="pe-modern-slide-caption">
+              <span>Star Singers &amp; Live Sufi Rock Nights</span>
+              <span class="gold-gradient-text" style="font-size: 0.75rem; font-weight: 600;">Artists</span>
+            </div>
+          </div>
+
+          <!-- Modern Slide Controls -->
+          <div class="pe-modern-slider-controls">
+            <button type="button" class="pe-modern-slide-btn pe-modern-slide-prev" aria-label="Previous Slide"><i
+                class="fa-solid fa-chevron-left"></i></button>
+            <div class="pe-modern-slide-dots">
+              <span class="pe-modern-dot active" aria-label="Slide 1"></span>
+              <span class="pe-modern-dot" aria-label="Slide 2"></span>
+              <span class="pe-modern-dot" aria-label="Slide 3"></span>
+            </div>
+            <button type="button" class="pe-modern-slide-btn pe-modern-slide-next" aria-label="Next Slide"><i
+                class="fa-solid fa-chevron-right"></i></button>
+          </div>
+        </div>
+
+        <div class="pe-floating-stat-card">
+          <div class="pe-floating-stat-num">5+</div>
+          <div class="pe-floating-stat-text">
+            Integrated Event Verticals<br>
+            <span style="color: var(--pe-primary); font-weight: 600;">Seamless Coordination</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================================================================
+       MODERN BENTO SERVICES GRID
+       ======================================================================== -->
+  <section class="pe-section pe-section-dark">
+    <div class="pe-container">
+      <div style="text-align: center; margin-bottom: 50px;">
+        <span class="section-tagline">Curated Capabilities</span>
+        <h2 class="section-title">Everything You Need for an <span class="gold-gradient-text">Unforgettable
+            Celebration</span></h2>
+        <p class="section-subtitle">Seven comprehensive disciplines unified under Panchi Entertainment's exacting
+          standards of luxury.</p>
+      </div>
+
+      <div class="pe-modern-bento">
+        <!-- Bento 1: Wedding Events (Wide 8 col) -->
+        <div class="bento-col-8 pe-bento-card pe-reveal">
+          <img src="assets/img/hero/A Timeless Wedding Moment_ Love in Every Detail.jpeg" alt="Wedding Events"
+            class="pe-bento-bg" loading="lazy">
+          <div class="pe-bento-overlay"></div>
+          <div class="pe-bento-content">
+            <span class="pe-bento-tag"><i class="fa-solid fa-wand-magic-sparkles"></i> Ceremonies</span>
+            <h3 style="font-size: 1.8rem; margin-bottom: 10px;">Wedding Events &amp; Ceremonies</h3>
+            <p style="color: #D2CDDC; max-width: 540px; margin-bottom: 20px;">
+              Discover comprehensive ceremony planning for Haldi, Mehendi, Sangeet, Wedding Pheras, and Grand Receptions
+              across India and destination circuits.
+            </p>
+            <a href="wedding-events.html" class="pe-service-link" style="color: #FFFFFF;">
+              Explore Wedding Events <i class="fa-solid fa-arrow-right text-gold"></i>
+            </a>
+          </div>
+        </div>
+
+        <!-- Bento 2: Punjabi Catering (4 col) -->
+        <div class="bento-col-4 pe-bento-card pe-reveal pe-delay-1">
+          <img src="assets/img/catering/catering-2.jpg" alt="Punjabi Catering" class="pe-bento-bg" loading="lazy">
+          <div class="pe-bento-overlay"></div>
+          <div class="pe-bento-content">
+            <span class="pe-bento-tag"><i class="fa-solid fa-utensils"></i> Cuisine</span>
+            <h3 style="font-size: 1.5rem; margin-bottom: 8px;">Punjabi Catering</h3>
+            <p style="color: #D2CDDC; font-size: 0.9rem; margin-bottom: 18px;">
+              Authentic flavours, elegant presentation and complete royal catering experiences with live tandoors.
+            </p>
+            <a href="catering.html" class="pe-service-link" style="color: #FFFFFF;">
+              Explore Menu <i class="fa-solid fa-arrow-right text-gold"></i>
+            </a>
+          </div>
+        </div>
+
+        <!-- Bento 3: Photography (4 col) -->
+        <div class="bento-col-4 pe-bento-card pe-reveal pe-delay-1">
+          <img src="assets/img/services/service-photography.jpg" alt="Wedding Photography" class="pe-bento-bg"
+            loading="lazy">
+          <div class="pe-bento-overlay"></div>
+          <div class="pe-bento-content">
+            <span class="pe-bento-tag"><i class="fa-solid fa-camera"></i> Memories</span>
+            <h3 style="font-size: 1.5rem; margin-bottom: 8px;">Photography &amp; Films</h3>
+            <p style="color: #D2CDDC; font-size: 0.9rem; margin-bottom: 18px;">
+              Capture every emotion, detail and unforgettable moment through cinematic wedding documentary.
+            </p>
+            <a href="photography.html" class="pe-service-link" style="color: #FFFFFF;">
+              View Gallery <i class="fa-solid fa-arrow-right text-gold"></i>
+            </a>
+          </div>
+        </div>
+
+        <!-- Bento 4: Artists & Live Entertainment (4 col) -->
+        <div class="bento-col-4 pe-bento-card pe-reveal pe-delay-2">
+          <img src="assets/img/hero/hero-entertainment.jpg" alt="Singers & Performers" class="pe-bento-bg"
+            loading="lazy">
+          <div class="pe-bento-overlay"></div>
+          <div class="pe-bento-content">
+            <span class="pe-bento-tag"><i class="fa-solid fa-microphone"></i> Entertainment</span>
+            <h3 style="font-size: 1.5rem; margin-bottom: 8px;">Artists &amp; Singers</h3>
+            <p style="color: #D2CDDC; font-size: 0.9rem; margin-bottom: 18px;">
+              Bring your celebration alive with celebrated Punjabi stars, live Sufi fusion bands, and celebrity wedding
+              DJs.
+            </p>
+            <a href="artists.html" class="pe-service-link" style="color: #FFFFFF;">
+              Book Artists <i class="fa-solid fa-arrow-right text-gold"></i>
+            </a>
+          </div>
+        </div>
+
+        <!-- Bento 5: Hospitality Services (4 col) -->
+        <div class="bento-col-4 pe-bento-card pe-reveal pe-delay-3">
+          <img src="assets/img/services/On-Site Hospitality Service for Premium Guest Care.jpeg"
+            alt="Hospitality Services" class="pe-bento-bg" loading="lazy">
+          <div class="pe-bento-overlay"></div>
+          <div class="pe-bento-content">
+            <span class="pe-bento-tag"><i class="fa-solid fa-bell-concierge"></i> Care</span>
+            <h3 style="font-size: 1.5rem; margin-bottom: 8px;">Hospitality Services</h3>
+            <p style="color: #D2CDDC; font-size: 0.9rem; margin-bottom: 18px;">
+              Thoughtful guest experiences from arrival to farewell. Chauffeur logistics, shadow teams, and check-in
+              care.
+            </p>
+            <a href="hospitality.html" class="pe-service-link" style="color: #FFFFFF;">
+              Learn More <i class="fa-solid fa-arrow-right text-gold"></i>
+            </a>
+          </div>
+        </div>
+
+        <!-- Bento 6: Bright Night SFX & Fireworks (4 col) -->
+        <div class="bento-col-4 pe-bento-card pe-reveal pe-delay-1">
+          <img src="assets/img/sfx/sfx-2.jpg" alt="Bright Night SFX & Fireworks" class="pe-bento-bg" loading="lazy">
+          <div class="pe-bento-overlay"></div>
+          <div class="pe-bento-content">
+            <span class="pe-bento-tag"><i class="fa-solid fa-wand-magic-sparkles"></i> Pyrotechnics</span>
+            <h3 style="font-size: 1.5rem; margin-bottom: 8px;">Bright Night SFX</h3>
+            <p style="color: #D2CDDC; font-size: 0.85rem; margin-bottom: 18px;">
+              Cold pyro sparklers, stadium laser mapping, low-fog dry ice, and synchronized sky fireworks.
+            </p>
+            <a href="sfx-fireworks.html" class="pe-service-link" style="color: #FFFFFF;">
+              Explore SFX <i class="fa-solid fa-arrow-right text-gold"></i>
+            </a>
+          </div>
+        </div>
+
+        <!-- Bento 7: Baraat & Decor (4 col) -->
+        <div class="bento-col-4 pe-bento-card pe-reveal pe-delay-2">
+          <img src="assets/img/barat-decor/Barat_ Groom Enjoying_ Night Wedding_ Chakshu Photography.jpeg"
+            alt="Royal Baraat & Decor" class="pe-bento-bg" loading="lazy">
+          <div class="pe-bento-overlay"></div>
+          <div class="pe-bento-content">
+            <span class="pe-bento-tag"><i class="fa-solid fa-crown"></i> Processions &amp; Decor</span>
+            <h3 style="font-size: 1.5rem; margin-bottom: 8px;">Baraat &amp; Decor</h3>
+            <p style="color: #D2CDDC; font-size: 0.85rem; margin-bottom: 18px;">
+              Vintage convertibles, royal ghodi, live dholis, palatial floral mandaps, and grand theme stages.
+            </p>
+            <a href="barat-and-decor.html" class="pe-service-link" style="color: #FFFFFF;">
+              Explore Baraat &amp; Decor <i class="fa-solid fa-arrow-right text-gold"></i>
+            </a>
+          </div>
+        </div>
+
+        <!-- Bento 8: Corporate Events (4 col) -->
+        <div class="bento-col-4 pe-bento-card pe-reveal pe-delay-3">
+          <img src="assets/img/Corporate events/Corporate Event Ideas.jpeg" alt="Corporate Events & MICE" class="pe-bento-bg"
+            loading="lazy">
+          <div class="pe-bento-overlay"></div>
+          <div class="pe-bento-content">
+            <span class="pe-bento-tag"><i class="fa-solid fa-briefcase"></i> Enterprise</span>
+            <h3 style="font-size: 1.5rem; margin-bottom: 8px;">Corporate &amp; MICE</h3>
+            <p style="color: #D2CDDC; font-size: 0.85rem; margin-bottom: 18px;">
+              Annual galas, CXO leadership summits, product launches, VIP hospitality, and curved LED stages.
+            </p>
+            <a href="corporate-events.html" class="pe-service-link" style="color: #FFFFFF;">
+              Explore Corporate <i class="fa-solid fa-arrow-right text-gold"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================================================================
+       FEATURED EXPERIENCES SECTION
+       ======================================================================== -->
+  <section class="pe-section pe-section-surface">
+    <div class="pe-container">
+      <div style="text-align: center; margin-bottom: 45px;">
+        <span class="section-tagline">Signature Milestones</span>
+        <h2 class="section-title">Curated Event <span class="gold-gradient-text">Experiences</span></h2>
+        <p class="section-subtitle">Tailored productions custom-designed for the distinct rhythm of every occasion.</p>
+      </div>
+
+      <div class="pe-masonry-grid">
+        <!-- Exp 1 -->
+        <div class="pe-masonry-item pe-reveal">
+          <img src="assets/img/hero/A Timeless Wedding Moment_ Love in Every Detail.jpeg" alt="Grand Royal Weddings"
+            loading="lazy">
+          <div class="pe-masonry-overlay"
+            style="opacity: 1; background: linear-gradient(180deg, transparent 30%, rgba(15, 14, 19, 0.95) 100%);">
+            <span class="pe-masonry-tag">Flagship Production</span>
+            <h3 style="font-size: 1.35rem; color: #FFFFFF; margin-top: 4px;">Grand Royal Weddings</h3>
+            <p style="font-size: 0.825rem; color: #D5D0DF; margin: 6px 0 12px 0;">3-Day bespoke wedding celebrations
+              complete with ceremonial decor, royal feasts, and star artists.</p>
+            <a href="wedding-events.html" class="pe-service-link" style="font-size: 0.75rem;">Plan This Experience <i
+                class="fa-solid fa-arrow-right"></i></a>
+          </div>
+        </div>
+
+        <!-- Exp 2 -->
+        <div class="pe-masonry-item pe-reveal pe-delay-1">
+          <img src="assets/img/hero/hero-entertainment.jpg" alt="Sangeet & Cocktail Nights" loading="lazy">
+          <div class="pe-masonry-overlay"
+            style="opacity: 1; background: linear-gradient(180deg, transparent 30%, rgba(15, 14, 19, 0.95) 100%);">
+            <span class="pe-masonry-tag">Musical Extravaganza</span>
+            <h3 style="font-size: 1.35rem; color: #FFFFFF; margin-top: 4px;">Sangeet &amp; Cocktail Galas</h3>
+            <p style="font-size: 0.825rem; color: #D5D0DF; margin: 6px 0 12px 0;">Concert stage production, bespoke bar
+              styling, Punjabi pop singers, and after-party DJs.</p>
+            <a href="artists.html" class="pe-service-link" style="font-size: 0.75rem;">Plan This Experience <i
+                class="fa-solid fa-arrow-right"></i></a>
+          </div>
+        </div>
+
+        <!-- Exp 3 -->
+        <div class="pe-masonry-item pe-reveal pe-delay-2">
+          <img src="assets/img/Photography &amp; Wedding Films/photo-prewedding.jpg" alt="Destination Weddings" loading="lazy">
+          <div class="pe-masonry-overlay"
+            style="opacity: 1; background: linear-gradient(180deg, transparent 30%, rgba(15, 14, 19, 0.95) 100%);">
+            <span class="pe-masonry-tag">Pan-India &amp; Global</span>
+            <h3 style="font-size: 1.35rem; color: #FFFFFF; margin-top: 4px;">Destination Weddings</h3>
+            <p style="font-size: 0.825rem; color: #D5D0DF; margin: 6px 0 12px 0;">Palatial heritage properties in
+              Rajasthan, scenic hills, and tranquil beach retreats with full guest concierge.</p>
+            <a href="contact.html" class="pe-service-link" style="font-size: 0.75rem;">Plan This Experience <i
+                class="fa-solid fa-arrow-right"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================================================================
+       MODERN TESTIMONIAL AUTO-ROTATING SLIDER
+       ======================================================================== -->
+  <section class="pe-section pe-section-dark">
+    <div class="pe-container">
+      <div style="text-align: center; margin-bottom: 36px;">
+        <span class="section-tagline">Client Stories</span>
+        <h2 class="section-title">Words from Our <span class="gold-gradient-text">Honoured Families</span></h2>
+      </div>
+
+      <div class="pe-testimonials-wrap">
+        <!-- Testimonial 1 -->
+        <div class="pe-testimonial-card active">
+          <div class="pe-quote-icon"><i class="fa-solid fa-quote-left"></i></div>
+          <p class="pe-testimonial-quote">
+            "Panchi Entertainment's coordination between the wedding ceremony setup, the mouthwatering Punjabi catering,
+            and the live Punjabi Sufi artist was truly flawless. Our guests are still talking about it."
+          </p>
+          <div class="pe-testimonial-author">Amanpreet &amp; Navdeep Kalsi</div>
+          <div class="pe-testimonial-event">Destination Wedding, Jaipur</div>
+        </div>
+
+        <!-- Testimonial 2 -->
+        <div class="pe-testimonial-card">
+          <div class="pe-quote-icon"><i class="fa-solid fa-quote-left"></i></div>
+          <p class="pe-testimonial-quote">
+            "The live Amritsari kulcha and dal makhani counters received non-stop praises. Combined with the hospitality
+            escort team managing our 400 guests, everything felt like royalty."
+          </p>
+          <div class="pe-testimonial-author">Gurpreet Singh &amp; Simran Kaur</div>
+          <div class="pe-testimonial-event">Grand 3-Day Wedding, Udaipur</div>
+        </div>
+
+        <!-- Testimonial 3 -->
+        <div class="pe-testimonial-card">
+          <div class="pe-quote-icon"><i class="fa-solid fa-quote-left"></i></div>
+          <p class="pe-testimonial-quote">
+            "From curating our celebrity Punjabi singer to capturing timeless candid photographs, Panchi Entertainment
+            delivered on every promise with perfection and utmost warmth."
+          </p>
+          <div class="pe-testimonial-author">Rajesh &amp; Meenakshi Malhotra</div>
+          <div class="pe-testimonial-event">Luxury Sangeet Night, Delhi NCR</div>
+        </div>
+
+        <!-- Rotator Controls -->
+        <div class="pe-slider-nav" style="margin-top: 30px;">
+          <button type="button" class="pe-slider-arrow pe-testi-prev" aria-label="Previous Testimonial"><i
+              class="fa-solid fa-arrow-left"></i></button>
+          <div class="pe-slider-dots">
+            <span class="pe-slider-dot pe-testimonial-dot active" aria-label="Testimonial 1"></span>
+            <span class="pe-slider-dot pe-testimonial-dot" aria-label="Testimonial 2"></span>
+            <span class="pe-slider-dot pe-testimonial-dot" aria-label="Testimonial 3"></span>
+          </div>
+          <button type="button" class="pe-slider-arrow pe-testi-next" aria-label="Next Testimonial"><i
+              class="fa-solid fa-arrow-right"></i></button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================================================================
+       QUICK ENQUIRY SECTION
+       ======================================================================== -->
+  <section class="pe-section pe-section-surface">
+    <div class="pe-container" style="max-width: 880px;">
+      <div style="text-align: center; margin-bottom: 36px;">
+        <span class="section-tagline">Fast Concierge</span>
+        <h2 class="section-title">Send Us Your <span class="gold-gradient-text">Event Enquiry</span></h2>
+        <p class="section-subtitle">Let's discuss how we can bring your event to life with elegance, flavor, and rhythm.
+        </p>
+      </div>
+
+      <div class="pe-form-card pe-reveal">
+        <form class="pe-enquiry-form">
+          <div class="pe-form-grid">
+            <div class="pe-form-group">
+              <label class="pe-form-label">Full Name *</label>
+              <input type="text" name="name" class="pe-form-input" placeholder="Your Name" required>
+            </div>
+            <div class="pe-form-group">
+              <label class="pe-form-label">WhatsApp / Phone *</label>
+              <input type="tel" name="phone" class="pe-form-input" placeholder="+91 78950 40431" required>
+            </div>
+            <div class="pe-form-group">
+              <label class="pe-form-label">Email Address</label>
+              <input type="email" name="email" class="pe-form-input" placeholder="name@email.com">
+            </div>
+            <div class="pe-form-group">
+              <label class="pe-form-label">Event Type</label>
+              <select name="event_type" class="pe-form-select">
+                <option value="Wedding">Wedding</option>
+                <option value="Sangeet & Cocktail">Sangeet &amp; Cocktail</option>
+                <option value="Destination Celebration">Destination Celebration</option>
+                <option value="Corporate Event">Corporate Event</option>
+              </select>
+            </div>
+            <div class="pe-form-group">
+              <label class="pe-form-label">Estimated Guests</label>
+              <select name="guests" class="pe-form-select">
+                <option value="100 - 300">100 - 300 Guests</option>
+                <option value="300 - 600" selected>300 - 600 Guests</option>
+                <option value="600 - 1,200">600 - 1,200 Guests</option>
+                <option value="1,200+">1,200+ Guests</option>
+              </select>
+            </div>
+            <div class="pe-form-group">
+              <label class="pe-form-label">Preferred Service Focus</label>
+              <select name="preferred_service" class="pe-form-select">
+                <option value="All-in-One Full Event Planning">All-in-One Full Event Planning</option>
+                <option value="Wedding Events" selected>Wedding Events</option>
+                <option value="Punjabi Catering">Punjabi Catering</option>
+                <option value="Photography">Photography</option>
+                <option value="Hospitality Services">Hospitality Services</option>
+                <option value="Artists & Singers">Artists &amp; Singers</option>
+              </select>
+            </div>
+            <div class="pe-form-group full-width">
+              <label class="pe-form-label">Event Location &amp; Specific Desires</label>
+              <textarea name="message" class="pe-form-textarea"
+                placeholder="City, target dates, artist preferences, catering style..."></textarea>
+            </div>
+            <div class="pe-form-actions">
+              <button type="submit" class="pe-btn pe-btn-primary pe-shimmer" style="padding: 16px 36px;">
+                <i class="fa-solid fa-paper-plane"></i> Send Enquiry
+              </button>
+              <button type="button" class="pe-btn pe-btn-whatsapp pe-btn-whatsapp-form" style="padding: 16px 28px;">
+                <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
+              </button>
+            </div>
+          </div>
+          <div class="pe-form-success">
+            <i class="fa-solid fa-circle-check fa-lg"></i>
+            <div><strong>Received!</strong> Our team will get back to you shortly.</div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================================================================
+       FINAL CTA
+       ======================================================================== -->
+  <section class="pe-section pe-section-dark">
+    <div class="pe-container">
+      <div class="pe-final-cta pe-reveal">
+        <span class="section-tagline">Direct Concierge</span>
+        <h2 class="pe-cta-title">Let's Create Something <span class="gold-gradient-text">Unforgettable</span></h2>
+        <p class="pe-cta-desc">
+          Tell us about your celebration and we'll help bring the right ceremonies, people, services and experiences
+          together.
+        </p>
+        <div class="pe-cta-buttons">
+          <button type="button" class="pe-btn pe-btn-primary pe-btn-lg pe-shimmer" data-open-modal="enquiry">
+            <i class="fa-solid fa-calendar-check"></i> Plan Your Event
+          </button>
+          <a href="https://wa.me/917895040431" target="_blank" rel="noopener" class="pe-btn pe-btn-whatsapp pe-btn-lg">
+            <i class="fa-brands fa-whatsapp"></i> WhatsApp Us
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================================================================
+       FOOTER
+       ======================================================================== -->
+  <footer class="pe-footer">
+    <div class="pe-container">
+      <div class="pe-footer-grid">
+        <div>
+          <a href="index.html" class="pe-brand-logo" style="margin-bottom: 12px;">
+            <img src="assets/img/header-logo.png" alt="Panchi Logo" class="pe-logo-img">
+          </a>
+          <p class="pe-footer-brand-desc">
+            "Creating memorable celebrations through exceptional wedding events, hospitality, food, photography and
+            entertainment."
+          </p>
+          <div class="pe-social-row">
+            <a href="#" class="pe-social-btn" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+            <a href="#" class="pe-social-btn" aria-label="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+            <a href="#" class="pe-social-btn" aria-label="YouTube"><i class="fa-brands fa-youtube"></i></a>
+          </div>
+        </div>
+
+        <div>
+          <h4 class="pe-footer-col-title">Quick Links</h4>
+          <ul class="pe-footer-links">
+            <li><a href="index.html" class="pe-footer-link">Home (Option 1)</a></li>
+            <li><a href="home-modern.html" class="pe-footer-link active">Home (Option 2)</a></li>
+            <li><a href="about.html" class="pe-footer-link">About Us</a></li>
+            <li><a href="contact.html" class="pe-footer-link">Contact</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 class="pe-footer-col-title">Services</h4>
+          <ul class="pe-footer-links">
+            <li><a href="wedding-events.html" class="pe-footer-link">Wedding Events</a></li>
+            <li><a href="catering.html" class="pe-footer-link">Punjabi Catering</a></li>
+            <li><a href="photography.html" class="pe-footer-link">Photography &amp; Films</a></li>
+            <li><a href="hospitality.html" class="pe-footer-link">Hospitality Services</a></li>
+            <li><a href="artists.html" class="pe-footer-link">Artists &amp; Singers</a></li>
+            <li><a href="sfx-fireworks.html" class="pe-footer-link">SFX &amp; Fireworks</a></li>
+            <li><a href="barat-and-decor.html" class="pe-footer-link">Baraat &amp; Decor</a></li>
+            <li><a href="corporate-events.html" class="pe-footer-link">Corporate Events</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 class="pe-footer-col-title">Contact</h4>
+          <ul class="pe-footer-links">
+            <li>
+              <a href="https://wa.me/917895040431" target="_blank" rel="noopener" class="pe-footer-link"
+                style="color: #25D366; font-weight: 600;">
+                <i class="fa-brands fa-whatsapp"></i> WhatsApp: +91 78950 40431
+              </a>
+            </li>
+            <li><a href="tel:+917895040431" class="pe-footer-link"><i class="fa-solid fa-phone"></i> +91 78950 40431</a>
+            </li>
+            <li><a href="mailto:info@panchientertainment.com" class="pe-footer-link"><i
+                  class="fa-solid fa-envelope"></i> info@panchientertainment.com</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="pe-footer-bottom">
+        <div>&copy; Panchi Entertainment. All Rights Reserved.</div>
+        <div>Weddings &bull; Hospitality &bull; Catering &bull; SFX &bull; Corporate MICE &bull; Entertainment</div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Floating WhatsApp -->
+  <a href="https://wa.me/917895040431" target="_blank" rel="noopener" class="pe-floating-whatsapp pe-pulse-ring"
+    aria-label="Chat with Panchi Entertainment on WhatsApp">
+    <span class="pe-wa-icon-pulse"><i class="fa-brands fa-whatsapp"></i></span>
+    <span class="pe-wa-label">Chat with Us</span>
+  </a>
+
+  <!-- Universal Modal -->
+  <div class="pe-modal-backdrop" id="enquiryModal" role="dialog" aria-modal="true">
+    <div class="pe-modal-container">
+      <div class="pe-modal-header">
+        <div>
+          <span class="section-tagline" style="margin-bottom: 4px; font-size: 0.75rem;">Direct Concierge</span>
+          <h3 style="font-size: 1.4rem; color: #FFFFFF;">Plan Your Celebration</h3>
+        </div>
+        <button type="button" class="pe-modal-close" aria-label="Close modal"><i class="fa-solid fa-xmark"></i></button>
+      </div>
+      <div class="pe-modal-body">
+        <form class="pe-enquiry-form">
+          <div class="pe-form-grid">
+            <div class="pe-form-group">
+              <label class="pe-form-label">Full Name *</label>
+              <input type="text" name="name" class="pe-form-input" placeholder="Your name" required>
+            </div>
+            <div class="pe-form-group">
+              <label class="pe-form-label">Phone / WhatsApp *</label>
+              <input type="tel" name="phone" class="pe-form-input" placeholder="+91 78950 40431" required>
+            </div>
+            <div class="pe-form-group">
+              <label class="pe-form-label">Email</label>
+              <input type="email" name="email" class="pe-form-input" placeholder="email@domain.com">
+            </div>
+            <div class="pe-form-group">
+              <label class="pe-form-label">Preferred Service</label>
+              <select name="preferred_service" class="pe-form-select">
+                <option value="Wedding Events" selected>Wedding Events</option>
+                <option value="All-in-One Full Event Planning">All-in-One Full Event Planning</option>
+                <option value="Punjabi &amp; Indian Catering">Punjabi &amp; Indian Catering</option>
+                <option value="Photography &amp; Cinema">Photography &amp; Cinema</option>
+                <option value="Hospitality &amp; Logistics">Hospitality &amp; Logistics</option>
+                <option value="Artists &amp; Live Singers">Artists &amp; Live Singers</option>
+                <option value="Bright Night SFX & Fireworks">Bright Night SFX &amp; Fireworks</option>
+                <option value="Baraat &amp; Decor">Royal Baraat &amp; Decor</option>
+                <option value="Corporate Events">Corporate Events &amp; MICE</option>
+              </select>
+            </div>
+            <div class="pe-form-group full-width">
+              <label class="pe-form-label">Message / Details</label>
+              <textarea name="message" class="pe-form-textarea"
+                placeholder="Tell us your celebration dates, vision, and questions..."></textarea>
+            </div>
+            <div class="pe-form-actions">
+              <button type="submit" class="pe-btn pe-btn-primary pe-shimmer"><i class="fa-solid fa-paper-plane"></i>
+                Send Enquiry</button>
+              <button type="button" class="pe-btn pe-btn-whatsapp pe-btn-whatsapp-form"><i
+                  class="fa-brands fa-whatsapp"></i> Chat on WhatsApp</button>
+            </div>
+          </div>
+          <div class="pe-form-success">
+            <i class="fa-solid fa-circle-check fa-lg"></i>
+            <div><strong>Thank you!</strong> We will contact you shortly.</div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/sliders.js"></script>
+</body>
+
+</html>
